@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Configuraci\xf3 de ruta",searchSettings:"Configuraci\xf3 de cerca",generalSettings:"Configuraci\xf3 general",routeUrl:"URL de la ruta",outputStops:"Parades",outputRoute:"Ruta",outputDirectionPoints:"Punts d'indicaci\xf3",outputDirectionLines:"L\xednies d'indicaci\xf3"})}}}));

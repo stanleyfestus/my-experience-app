@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Route-instellingen",searchSettings:"Zoekinstellingen",generalSettings:"Algemene instellingen",routeUrl:"Route-URL",outputStops:"Stops",outputRoute:"Route",outputDirectionPoints:"Richtingspunten",outputDirectionLines:"Richtingslijnen"})}}}));

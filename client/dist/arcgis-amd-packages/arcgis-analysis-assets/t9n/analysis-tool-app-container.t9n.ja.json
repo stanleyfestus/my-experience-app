@@ -1,0 +1,20 @@
+{
+  "backLabel": "戻る",
+  "cannotReopenTool": "ツールを再開できませんでした。 ツール パラメーターがデフォルトに変更されました。",
+  "cannotReopenWebTool": "Web ツールを開けません。 <calcite-link target='_blank' href='${ docLink }'>詳細</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "キャンセル",
+    "confirmationPrompt": "解析パラメーターを更新せずに続行しますか？",
+    "continueRun": "続行",
+    "creditEstimate": "推定クレジット: ${cost}",
+    "creditReductionHint": "<em>解析のクレジット数を減らすには、フィルターを追加するか、解析環境を使用して処理範囲を設定することを検討してください。</em> <calcite-link target='_blank' href='${ docLink }'>詳細</calcite-link>",
+    "creditThreshold": "クレジットの閾値: ${threshold}",
+    "heading": "クレジットの閾値に達しました",
+    "learnMore": "詳細",
+    "thresholdExceeded": "この解析の推定コストは、クレジットの閾値より大きいです。"
+  },
+  "failedToExecuteEstimate": "送信に失敗しました。 EstimateRasterAnalysisCost を実行できませんでした",
+  "missingPermissionForWebTool": "このツールにアクセスできません。 ツールが存在することと、ユーザーにアクセスする権限があることを確認してください。",
+  "runAnalysisLabel": "実行",
+  "webToolJSONChanged": "1 つ以上のパラメーターが更新されました。 一部のパラメーターは、履歴から再設定できません。"
+}

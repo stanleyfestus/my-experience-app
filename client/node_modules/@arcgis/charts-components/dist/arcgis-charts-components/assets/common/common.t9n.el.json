@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Μέσος όρος",
+    "median": "Διάμεσο",
+    "sum": "Άθροισμα",
+    "discretePercentile": "Διακριτό ποσοστημόριο",
+    "minimum": "Ελάχιστο",
+    "maximum": "Μέγιστο",
+    "firstQuartile": "Πρώτο τεταρτημόριο",
+    "thirdQuartile": "Τρίτο τεταρτημόριο",
+    "iqr": "IQR",
+    "standardDeviation": "Τυπική απόκλιση",
+    "variance": "Διακύμανση",
+    "count": "Συνολικός αριθμός",
+    "aggregation": "${ statistics } από ${ fieldName }",
+    "percent": "Ποσοστό",
+    "noAggregation": "Δεν υπάρχει συνάθροιση",
+    "meanValue": "Μέση τιμή"
+  },
+  "overlays": {
+    "mean": "Μέσος όρος",
+    "median": "Διάμεσο",
+    "stdDev": "Τυπική απόκλιση",
+    "normal": "Κανονική κατανομή",
+    "trendline": "Γραμμή τάσης"
+  },
+  "guideTooltipLabel": "Από ${ guideStart } έως ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Άλλο"
+  },
+  "notAvailable": "Μη διαθέσιμο",
+  "field": "Πεδίο"
+}

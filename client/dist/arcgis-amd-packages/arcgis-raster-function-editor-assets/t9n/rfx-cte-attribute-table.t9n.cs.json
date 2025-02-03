@@ -1,0 +1,17 @@
+{
+  "value": "Hodnota",
+  "classname": "ClassName",
+  "color": "Barva",
+  "raster": "Rastr",
+  "tableType": "Typ tabulky",
+  "manual": "Manuální",
+  "external": "Externí",
+  "browseTable": "Procházet tabulku",
+  "unsupportedDataType": "Nepodporovaný typ",
+  "generate": "Generovat tabulku",
+  "minValue": "Minimální hodnota",
+  "maxValue": "Maximální hodnota",
+  "classBaseName": "Základní název třídy",
+  "colorscheme": "Barevné schéma",
+  "defaultClassName": "Popisek_"
+}

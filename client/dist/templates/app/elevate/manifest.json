@@ -1,0 +1,18 @@
+{
+  "name": "elevate",
+  "type": "template",
+  "templateType": "app",
+  "label": "Elevate",
+  "description": "Elevate is a multi-page template created to enhance your content and deliver an unforgettable user experience. Its uncomplicated design and easy-to-navigate structure make it an excellent choice for storytelling.",
+  "thumbnail": "thumbnail.png",
+  "order": 57,
+  "templateCreateVersion": "1.12.0",
+  "tags": [
+    "Website",
+    "Multipage"
+  ],
+  "isMultiplePage": true,
+  "isMapAware": false,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

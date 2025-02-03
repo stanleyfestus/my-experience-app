@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Procurar templates de função raster",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "OutputRaster",
+  "readingFailed": "Falha ao carregar o modelo de funcionamento de raster selecionado."
+}

@@ -1,0 +1,20 @@
+{
+  "hosted": "isännöity",
+  "hostedView": "isännöity, näkymä",
+  "hostedPhotos": "isännöidyt, valokuvat",
+  "hostedCollection": "isännöity, kokoelma",
+  "hostedMultidimensional": "isännöity, moniulotteinen",
+  "hostedCollectionMultidimensional": "isännöity, kokoelma, moniulotteinen",
+  "collectionMultidimensional": "kokoelma, moniulotteinen",
+  "multidimensional": "moniulotteinen",
+  "collection": "kokoelma",
+  "photoLocations": "valokuvat",
+  "locatorView": "näkymä",
+  "utilityNetwork": "jakeluverkko",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

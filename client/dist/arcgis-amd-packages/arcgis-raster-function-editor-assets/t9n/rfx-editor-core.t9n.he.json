@@ -1,0 +1,12 @@
+{
+  "addRaster": "הוסף משתנה רסטר",
+  "addScalar": "הוסף קבוע",
+  "raster": "רסטר",
+  "scalar": "Scalar",
+  "defaultModelName": "‏‫תבניות פונקציית רסטר",
+  "defaultRasterName": "רסטר",
+  "invalidRFTMessage": "התבנית של פונקציית הרסטר אינה תקינה.",
+  "deprecated": "מופחת",
+  "deprecatedHoverText": "פונקציית רסטר זו הוצאה מכלל משימוש והיא תוסר במהדורות עתידיות.",
+  "userStartDirection": " בחר פונקציה כדי להתחיל ביצירה של תבנית פונקציית הרסטר."
+}

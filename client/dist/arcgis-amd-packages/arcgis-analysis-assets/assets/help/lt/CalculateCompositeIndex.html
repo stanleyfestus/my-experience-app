@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>Įrankis Skaičiuoti sudėtinių reik&scaron;mių indeksą sujungia kelis skaitinius kintamuosius, kad būtų sukurtas vienas indeksas.
+    </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="inputLayer">
+        <div>
+            <p>Lentelė ar elementai, apimantys kintamuosius, kurie bus sujungiami į indeksą.
+            </p>
+        </div>
+    </div>
+    <div id="inputVariables">
+        <div>
+            <p>Laukai, apimantys kintamuosius, kurie bus sujungiami, kad būtų sukurtas indeksas.  <b>Atvirk&scaron;tinė kryptis</b> nurodo, ar kintamųjų reik&scaron;mės bus atvirk&scaron;tinės. <b>Vertė</b> yra kiekvieno kintamojo santykinis poveikis indeksui.
+            </p>
+        </div>
+    </div>
+    <div id="indexMethod">
+        <div>
+            <p>Nurodo metodą, kuris bus naudojamas įvesties kintamiesiems apskaičiuoti ir ir apskaičiuotiems kintamiesiems sujungti, kad būtų sukurtas indeksas.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexReverse">
+        <div>
+            <p>Nurodo, ar i&scaron;vesties indekso reik&scaron;mių kryptis bus atvirk&scaron;tinė. Jei pažymėta, didelės reik&scaron;mės bus laikomos mažomis indekso reik&scaron;mėmis ir atvirk&scaron;čiai.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexMinMax">
+        <div>
+            <p>I&scaron;vesties indekso minimalios ir maksimalios reik&scaron;mės.
+            </p>
+        </div>
+    </div>
+    <div id="outputName">
+        <div>
+            <p>Sluoksnio, kuris bus sukurtas ir pridėtas į žemėlapį, pavadinimas.
+            </p>
+        </div>
+    </div>
+    <div id="saveResultIn">
+        <div>
+            <p>Puslapyje  <b>Mano turinys</b> esančio aplanko, kur bus įra&scaron;ytas rezultatas, pavadinimas.
+            </p>
+        </div>
+    </div>
+</div>
+</html>

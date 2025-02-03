@@ -1,0 +1,18 @@
+{
+  "backLabel": "Geri",
+  "browseHeader": "Katman seç",
+  "cannotReopenRasterFunction": "Raster fonksiyonu tekrar açılamadı.",
+  "creditThresholdModal": {
+    "cancelRun": "İptal",
+    "confirmationPrompt": "Analiz parametrelerini güncellemeden devam etmek ister misiniz?",
+    "continueRun": "Devam Et",
+    "creditEstimate": "Tahmini krediler: ${cost}",
+    "creditReductionHint": "<em>Analizin kredi sayısını azaltmak için bir işlem yayılımı ayarlamak amacıyla, bir filtre eklemeyi veya analiz ortamlarını kullanmayı düşünün.</em> <calcite-link target='_blank' href='${ docLink }'>Daha fazla bilgi</calcite-link>",
+    "creditThreshold": "Kredi eşiği: ${threshold}",
+    "heading": "Kredi eşiğine ulaşıldı",
+    "learnMore": "Daha fazla bilgi",
+    "thresholdExceeded": "Bu analizin tahmini maliyeti, kredi eşiğinizden daha yüksek."
+  },
+  "failedToExecuteEstimate": "Gönderim başarısız oldu. EstimateRasterAnalysisCost yürütülemedi",
+  "runAnalysisLabel": "Çalıştır"
+}

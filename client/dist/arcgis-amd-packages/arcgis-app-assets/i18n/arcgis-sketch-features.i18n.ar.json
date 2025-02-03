@@ -1,0 +1,18 @@
+{
+  "sketches": "معالم المخطط",
+  "actions": "إجراءات",
+  "edit": "تحرير",
+  "duplicate": "تكرار",
+  "featureDuplicated": "تم استنساخ المعلم المحدد بنجاح.",
+  "featuresDuplicated": "تم استنساخ المعالم المحددة بنجاح.",
+  "copyToNewSketchLayer": "نسخ إلى طبقة المخطط الجديدة",
+  "delete": "حذف",
+  "addSketch": "إضافة معلم",
+  "textPreview": "أ",
+  "point": "نقطة",
+  "line": "الخط",
+  "polygon": "مضلع",
+  "text": "النص",
+  "collapse": "طي",
+  "expand": "توسيع"
+}

@@ -1,0 +1,17 @@
+{
+  "value": "ค่า",
+  "classname": "ClassName",
+  "color": "สี",
+  "raster": "แรสเตอร์",
+  "tableType": "ประเภทตาราง",
+  "manual": "คู่มือ",
+  "external": "ภายนอก",
+  "browseTable": "เรียกดูตาราง",
+  "unsupportedDataType": "ประเภทที่ไม่รองรับ",
+  "generate": "สร้างตาราง",
+  "minValue": "ค่าน้อยสุด",
+  "maxValue": "ค่ามากสุด",
+  "classBaseName": "ชื่อฐานคลาส",
+  "colorscheme": "โครงร่างสี",
+  "defaultClassName": "Label_"
+}

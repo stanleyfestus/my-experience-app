@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"U ovom su podru\u010dju navedeni widgeti koji su konfigurirani, ali se ne nalaze na trenuta\u010dnom platnu. Oni mo\u017eda postoje u drugim na\u010dinima ure\u0111aja.",element:"Umetni widget",pending:"U tijeku",widgetHelpIconLabel:"O ovom widgetu",widgetGuideStart:"Krenite na obilazak"})}}}));

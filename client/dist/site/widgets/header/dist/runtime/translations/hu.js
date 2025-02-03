@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"\xdaj l\xe9trehoz\xe1sa",newExperience:"\xdaj \xe9lm\xe9ny",experiences:"\xc9lm\xe9nyek",templates:"Sablonok",developerEdition:"Fejleszt\u0151i kiad\xe1s"})}}}));

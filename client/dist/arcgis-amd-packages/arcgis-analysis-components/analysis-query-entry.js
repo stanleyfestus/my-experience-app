@@ -1,0 +1,1 @@
+define(["exports","./analysis-query-entry2-6efeefcb","./index-60d8a971","./t9n-c044c603"],(function(e,n,t,s){"use strict";const i=n.AnalysisQueryEntry,r=n.defineCustomElement;e.AnalysisQueryEntry=i,e.defineCustomElement=r,Object.defineProperty(e,"__esModule",{value:!0})}));

@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Átlag",
+    "median": "Medián",
+    "sum": "Összeg",
+    "discretePercentile": "Diszkrét percentilis",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "firstQuartile": "Első kvartilis",
+    "thirdQuartile": "Harmadik kvartilis",
+    "iqr": "IQR",
+    "standardDeviation": "Szórás",
+    "variance": "Eltérés",
+    "count": "Darabszám",
+    "aggregation": "${ statistics }/${ fieldName }",
+    "percent": "Százalék",
+    "noAggregation": "Nincs összevonás",
+    "meanValue": "Átlagérték"
+  },
+  "overlays": {
+    "mean": "Átlag",
+    "median": "Medián",
+    "stdDev": "Szabványos szórás",
+    "normal": "Normális eloszlás",
+    "trendline": "Trendvonal"
+  },
+  "guideTooltipLabel": "Ettől eddig: ${ guideStart } – ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Egyéb"
+  },
+  "notAvailable": "Nem érhető el",
+  "field": "Mező"
+}

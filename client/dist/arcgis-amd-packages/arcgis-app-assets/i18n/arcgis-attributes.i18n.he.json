@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "שדות",
+  "filterAttributes": "שדות חיפוש",
+  "selected": "נבחר",
+  "integer": "Integer",
+  "number": "מספר",
+  "string": "מחרוזת",
+  "date": "תאריך",
+  "dataType": "סוג נתונים",
+  "matching": "התאמה",
+  "selectAll": "בחר הכל",
+  "deselectAll": "הסר בחירה מהכל",
+  "displayName": "שם תצוגה",
+  "type": "סוג",
+  "default": "ברירת מחדל",
+  "fieldName": "שם שדה",
+  "sort": "מיין",
+  "filter": "סנן",
+  "filterDataType": "סנן לפי סוג נתונים",
+  "filterFieldName": "סנן לפי שם שדה",
+  "addField": "הוסף שדה"
+}

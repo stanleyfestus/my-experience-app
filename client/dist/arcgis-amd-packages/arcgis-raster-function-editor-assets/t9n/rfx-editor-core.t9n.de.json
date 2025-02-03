@@ -1,0 +1,12 @@
+{
+  "addRaster": "Raster-Variable hinzufügen",
+  "addScalar": "Konstante hinzufügen",
+  "raster": "Raster",
+  "scalar": "Skalar",
+  "defaultModelName": "Raster-Funktionsvorlage",
+  "defaultRasterName": "Raster",
+  "invalidRFTMessage": "Die Raster-Funktionsvorlage ist ungültig.",
+  "deprecated": "Veraltet",
+  "deprecatedHoverText": "Diese Raster-Funktion wurde als veraltet eingestuft und wird in einer zukünftigen Version entfernt.",
+  "userStartDirection": "Wählen Sie eine Funktion aus, um mit der Erstellung einer Raster-Funktionsvorlage zu beginnen."
+}

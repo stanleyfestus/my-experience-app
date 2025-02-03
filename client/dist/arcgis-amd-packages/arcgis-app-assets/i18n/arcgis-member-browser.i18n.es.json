@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "Filtros",
+    "pageRange": "${start}-${end}, total: ${total}",
+    "pageRangeAria": "${start}-${end}total de miembros: ${total}",
+    "selectedMembers": "Miembros seleccionados",
+    "noSelectedMembers": "En la actualidad no hay miembros seleccionados",
+    "noUsersFound": "No se ha encontrado ningún usuario que cumpliera sus criterios. Pruebe a borrar algún filtro o a cambiar los términos de búsqueda para mostrar más usuarios.",
+    "enterTermExternal": "Introducir un término de búsqueda para encontrar usuarios en todo ArcGIS Online",
+    "noUsers": "No hay usuarios disponibles",
+    "coordinator": "Coordinador de colaboración"
+  },
+  "search": {
+    "searchMembers": "Buscar miembros"
+  },
+  "filterUserTypes": {
+    "title": "Tipo de usuario",
+    "label": "Tipo de usuario: ${name}",
+    "loading": "Cargando tipos de usuarios..."
+  },
+  "filterRoles": {
+    "title": "Rol",
+    "label": "Rol: ${name}",
+    "loading": "Cargando roles...",
+    "searchRoles": "Buscar roles"
+  },
+  "filterOrgGroups": {
+    "title": "Grupos de la organización",
+    "label": "Grupo: ${name}",
+    "loading": "Cargando grupos de la organización...",
+    "searchGroups": "Buscar grupos"
+  },
+  "filterMyGroups": {
+    "title": "Mis grupos",
+    "label": "Grupo: ${name}",
+    "loading": "Cargando mis grupos…",
+    "searchMyGroups": "Buscar en mis grupos"
+  },
+  "filterCategories": {
+    "title": "Categorías",
+    "label": "Categoría: ${name}",
+    "loading": "Cargando categorías...",
+    "noCategoriesTitle": "Aún sin categorías",
+    "noCategories": "Las categorías permiten a los miembros organizar los elementos de manera uniforme y les ofrecen una forma sencilla de buscar contenido en la organización.",
+    "setupCategories": "Definir categorías de miembros",
+    "configureCategories": "Configurar categorías",
+    "noCategoriesAssigned": "No hay categorías asignadas"
+  },
+  "filterPartnerCollabs": {
+    "title": "Colaboraciones asociadas",
+    "label": "Colaboraciones asociadas: ${name}",
+    "loading": "Cargando colaboraciones asociadas...",
+    "coordinatorsOnly": "Solo coordinadores de colaboración",
+    "coordinatorsDescription": "Los coordinadores de colaboración son representantes de colaboraciones asociadas que se pueden agregar a un grupo sin necesidad de confirmación.",
+    "coordinatorsInfoLabel": "Más información sobre los coordinadores de colaboración"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "Buscar en todos los miembros de la organización de ArcGIS Online",
+    "searchPartners": "Invitar a este y a miembros de organizaciones asociadas"
+  },
+  "table": {
+    "caption": "Los resultados de los miembros, los encabezados de columna con botones, se pueden ordenar.",
+    "selectAll": "Seleccionar todo",
+    "selection": "Selección",
+    "headers": {
+      "name": "Nombre",
+      "membertype": "Rol de grupo",
+      "affiliation": "Afiliación",
+      "joined": "Unido",
+      "credits": "Créditos restantes",
+      "lastlogin": "Último inicio de sesión",
+      "usertype": "Tipo de usuario",
+      "role": "Rol"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "Más opciones",
+    "groupManager": "Administrador de grupos",
+    "owner": "Propietario",
+    "member": "Miembro",
+    "myOrg": "Mi organización",
+    "other": "Otro",
+    "coordinator": "Coordinador de colaboración",
+    "noLimit": "Sin límite",
+    "creditsNumber": "${remain} de ${total}",
+    "today": "Hoy",
+    "yesterday": "Ayer",
+    "never": "Nunca"
+  },
+  "myOrg": {
+    "myOrgView": "Vista Mi organización"
+  },
+  "filterGroupRole": {
+    "title": "Rol de grupo",
+    "label": "Rol de grupo: ${role}",
+    "admins": "Propietario y administradores de grupos",
+    "member": "Miembro"
+  },
+  "filterAffiliation": {
+    "title": "Afiliación",
+    "label": "Afiliación: ${name}",
+    "myOrg": "Mi organización",
+    "other": "Otro"
+  },
+  "filterCreditsRemain": {
+    "title": "Créditos restantes",
+    "noLimit": "Sin límite",
+    "lessThan": "Menor que",
+    "credits": "Créditos",
+    "labelNoLimit": "Créditos: sin límite",
+    "labelLess": "Créditos: menos de ${value}",
+    "invalidValue": "El valor introducido no es válido."
+  },
+  "filterEmailVerification": {
+    "title": "Estado de verificación del correo electrónico",
+    "unverified": "Direcciones de correo electrónico no verificadas",
+    "verified": "Direcciones de correo electrónico verificadas",
+    "label": "Estado de verificación de correo electrónico: ${status}"
+  },
+  "filterLoginType": {
+    "title": "Tipo de inicio de sesión",
+    "label": "Tipo de inicio de sesión: ${type}",
+    "social": "Redes sociales"
+  },
+  "filterApp": {
+    "title": "Aplicación",
+    "label": "Aplicación: ${app}"
+  },
+  "filterMFA": {
+    "title": "Autenticación multifactor",
+    "enabled": "Habilitado",
+    "disabled": "Deshabilitado",
+    "label": "Autenticación multifactor: ${status}"
+  },
+  "roles": {
+    "user": "Usuario",
+    "publisher": "Publicador",
+    "admin": "Administrador",
+    "viewer": "Visor",
+    "editor": "Editor de datos",
+    "facilitator": "Moderador"
+  }
+}

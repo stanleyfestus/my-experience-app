@@ -1,0 +1,22 @@
+{
+  "cancel": "取消",
+  "reset": "重置",
+  "resetting": "正在重置...",
+  "save": "保存",
+  "saving": "正在保存...",
+  "itemClassificationCategoryLabel": "项目分类类别标注",
+  "itemClassificationEditLabel": "编辑分类",
+  "itemClassificationValidateError": "验证失败，将不会填充项目分类值! 请进行编辑并保存一个新项目。",
+  "classificationValueSaved": "已保存分类值",
+  "classificationNotificationHandler": "分类通知处理程序",
+  "openModal": "打开模式",
+  "currentSelections": "当前选择内容",
+  "fieldSelectionError": "此字段为必填字段。",
+  "selectAnOption": "选择选项",
+  "selectOptions": "选择选项",
+  "singleSelectionLabel": "单选下拉菜单",
+  "multipleSelectionLabel": "多选下拉菜单",
+  "singleAttributeError": "内容必须指定一个 ${attributeName}。 检查您的选择。",
+  "multipleAttributeErrors": "内容必须指定一个 ${attributeString} 和 ${lastAttributeName}。 检查您的选择。",
+  "classificationSectionLabel": "分类"
+}

@@ -1,0 +1,18 @@
+{
+  "sketches": "Обекти за скициране",
+  "actions": "Действия",
+  "edit": "Редактиране",
+  "duplicate": "Дублиране",
+  "featureDuplicated": "Успешно дублиране на избрания обект.",
+  "featuresDuplicated": "Успешно дублиране на избраните обекти.",
+  "copyToNewSketchLayer": "Копирайте в нов слой със скица",
+  "delete": "Изтриване",
+  "addSketch": "Добавяне на обект",
+  "textPreview": "А",
+  "point": "Точка",
+  "line": "Линия",
+  "polygon": "Полигон",
+  "text": "Текст",
+  "collapse": "Сгъване",
+  "expand": "Разгъване"
+}

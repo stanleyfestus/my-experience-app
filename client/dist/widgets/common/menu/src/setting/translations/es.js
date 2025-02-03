@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({subMenuExpandMode:"Modo de expansi\xf3n de submen\xfa",mainMenu:"Men\xfa principal",subMenu:"Submen\xfa"})}}}));

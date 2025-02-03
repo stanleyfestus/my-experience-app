@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"T\xe9ma",customTheme:"Testreszab\xe1s",resetTheme:"Alaphelyzetbe \xe1ll\xedt\xe1s",backToMainThemePanel:"H\xe1ts\xf3",customPaletteTitle:"Paletta sz\xedneinek testreszab\xe1s",customFontsetTitle:"Bet\u0171k\xe9szlet testreszab\xe1sa",customAppElementsTitle:"Alkalmaz\xe1selemek"})}}}));

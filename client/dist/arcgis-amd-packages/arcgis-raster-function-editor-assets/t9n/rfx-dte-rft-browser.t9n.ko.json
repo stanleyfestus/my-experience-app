@@ -1,0 +1,6 @@
+{
+  "browseRFT": "래스터 함수 템플릿 찾아보기",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "OutputRaster",
+  "readingFailed": "선택한 래스터 함수 템플릿 불러오기에 실패했습니다."
+}

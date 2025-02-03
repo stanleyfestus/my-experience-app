@@ -1,0 +1,12 @@
+{
+  "addRaster": "Rastervariabele toevoegen",
+  "addScalar": "Constante toevoegen",
+  "raster": "Raster",
+  "scalar": "Scalair",
+  "defaultModelName": "Template rasterfunctie",
+  "defaultRasterName": "Raster",
+  "invalidRFTMessage": "De rasterfunctiesjabloon is ongeldig.",
+  "deprecated": "Verouderd",
+  "deprecatedHoverText": "Deze rasterfunctie is verouderd en zal in een toekomstige release worden verwijderd.",
+  "userStartDirection": "Selecteer een functie om een rasterfunctietemplate te maken."
+}

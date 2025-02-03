@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "Filteri",
+    "pageRange": "${start}-${end}, ukupno: ${total}",
+    "pageRangeAria": "${start}-${end}, ukupno članova: ${total}",
+    "selectedMembers": "Izabrani članovi",
+    "noSelectedMembers": "Trenutno nema odabranih članova",
+    "noUsersFound": "Nije pronađen nijedan korisnik koji ispunjava vaš kriterijum. Obrišite neke filtere ili promenite pretragu da biste prikazali više korisnika.",
+    "enterTermExternal": "Unesite pojam za pretragu da biste pronašli korisnike širom cele platforme ArcGIS Online",
+    "noUsers": "Nema dostupnih korisnika",
+    "coordinator": "Koordinator za saradnju"
+  },
+  "search": {
+    "searchMembers": "Pretraži članove"
+  },
+  "filterUserTypes": {
+    "title": "Tip korisnika",
+    "label": "Tip korisnika: ${name}",
+    "loading": "Učitavanje tipova korisnika..."
+  },
+  "filterRoles": {
+    "title": "Uloga",
+    "label": "Uloga: ${name}",
+    "loading": "Učitavanje uloga...",
+    "searchRoles": "Pretraga uloga"
+  },
+  "filterOrgGroups": {
+    "title": "Grupe organizacije",
+    "label": "Grupa: ${name}",
+    "loading": "Učitavanje grupa organizacije...",
+    "searchGroups": "Pretraži grupe"
+  },
+  "filterMyGroups": {
+    "title": "Moje grupe",
+    "label": "Grupa: ${name}",
+    "loading": "Učitavanje mojih grupa…",
+    "searchMyGroups": "Pretraži moje grupe"
+  },
+  "filterCategories": {
+    "title": "Kategorije",
+    "label": "Kategorija: ${name}",
+    "loading": "Učitavanje kategorija...",
+    "noCategoriesTitle": "Još nema kategorija",
+    "noCategories": "Kategorije omogućavaju članovima da organizuju stavke konzistentno i da stvore jednostavan način za pregledanje sadržaja u organizaciji.",
+    "setupCategories": "Podešavanje kategorije članova",
+    "configureCategories": "Konfiguriši kategorije",
+    "noCategoriesAssigned": "Nema dodeljenih kategorija"
+  },
+  "filterPartnerCollabs": {
+    "title": "Partnerske kolaboracije",
+    "label": "Partnerske kolaboracije: ${name}",
+    "loading": "Učitavanje partnerske kolaboracije",
+    "coordinatorsOnly": "Samo koordinatori za kolaboraciju",
+    "coordinatorsDescription": "Koordinatori za kolaboraciju su predstavnici partnerskih kolaboracija koji mogu da se dodaju u grupu, bez zahtevanja potvrde.",
+    "coordinatorsInfoLabel": "Više informacija o koordinatorima saradnje"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "Pretraži sve članove u ArcGIS Online organizaciji",
+    "searchPartners": "Uključi članove ove i partnerskih organizacija"
+  },
+  "table": {
+    "caption": "Rezultati članova, zaglavlja kolona sa dugmadima se mogu sortirati.",
+    "selectAll": "Izaberi sve",
+    "selection": "Selekcija",
+    "headers": {
+      "name": "Naziv",
+      "membertype": "Uloga u grupi",
+      "affiliation": "Pripadnost",
+      "joined": "Pridružen",
+      "credits": "Preostalo kredita",
+      "lastlogin": "Poslednje prijavljivanje",
+      "usertype": "Tip korisnika",
+      "role": "Uloga"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "Više opcija",
+    "groupManager": "Upravljač grupe",
+    "owner": "Vlasnik",
+    "member": "Član",
+    "myOrg": "Moja organizacija",
+    "other": "Ostalo",
+    "coordinator": "Koordinator za saradnju",
+    "noLimit": "Bez ograničenja",
+    "creditsNumber": "${remain} od ${total}",
+    "today": "Danas",
+    "yesterday": "Juče",
+    "never": "Nikada"
+  },
+  "myOrg": {
+    "myOrgView": "Prikaz moje organizacije"
+  },
+  "filterGroupRole": {
+    "title": "Uloga u grupi",
+    "label": "Grupna uloga: ${role}",
+    "admins": "Vlasnik i upravljači grupom",
+    "member": "Član"
+  },
+  "filterAffiliation": {
+    "title": "Pripadnost",
+    "label": "Pripadnost: ${name}",
+    "myOrg": "Moja organizacija",
+    "other": "Ostalo"
+  },
+  "filterCreditsRemain": {
+    "title": "Preostalo kredita",
+    "noLimit": "Bez ograničenja",
+    "lessThan": "Manje od",
+    "credits": "Krediti",
+    "labelNoLimit": "Krediti: Bez ograničenja",
+    "labelLess": "Krediti: Manje od ${value}",
+    "invalidValue": "Uneta vrednost nije validna."
+  },
+  "filterEmailVerification": {
+    "title": "Status verifikacije e-pošte",
+    "unverified": "Neverifikovane adrese e-pošte",
+    "verified": "Verifikovane adrese e-pošte",
+    "label": "Status verifikacije e-pošte: ${status}"
+  },
+  "filterLoginType": {
+    "title": "Vrsta prijave",
+    "label": "Tip prijave: ${type}",
+    "social": "Društveni mediji"
+  },
+  "filterApp": {
+    "title": "Aplikacija",
+    "label": "Aplikacija: ${app}"
+  },
+  "filterMFA": {
+    "title": "Višefaktorna potvrda identiteta",
+    "enabled": "Omogućeno",
+    "disabled": "Onemogućeno",
+    "label": "Višefaktorna potvrda identiteta: ${status}"
+  },
+  "roles": {
+    "user": "Korisnik",
+    "publisher": "Objavljivač",
+    "admin": "Administrator",
+    "viewer": "Pregledač",
+    "editor": "Uređivač podataka",
+    "facilitator": "Facilitator"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "backLabel": "Atgal",
+  "browseHeader": "Pasirinkite sluoksnį",
+  "cannotReopenRasterFunction": "Rastrų funkcijos negalima atidaryti dar kartą.",
+  "creditThresholdModal": {
+    "cancelRun": "Atšaukti",
+    "confirmationPrompt": "Ar norite tęsti neatnaujinę analizės parametrų?",
+    "continueRun": "Tęsti",
+    "creditEstimate": "Numatyti kreditai: ${cost}",
+    "creditReductionHint": "<em>Jei norite sumažinti analizei reikalingų kreditų skaičių, galite bandyti pridėti filtrą arba naudoti analizės aplinkas, kad nustatytumėte apdorojimo aprėptį.</em> <calcite-link target='_blank' href='${ docLink }'>Sužinokite daugiau</calcite-link>",
+    "creditThreshold": "Kredito ribinė vertė: ${threshold}",
+    "heading": "Pasiekta kredito ribinė vertė",
+    "learnMore": "Sužinokite daugiau",
+    "thresholdExceeded": "Apskaičiuota šios analizės kaina yra didesnė už jūsų kredito ribinę vertę."
+  },
+  "failedToExecuteEstimate": "Pateikti nepavyko. Nepavyko vykdyti EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Vykdyti"
+}

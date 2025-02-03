@@ -1,0 +1,22 @@
+{
+  "cancel": "Cancel·la",
+  "reset": "Restableix",
+  "resetting": "S'està restablint...",
+  "save": "Desa",
+  "saving": "S'està desant...",
+  "itemClassificationCategoryLabel": "Etiqueta de categoria de classificació de l'element",
+  "itemClassificationEditLabel": "Edita la classificació",
+  "itemClassificationValidateError": "No s'ha pogut dur a terme la validació, no s'emplenarà el valor de classificació de l'element. Editeu-lo i deseu-ne un de nou.",
+  "classificationValueSaved": "S'ha desat el valor de classificació",
+  "classificationNotificationHandler": "Controlador de notificació de classificació",
+  "openModal": "Obre el modal",
+  "currentSelections": "Seleccions actuals",
+  "fieldSelectionError": "Aquest camp és obligatori.",
+  "selectAnOption": "Seleccioneu una opció",
+  "selectOptions": "Seleccioneu opcions",
+  "singleSelectionLabel": "Menú desplegable de selecció única",
+  "multipleSelectionLabel": "Menú desplegable de selecció múltiple",
+  "singleAttributeError": "El contingut ha d'especificar un ${attributeName}. Reviseu les vostres seleccions.",
+  "multipleAttributeErrors": "El contingut ha d'especificar un ${attributeString} i un ${lastAttributeName}. Reviseu les vostres seleccions.",
+  "classificationSectionLabel": "Classificació"
+}

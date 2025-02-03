@@ -1,0 +1,18 @@
+{
+  "name": "contour",
+  "type": "template",
+  "templateType": "app",
+  "label": "Contour",
+  "description": "Contour facilitates broad inspection through a prominent map view supplemented by charts and contextual text below.",
+  "thumbnail": "thumbnail.png",
+  "order": 8,
+  "templateCreateVersion": "1.15.0",
+  "tags": [
+    "Fullscreen",
+    "Map centric"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": true,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

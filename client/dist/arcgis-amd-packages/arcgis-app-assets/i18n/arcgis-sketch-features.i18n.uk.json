@@ -1,0 +1,18 @@
+{
+  "sketches": "Об'єкти скетчу",
+  "actions": "Дії",
+  "edit": "Редагування",
+  "duplicate": "Дублювати",
+  "featureDuplicated": "Вибраний об'єкт успішно продубльовано.",
+  "featuresDuplicated": "Вибрані об'єкти успішно продубльовано.",
+  "copyToNewSketchLayer": "Копіювати в новий шар скетчу",
+  "delete": "Видалити",
+  "addSketch": "Додати об'єкт",
+  "textPreview": "A",
+  "point": "Точка",
+  "line": "Лінія",
+  "polygon": "Полігон",
+  "text": "Текст",
+  "collapse": "Згорнути",
+  "expand": "Розширити"
+}

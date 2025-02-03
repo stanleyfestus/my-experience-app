@@ -1,0 +1,68 @@
+{
+  "gap": 4,
+  "padding": {
+    "number": [0],
+    "unit": "px"
+  },
+  "header": {
+    "expandIcon": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 16 16'><path d='M7.5 0a.5.5 0 0 0-.5.5V7H.5a.5.5 0 0 0 0 1H7v6.5a.5.5 0 0 0 1 0V8h6.5a.5.5 0 0 0 0-1H8V.5a.5.5 0 0 0-.5-.5'></path></svg>",
+      "properties": {
+        "size": 16,
+        "color": "var(--light)",
+        "inlineSvg": true,
+        "isUploaded": false,
+        "originalName": "outlined/editor/plus.svg",
+        "path": ["general", "add"]
+      }
+    },
+    "collapseIcon": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 16 16'><path d='M0 7.5A.5.5 0 0 1 .5 7h14a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5'></path></svg>",
+      "properties": {
+        "size": 16,
+        "color": "var(--light)",
+        "inlineSvg": true,
+        "isUploaded": false,
+        "originalName": "outlined/editor/minus.svg",
+        "path": ["editor", "MinusOutlined"]
+      }
+    },
+    "showWidgetIcon": true,
+    "widgetIconSize": 16,
+    "widgetIconColor": "var(--ref-palette-white)",
+
+    "textStyle": {
+      "bold": true,
+      "color": "var(--ref-palette-white)",
+      "size": "14px"
+    },
+    "padding": {
+      "number": [8],
+      "unit": "px"
+    },
+    "borderRadius": {
+      "number": [0],
+      "unit": "px"
+    },
+    "collapsedColor": "var(--primary-600)",
+    "expandedColor": "var(--primary-700)"
+  },
+  "panel": {
+    "borderRadius": {
+      "number": [0],
+      "unit": "px"
+    },
+    "padding": {
+      "number": [4],
+      "unit": "px"
+    },
+    "border": {
+      "color": "var(--primary-600)",
+      "type": "solid",
+      "width": "1px"
+    }
+  },
+  "singleMode": false,
+  "showToggleAll": false,
+  "useQuickStyle": 1
+}

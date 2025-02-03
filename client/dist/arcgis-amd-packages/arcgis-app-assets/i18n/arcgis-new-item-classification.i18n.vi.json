@@ -1,0 +1,23 @@
+{
+  "cancel": "Hủy",
+  "reset": "Thiết lập lại",
+  "resetting": "Đang thiết lập lại...",
+  "save": "Lưu",
+  "saving": "Đang lưu...",
+  "itemClassificationLabel": "Phân loại",
+  "itemClassificationCategoryLabel": "Nhãn thể loại phân loại mục",
+  "itemClassificationEditLabel": "Chỉnh sửa Phân loại",
+  "itemClassificationValidateError": "Không thể xác minh, không thể điền giá trị phân loại mục! Vui lòng chỉnh sửa và lưu giá trị mới.",
+  "classificationValueSaved": "Giá trị phân loại đã được lưu",
+  "classificationNotificationHandler": "Trình xử lý thông báo phân loại",
+  "openModal": "Mở phương thức",
+  "currentSelections": "Các lựa chọn Hiện tại",
+  "fieldSelectionError": "Đây là một trường bắt buộc.",
+  "selectAnOption": "Chọn một tùy chọn",
+  "selectOptions": "Chọn tùy chọn",
+  "singleSelectionLabel": "Menu thả xuống một lựa chọn",
+  "multipleSelectionLabel": "Menu thả xuống nhiều lựa chọn",
+  "singleAttributeError": "Nội dung PHẢI chỉ định ${attributeName}. Xem lại các lựa chọn của bạn.",
+  "multipleAttributeErrors": "Nội dung PHẢI chỉ định ${attributeString} và ${lastAttributeName}. Xem lại các lựa chọn của bạn.",
+  "classificationSectionLabel": "Phân loại"
+}

@@ -1,0 +1,22 @@
+{
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "resetting": "Resetting...",
+    "save": "Save",
+    "saving": "Saving...",
+    "itemClassificationCategoryLabel": "Item classification category label",
+    "itemClassificationEditLabel": "Edit Classification",
+    "itemClassificationValidateError": "Validation failed, the item classification value won't get populated! Please edit and save a new one.",
+    "classificationValueSaved": "The classification value has been saved",
+    "classificationNotificationHandler": "Classification notification handler",
+    "openModal": "Open modal",
+    "currentSelections": "Current Selections",
+    "fieldSelectionError": "This is a required field.",
+    "selectAnOption": "Select an option",
+    "selectOptions": "Select option(s)",
+    "singleSelectionLabel": "Single selection dropdown menu",
+    "multipleSelectionLabel": "Multiple selection dropdown menu",
+    "singleAttributeError": "Content MUST specify a ${attributeName}. Review your selections.",
+    "multipleAttributeErrors": "Content MUST specify a ${attributeString} and ${lastAttributeName}. Review your selections.",
+    "classificationSectionLabel": "Classification"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Batalkan",
+  "deletePrompt": "Anda yakin ingin menghapus kolom ini dari layer?",
+  "deleteField": "Hapus kolom",
+  "deleteFields": "Hapus kolom",
+  "deletingField": "Menghapus kolom...",
+  "newFeature": "Fitur baru",
+  "fieldDeleted": "Kolom berhasil dihapus",
+  "fieldDeletionUnsuccessful": "Kolom gagal dihapus",
+  "fieldInUse": "Kolom ini sedang digunakan dalam area berikut:",
+  "expressions": "Ekspresi",
+  "popups": "Pop-up",
+  "forms": "Formulir",
+  "charts": "Diagram",
+  "deleteWarning": "Menghapus kolom yang digunakan untuk mengonfigurasi properti layer dapat mengakibatkan perubahan perilaku.",
+  "learnMore": "Pelajari selengkapnya"
+}

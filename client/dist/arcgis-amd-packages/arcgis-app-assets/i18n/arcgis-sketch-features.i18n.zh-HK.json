@@ -1,0 +1,18 @@
+{
+  "sketches": "描繪圖徵",
+  "actions": "操作",
+  "edit": "編輯",
+  "duplicate": "重複",
+  "featureDuplicated": "已成功複製所選圖徵。",
+  "featuresDuplicated": "已成功複製所選圖徵。",
+  "copyToNewSketchLayer": "複製到新的描繪圖層",
+  "delete": "刪除",
+  "addSketch": "新增圖徵",
+  "textPreview": "A",
+  "point": "點",
+  "line": "線",
+  "polygon": "多邊形",
+  "text": "文字",
+  "collapse": "摺疊",
+  "expand": "展開"
+}

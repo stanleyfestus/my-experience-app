@@ -1,0 +1,13 @@
+{
+  "fieldLoadingErrorText": "לא ניתן לטעון את השדות.",
+  "fieldNotAvailable": "טעינת שדה נכשלה.",
+  "fieldTypesIncompatible": "אין שדות תואמים זמינים.",
+  "layerNotSelected": "לא נבחרה שכבה לאכלוס השדות.",
+  "loadingFields": "טוען שדות",
+  "multipleFieldsNotAvailable": "טעינת שדה אחד או יותר נכשלה.",
+  "requiredErrorLabelDefault": "שדה",
+  "requiredErrorMessage": "זהו פרמטר חובה.",
+  "selectFieldPicklistHeading": "בחר שדה",
+  "selectOkBtnText": "בחר",
+  "selectVariables": "בחר משתנים"
+}

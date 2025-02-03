@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Thứ tự hiển thị hình ảnh",
+  "mosaicMethod": "Phương pháp mosaic",
+  "mosaicOperator": "Toán tử mosaic",
+  "done": "Hoàn tất",
+  "cancel": "Hủy",
+  "reverserOrder": "Đảo ngược thứ tự",
+  "imageIDs": "ID Ảnh:",
+  "useCommaDelimiter": "Sử dụng dấu phẩy để phân tách ID",
+  "highestPriorityValue": "Giá trị ưu tiên cao nhất",
+  "attribute": "Thuộc tính",
+  "mosaicMethodLabel": {
+    "none": "Không có",
+    "attribute": "Theo thuộc tính",
+    "center": "Gần tâm nhất",
+    "nadir": "Gần nadir nhất",
+    "northwest": "Tây bắc",
+    "seamline": "Đường nối",
+    "lock-raster": "Khóa raster",
+    "viewpoint": "Điểm quan sát"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Đầu tiên",
+    "last": "Cuối cùng",
+    "min": "Tối thiểu",
+    "max": "Tối đa",
+    "mean": "Trung bình",
+    "blend": "Trộn",
+    "sum": "Tổng"
+  },
+  "componentLabel": {
+    "methodSelect": "Chọn một phương pháp mosaic",
+    "attributeFieldSelect": "Chọn một trường",
+    "operatorSelect": "Chọn một toán tử mosaic"
+  }
+}

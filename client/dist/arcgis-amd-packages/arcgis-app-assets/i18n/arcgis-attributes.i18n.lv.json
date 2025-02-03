@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Lauki",
+  "filterAttributes": "Meklēšanas lauki",
+  "selected": "izvēlēts",
+  "integer": "Vesels skaitlis",
+  "number": "Skaitlis",
+  "string": "Virkne",
+  "date": "Datums",
+  "dataType": "Datu veids",
+  "matching": "atbilstība",
+  "selectAll": "Izvēlēties visu",
+  "deselectAll": "Noņemt izvēli visam",
+  "displayName": "Parādāmais nosaukums",
+  "type": "Veids",
+  "default": "Noklusējums",
+  "fieldName": "Lauka nosaukums",
+  "sort": "Kārtot",
+  "filter": "Filtrs",
+  "filterDataType": "Filtrēt pēc datu veida",
+  "filterFieldName": "Filtrēt pēc lauka nosaukuma",
+  "addField": "Pievienot lauku"
+}

@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Tema",customTheme:"Anpassa",resetTheme:"\xc5terst\xe4ll",backToMainThemePanel:"Backa",customPaletteTitle:"Anpassa palettf\xe4rgerna",customFontsetTitle:"Anpassa teckensnittsupps\xe4ttningen",customAppElementsTitle:"Appelement"})}}}));

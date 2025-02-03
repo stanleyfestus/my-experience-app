@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "المتوسط",
+    "median": "متوسط",
+    "sum": "مجموع",
+    "discretePercentile": "النسبة المئوية المنفصلة",
+    "minimum": "الحد الأدنى",
+    "maximum": "الحد الأقصى",
+    "firstQuartile": "الربع الأول",
+    "thirdQuartile": "الربع الثالث",
+    "iqr": "IQR",
+    "standardDeviation": "الانحراف المعياري",
+    "variance": "تنوع",
+    "count": "عدد",
+    "aggregation": "${ statistics } من ${ fieldName }",
+    "percent": "نسبة مئوية",
+    "noAggregation": "لا يوجد تجميع",
+    "meanValue": "متوسط القيمة"
+  },
+  "overlays": {
+    "mean": "المتوسط",
+    "median": "متوسط",
+    "stdDev": "انحراف معياري",
+    "normal": "توزيع طبيعي",
+    "trendline": "خط الاتجاه"
+  },
+  "guideTooltipLabel": "من ${ guideStart } إلى ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "أخرى"
+  },
+  "notAvailable": "غير مرئي",
+  "field": "حقل"
+}

@@ -1,0 +1,20 @@
+{
+  "backLabel": "Zurück",
+  "cannotReopenTool": "Werkzeug konnte nicht erneut geöffnet werden. Werkzeugparameter wurden auf die Standardwerte zurückgesetzt.",
+  "cannotReopenWebTool": "Web-Werkzeug kann nicht geöffnet werden. <calcite-link target='_blank' href='${ docLink }'>Weitere Informationen</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Abbrechen",
+    "confirmationPrompt": "Möchten Sie fortfahren, ohne die Analyseparameter zu aktualisieren?",
+    "continueRun": "Fortfahren",
+    "creditEstimate": "Geschätzte Credit-Anzahl: ${cost}",
+    "creditReductionHint": "<em>Wenn Sie die Anzahl der Credits für die Analyse verringern möchten, erwägen Sie, einen Filter hinzuzufügen oder über die Analyseumgebungen eine Verarbeitungsausdehnung festzulegen.</em> <calcite-link target='_blank' href='${ docLink }'>Mehr erfahren</calcite-link>",
+    "creditThreshold": "Credit-Schwellenwert: ${threshold}",
+    "heading": "Credit-Schwellenwert erreicht",
+    "learnMore": "Weitere Informationen",
+    "thresholdExceeded": "Die Kostenschätzung für diese Analyse liegt über dem Credit-Schwellenwert."
+  },
+  "failedToExecuteEstimate": "Übermittlung fehlgeschlagen. Fehler beim Ausführen von EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Auf dieses Werkzeug kann nicht zugegriffen werden. Stellen Sie sicher, dass das Werkzeug vorhanden ist und dass Ihr Benutzerkonto über die entsprechende Zugriffsberechtigung verfügt.",
+  "runAnalysisLabel": "Ausführen",
+  "webToolJSONChanged": "Mindestens ein Parameter wurde aktualisiert. Bestimmte Parameter können möglicherweise nicht aus dem Verlauf wiederhergestellt werden."
+}

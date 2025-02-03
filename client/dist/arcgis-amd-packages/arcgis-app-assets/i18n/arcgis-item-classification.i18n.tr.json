@@ -1,0 +1,22 @@
+{
+  "cancel": "İptal",
+  "reset": "Sıfırla",
+  "resetting": "Sıfırlanıyor...",
+  "save": "Kaydet",
+  "saving": "Kaydediliyor...",
+  "itemClassificationCategoryLabel": "Öge sınıflama kategorisi etiketi",
+  "itemClassificationEditLabel": "Sınıflamayı Düzenle",
+  "itemClassificationValidateError": "Doğrulama başarısız; öge sınıflama değeri doldurulmayacak! Lütfen düzenleyip yeni bir sınıflama kaydedin.",
+  "classificationValueSaved": "Sınıflama değeri kaydedildi",
+  "classificationNotificationHandler": "Sınıflama bildirimi işleyici",
+  "openModal": "Modalı aç",
+  "currentSelections": "Mevcut Seçimler",
+  "fieldSelectionError": "Bu, zorunlu bir alandır.",
+  "selectAnOption": "Bir seçenek seçin",
+  "selectOptions": "Seçenekleri seçin",
+  "singleSelectionLabel": "Tek seçimli açılır menü",
+  "multipleSelectionLabel": "Çok seçimli açılır menü",
+  "singleAttributeError": "İçerik bir ${attributeName} BELİRTMELİDİR. Seçimlerinizi inceleyin.",
+  "multipleAttributeErrors": "İçerik bir ${attributeString} ve ${lastAttributeName} BELİRTMELİDİR. Seçimlerinizi inceleyin.",
+  "classificationSectionLabel": "Sınıflandırma"
+}

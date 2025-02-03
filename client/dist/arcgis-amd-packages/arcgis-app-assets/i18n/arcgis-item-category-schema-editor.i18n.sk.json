@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Konfigurovať kategórie obsahu",
+  "modalGroupHeader": "Konfigurovať kategórie skupín",
+  "helpText": "Úpravy, odstránenie alebo zmena poradia kategórií vo vašej organizácii.",
+  "helpTextGroup": "Editovať, mazať alebo zmeniť poradie kategórií obsahu v tejto skupine.",
+  "helpTextDescription": "Pamätajte, že ostatní členovia vašej organizácie už mohli priradiť tieto kategórie k svojim položkám a úpravou schémy sa podľa toho aktualizujú tieto položky",
+  "helpTextGroupDescription": "Pamätajte, že ostatní členovia skupiny už mohli priradiť tieto kategórie k svojim položkám a úpravou schémy sa podľa toho aktualizujú tieto položky",
+  "loadingText": "Načítavanie šablón schém",
+  "cancel": "Zrušiť",
+  "finishSetup": "Dokončiť nastavenie",
+  "hasUnsavedChanges": "Vykonali ste zmeny kategórie, ktoré sa stratia, ak ich neuložíte ako prvé. Naozaj chcete toto zobrazenie zavrieť a stratiť svoje zmeny?",
+  "error": {
+    "generic": {
+      "title": "Chyba pri aktualizácii kategórií",
+      "message": "Niečo sa pokazilo. Skúste to neskôr prosím."
+    },
+    "maxDepthExceeded": {
+      "title": "Chyba pri aktualizácii kategórií",
+      "message": "Kategórie nie je možné vkladať do viac ako 2 úrovní."
+    },
+    "destinationHasSameName": {
+      "title": "Chyba pri aktualizácii kategórií",
+      "message": "V cieľovej kategórii už existuje kategória s rovnakým názvom."
+    },
+    "emptyTitle": {
+      "title": "Chyba pri aktualizácii kategórií",
+      "message": "Názov kategórie nesmie byť prázdny."
+    },
+    "noSchema": {
+      "title": "Schéma sa nenašla",
+      "message": "Schéma položky sa pre používateľa nenašla."
+    },
+    "maxCharacter": {
+      "title": "Chyba pri aktualizácii kategórií",
+      "message": "Názvy kategórií môžu mať dĺžku najviac ${maxCharacter} znakov."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Odstrániť kategóriu",
+      "cta": "Odstrániť kategóriu",
+      "message": {
+        "single": "Jedna položka je priradená do tejto kategórie. Odstránenie kategórie ju tiež odstráni z tejto položky.",
+        "multiple": "${number} položiek je priradených do tejto kategórie. Odstránenie kategórie ju tiež odstráni z týchto položiek.",
+        "unknown": "Položky priradené do tejto kategórie: ${number}. Odstránenie kategórie ju tiež odstráni z týchto položiek."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Aktualizovať kategóriu",
+      "message": {
+        "single": "Jedna položka je priradená do tejto kategórie. Aktualizácia kategórie aktualizuje položku na použitie \"${newTitle}\".",
+        "multiple": "${number} položiek je priradených do tejto kategórie. Aktualizácia kategórie aktualizuje položku na použitie \"${newTitle}\".",
+        "unknown": "Položky priradené do tejto kategórie: ${number}. Aktualizácia kategórie aktualizuje položku na použitie \"${newTitle}\"."
+      },
+      "cta": "Aktualizovať kategóriu"
+    }
+  },
+  "template": {
+    "title": "Šablóny kategórií",
+    "learnMore": "Zistiť viac",
+    "templateList": {
+      "custom": {
+        "title": "Vlastné kategórie",
+        "message": "Vytvorte si vlastné kategórie na organizovanie obsahu vo vašej organizácii.",
+        "messageGroup": "Vytvorte si vlastné kategórie na usporiadanie obsahu v rámci tejto skupiny."
+      },
+      "arcgis": {
+        "title": "Kategórie ArcGIS",
+        "message": "Kategórie ArcGIS zahŕňajú výber tematických kategórií a podkategórií, ktoré môžu byť použité na kategorizáciu viacerých typov geopriestorového obsahu. Tieto kategórie sú používané na podporu ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "kategórie ISO",
+        "message": "ISO kategórie obsahujú tématické kategórie Medzinárodnej organizácie pre štandardizáciu, ktoré poskytujú metódu pre opis a kategorizáciu geografických informácií."
+      },
+      "inspire": {
+        "title": "Kategórie INSPIRE",
+        "message": "Kategórie INSPIRE obsahujú rozsiahlu sadu priestorovo dátových tém stanovených v smerniciach INSPIRE."
+      }
+    }
+  }
+}

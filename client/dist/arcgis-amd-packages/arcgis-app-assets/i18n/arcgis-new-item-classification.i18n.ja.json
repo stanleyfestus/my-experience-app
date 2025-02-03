@@ -1,0 +1,23 @@
+{
+  "cancel": "キャンセル",
+  "reset": "リセット",
+  "resetting": "リセットしています...",
+  "save": "保存",
+  "saving": "保存しています...",
+  "itemClassificationLabel": "分類",
+  "itemClassificationCategoryLabel": "アイテムの分類カテゴリ ラベル",
+  "itemClassificationEditLabel": "分類の編集",
+  "itemClassificationValidateError": "検証に失敗しました。アイテムの分類値は反映されません。 編集し、新しい方を保存してください。",
+  "classificationValueSaved": "分類値が保存されました。",
+  "classificationNotificationHandler": "分類の通知ハンドラー",
+  "openModal": "モーダルを開く",
+  "currentSelections": "現在の選択",
+  "fieldSelectionError": "これは必須フィールドです。",
+  "selectAnOption": "オプションの選択",
+  "selectOptions": "オプションの選択",
+  "singleSelectionLabel": "単一選択ドロップダウン メニュー",
+  "multipleSelectionLabel": "複数選択ドロップダウン メニュー",
+  "singleAttributeError": "コンテンツは ${attributeName} を指定しなければなりません。 選択を確認します。",
+  "multipleAttributeErrors": "コンテンツは ${attributeString} と ${lastAttributeName} を指定しなければなりません。 選択を確認します。",
+  "classificationSectionLabel": "分類"
+}

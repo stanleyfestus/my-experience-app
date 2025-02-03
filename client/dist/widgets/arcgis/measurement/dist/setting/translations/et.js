@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({distance:"Vahemaa",area:"Pind",atLeastOne:"Valida tuleb v\xe4hemalt \xfcks t\xf6\xf6riist",toolbar:"T\xf6\xf6riistariba"})}}}));

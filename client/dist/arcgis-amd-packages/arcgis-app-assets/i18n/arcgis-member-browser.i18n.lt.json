@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "Filtrai",
+    "pageRange": "${start}–${end}, iš viso: ${total}",
+    "pageRangeAria": "${start}–${end}, bendras narių skaičius: ${total}",
+    "selectedMembers": "Pasirinkti nariai",
+    "noSelectedMembers": "Šiuo metu nepasirinkta jokių narių",
+    "noUsersFound": "Nerasta jokių jūsų kriterijus atitinkančių naudotojų. Pabandykite išvalyti dalį filtrų arba pakeisti paieškos kriterijus, kad rastumėte daugiau naudotojų.",
+    "enterTermExternal": "Jei norite ieškoti naudotojų visame ArcGIS Online, įveskite paieškos terminą",
+    "noUsers": "Naudotojų nėra",
+    "coordinator": "Bendradarbiavimo koordinatorius"
+  },
+  "search": {
+    "searchMembers": "Ieškoti narių"
+  },
+  "filterUserTypes": {
+    "title": "Naudotojo tipas",
+    "label": "Naudotojo tipas: ${name}",
+    "loading": "Įkeliami naudotojų tipai..."
+  },
+  "filterRoles": {
+    "title": "Vaidmuo",
+    "label": "Vaidmuo: ${name}",
+    "loading": "Įkeliami vaidmenys...",
+    "searchRoles": "Ieškoti rolių"
+  },
+  "filterOrgGroups": {
+    "title": "Organizacijos grupės",
+    "label": "Grupė: ${name}",
+    "loading": "Įkeliamos organizacijos grupės...",
+    "searchGroups": "Ieškoti grupių"
+  },
+  "filterMyGroups": {
+    "title": "Mano grupės",
+    "label": "Grupė: ${name}",
+    "loading": "Įkeliamos mano grupės…",
+    "searchMyGroups": "Ieškoti mano grupėse"
+  },
+  "filterCategories": {
+    "title": "Kategorijos",
+    "label": "Kategorija: ${name}",
+    "loading": "Įkeliamos kategorijos...",
+    "noCategoriesTitle": "Dar nėra kategorijų",
+    "noCategories": "Kategorijos leidžia nariams nuosekliai tvarkyti elementus ir pateikia paprastą būdą naršyti organizacijos turinį.",
+    "setupCategories": "Nustatyti narių kategorijas",
+    "configureCategories": "Konfigūruoti kategorijas",
+    "noCategoriesAssigned": "Nėra priskirtų kategorijų"
+  },
+  "filterPartnerCollabs": {
+    "title": "Bendradarbiavimo partneriai",
+    "label": "Bendradarbiavimo partneriai: ${name}",
+    "loading": "Įkeliami bendradarbiavimo partneriai...",
+    "coordinatorsOnly": "Tik bendradarbiavimo koordinatoriai",
+    "coordinatorsDescription": "Bendradarbiavimo koordinatoriai yra bendradarbiaujančių partnerių atstovai, galintys įtraukti grupę neprašant patvirtinimo.",
+    "coordinatorsInfoLabel": "Daugiau informacijos apie bendradarbiavimo koordinatorius"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "Ieškoti visų ArcGIS Online organizacijos narių",
+    "searchPartners": "Įtraukti šios ir bendradarbiaujančių organizacijų narius"
+  },
+  "table": {
+    "caption": "Narių rezultatus, stulpelių antraštes su mygtukais galima rūšiuoti.",
+    "selectAll": "Pasirinkti viską",
+    "selection": "Išranka",
+    "headers": {
+      "name": "Pavadinimas",
+      "membertype": "Grupės vaidmuo",
+      "affiliation": "Prisijungimas",
+      "joined": "Prisijungta",
+      "credits": "Likę kreditai",
+      "lastlogin": "Paskutinis prisijungimas",
+      "usertype": "Naudotojo tipas",
+      "role": "Vaidmuo"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "Išplėstinės parinktys",
+    "groupManager": "Grupių valdytojas",
+    "owner": "Savininkas",
+    "member": "Narys",
+    "myOrg": "Organizacija",
+    "other": "Kita",
+    "coordinator": "Bendradarbiavimo koordinatorius",
+    "noLimit": "Neribojama",
+    "creditsNumber": "${remain} iš ${total}",
+    "today": "Šiandien",
+    "yesterday": "Vakar",
+    "never": "Niekada"
+  },
+  "myOrg": {
+    "myOrgView": "Mano organizacijos rodinys"
+  },
+  "filterGroupRole": {
+    "title": "Grupės vaidmuo",
+    "label": "Grupės vaidmuo: ${role}",
+    "admins": "Savininkas ir grupės valdytojai",
+    "member": "Narys"
+  },
+  "filterAffiliation": {
+    "title": "Prisijungimas",
+    "label": "Prisijungimas: ${name}",
+    "myOrg": "Organizacija",
+    "other": "Kita"
+  },
+  "filterCreditsRemain": {
+    "title": "Likę kreditai",
+    "noLimit": "Neribojama",
+    "lessThan": "Mažiau nei",
+    "credits": "Kreditai",
+    "labelNoLimit": "Kreditai: neribojami",
+    "labelLess": "Kreditai: mažiau negu ${value}",
+    "invalidValue": "Įvesta reikšmė netinkama."
+  },
+  "filterEmailVerification": {
+    "title": "El. pašto patvirtinimo būsena",
+    "unverified": "Nepatvirtinti el. pašto adresai",
+    "verified": "Patvirtinti el. pašto adresai",
+    "label": "El. pašto patvirtinimo būsena: ${status}"
+  },
+  "filterLoginType": {
+    "title": "Prisijungimo tipas",
+    "label": "Prisijungimo tipas: ${type}",
+    "social": "Socialiniai tinklai"
+  },
+  "filterApp": {
+    "title": "Programa",
+    "label": "Programa: ${app}"
+  },
+  "filterMFA": {
+    "title": "Kelių pakopų autentifikacija",
+    "enabled": "Įjungta",
+    "disabled": "Išjungta",
+    "label": "Kelių pakopų autentifikacija: ${status}"
+  },
+  "roles": {
+    "user": "Naudotojas",
+    "publisher": "Publikuotojas",
+    "admin": "Administratorius",
+    "viewer": "Peržiūros programa",
+    "editor": "Duomenų redaguotojas",
+    "facilitator": "Pagalbininkas"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vogue",
+  "type": "template",
+  "templateType": "fixed-modal-window",
+  "label": "Vogue",
+  "thumbnail": "thumbnail.png",
+  "order": 5,
+  "thumbnailWidth": 332,
+  "thumbnailHeight": 280
+}

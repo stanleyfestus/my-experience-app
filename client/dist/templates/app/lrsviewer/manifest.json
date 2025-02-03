@@ -1,0 +1,19 @@
+{
+  "name": "lrsviewer",
+  "type": "template",
+  "templateType": "app",
+  "label": "LRS Viewer",
+  "description": "LRS Viewer is a template designed to query and search LRS data, featuring Search by Route, LRS Identify, and other widgets. Works with ArcGIS Roads and Highways and ArcGIS Pipeline Referencing data.",
+  "thumbnail": "thumbnail.png",
+  "order": 24,
+  "templateCreateVersion": "1.14.0",
+  "notSupportAGOL": true,
+  "tags": [
+    "Map centric",
+    "Fullscreen"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": true,
+  "thumbnailWidth": 321,
+  "thumbnailHeight": 215
+}

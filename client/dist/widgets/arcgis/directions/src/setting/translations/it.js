@@ -1,0 +1,1 @@
+System.register([],(function(i){return{execute:function(){i({routeSettings:"Impostazioni di itinerario",searchSettings:"Impostazioni di ricerca",generalSettings:"Impostazioni generali",routeUrl:"URL itinerario",outputStops:"Fermate",outputRoute:"Itinerario",outputDirectionPoints:"Punti di direzione",outputDirectionLines:"Linee di direzione"})}}}));

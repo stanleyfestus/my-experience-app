@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"Esta \xe1rea lista os widgets que foi configurado mas n\xe3o na tela atual. Eles podem existir em outros modos do dispositivo.",element:"Inserir widget",pending:"Pendente",widgetHelpIconLabel:"Sobre este widget",widgetGuideStart:"Obter uma apresenta\xe7\xe3o"})}}}));

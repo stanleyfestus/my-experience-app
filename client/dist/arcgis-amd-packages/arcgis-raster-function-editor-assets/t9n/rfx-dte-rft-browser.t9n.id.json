@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Telusuri template fungsi raster",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "OutputRaster",
+  "readingFailed": "Gagal memuat template fungsi raster pilihan."
+}

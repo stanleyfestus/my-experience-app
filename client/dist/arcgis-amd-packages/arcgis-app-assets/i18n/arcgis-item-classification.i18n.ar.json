@@ -1,0 +1,22 @@
+{
+  "cancel": "إلغاء الأمر",
+  "reset": "إعادة تعيين",
+  "resetting": "جارِ إعادة التعيين...",
+  "save": "حفظ",
+  "saving": "جار الحفظ...",
+  "itemClassificationCategoryLabel": "لافتة تسمية فئة تصنيف العنصر",
+  "itemClassificationEditLabel": "تحرير التصنيف",
+  "itemClassificationValidateError": "فشل التحقق من الصحة، لن يتم ملء قيمة تصنيف العنصر! الرجاء التحرير وحفظ تصنيف جديد",
+  "classificationValueSaved": "لقد تم حفظ قيمة التصنيف",
+  "classificationNotificationHandler": "معالج إخطار التصنيف",
+  "openModal": "فتح نموذج",
+  "currentSelections": "الاختيارات الحالية",
+  "fieldSelectionError": "هذا الحقل مطلوب.",
+  "selectAnOption": "حدد خيارًا",
+  "selectOptions": "تحديد خيارات",
+  "singleSelectionLabel": "قائمة منسدلة للاختيار الفردي",
+  "multipleSelectionLabel": "قائمة منسدلة للاختيار المتعدد",
+  "singleAttributeError": "يجب أن يحدد المحتوى ${attributeName}. راجع اختياراتك.",
+  "multipleAttributeErrors": "يجب أن يحدد المحتوى ${attributeString} و ${lastAttributeName}. راجع اختياراتك.",
+  "classificationSectionLabel": "التصنيف"
+}

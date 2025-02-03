@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Poradie zobrazovania snímok",
+  "mosaicMethod": "Metóda mozaikovania",
+  "mosaicOperator": "Mozaikovací operátor",
+  "done": "Hotovo",
+  "cancel": "Zrušiť",
+  "reverserOrder": "Obrátiť poradie",
+  "imageIDs": "ID snímky:",
+  "useCommaDelimiter": "Pre oddelenie ID použite čiarku",
+  "highestPriorityValue": "Hodnota najvyššej priority",
+  "attribute": "Atribút",
+  "mosaicMethodLabel": {
+    "none": "Žiadne",
+    "attribute": "Podľa atribútu",
+    "center": "Najbližšie k stredu",
+    "nadir": "Najbližšie k nadir",
+    "northwest": "Severozápad",
+    "seamline": "Hranice spojov",
+    "lock-raster": "Uzamknite raster",
+    "viewpoint": "Bod zobrazenia"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Prvý",
+    "last": "Posledný",
+    "min": "Minimum",
+    "max": "Maximum",
+    "mean": "Priemer",
+    "blend": "Kombinovať",
+    "sum": "Suma"
+  },
+  "componentLabel": {
+    "methodSelect": "Vyberte metódu mozaikovania",
+    "attributeFieldSelect": "Vyberte pole",
+    "operatorSelect": "Vyberte mozakovacieho operátora"
+  }
+}

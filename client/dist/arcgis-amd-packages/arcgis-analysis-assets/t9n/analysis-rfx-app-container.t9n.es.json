@@ -1,0 +1,18 @@
+{
+  "backLabel": "Atrás",
+  "browseHeader": "Seleccionar capa",
+  "cannotReopenRasterFunction": "No se pudo volver a abrir la función ráster.",
+  "creditThresholdModal": {
+    "cancelRun": "Cancelar",
+    "confirmationPrompt": "¿Desea continuar sin actualizar los parámetros de análisis?",
+    "continueRun": "Continuar",
+    "creditEstimate": "Créditos estimados: ${cost}",
+    "creditReductionHint": "<em>Para reducir el número de créditos del análisis, considere la posibilidad de agregar un filtro o utilice los entornos de análisis para establecer una extensión de procesamiento.</em> <calcite-link target='_blank' href='${ docLink }'>Más información</calcite-link>",
+    "creditThreshold": "Umbral de créditos: ${threshold}",
+    "heading": "Umbral de créditos alcanzado",
+    "learnMore": "Más información",
+    "thresholdExceeded": "El coste estimado de este análisis es mayor que su umbral de créditos."
+  },
+  "failedToExecuteEstimate": "Error al enviar. Error al ejecutar EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Ejecutar"
+}

@@ -1,0 +1,12 @@
+{
+  "addRaster": "Add Raster Variable",
+  "addScalar": "Add Constant",
+  "raster": "Raster",
+  "scalar": "Scalar",
+  "defaultModelName": "Raster Function Template",
+  "defaultRasterName": "Raster",
+  "invalidRFTMessage": "The raster function template is not valid.",
+  "deprecated": "Deprecated",
+  "deprecatedHoverText": "This raster function is deprecated and will be removed in a future release.",
+  "userStartDirection": "Select a function to start building a raster function template."
+}

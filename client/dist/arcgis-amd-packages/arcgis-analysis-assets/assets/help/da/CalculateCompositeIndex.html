@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>V&aelig;rkt&oslash;jet Beregn sammensat indeks kombinerer flere numeriske variabler for at oprette &eacute;t enkelt indeks.
+    </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="inputLayer">
+        <div>
+            <p>Tabel eller objekter, som indeholder de variabler, der kombineres i indekset.
+            </p>
+        </div>
+    </div>
+    <div id="inputVariables">
+        <div>
+            <p>Felterne indeholder de variabler, der kombineres for at oprette indekset.  <b>Modsat retning</b> angiver, om v&aelig;rdierne for variablerne vil blive reverseret. <b>V&aelig;gt</b> er hver variabels relative p&aring;virkning p&aring; indekset.
+            </p>
+        </div>
+    </div>
+    <div id="indexMethod">
+        <div>
+            <p>Angiver den metode, der anvendes til at skalere input-variablerne og kombinere de skalerede variabler for at oprette indekset.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexReverse">
+        <div>
+            <p>Angiver, om v&aelig;rdierne for output-indekset vil blive reverseret. Hvis denne indstilling er markeret, vil h&oslash;je v&aelig;rdier blive behandlet som lave indeks-v&aelig;rdier og vice versa.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexMinMax">
+        <div>
+            <p>Minimale og maksimale v&aelig;rdier for output-indeks.
+            </p>
+        </div>
+    </div>
+    <div id="outputName">
+        <div>
+            <p>Navnet p&aring; det lag, der oprettes og f&oslash;jes til kortet.
+            </p>
+        </div>
+    </div>
+    <div id="saveResultIn">
+        <div>
+            <p>Navnet p&aring; mappen  <b>Mit indhold</b>, hvor resultatet gemmes.
+            </p>
+        </div>
+    </div>
+</div>
+</html>

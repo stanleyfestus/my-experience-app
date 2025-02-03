@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "平均",
+    "median": "中央値",
+    "sum": "合計",
+    "discretePercentile": "不連続パーセンタイル",
+    "minimum": "最小",
+    "maximum": "最大",
+    "firstQuartile": "第一四分位",
+    "thirdQuartile": "第三四分位",
+    "iqr": "IQR",
+    "standardDeviation": "標準偏差",
+    "variance": "分散",
+    "count": "個数",
+    "aggregation": "${ statistics } / ${ fieldName }",
+    "percent": "パーセント",
+    "noAggregation": "集約なし",
+    "meanValue": "平均値"
+  },
+  "overlays": {
+    "mean": "平均",
+    "median": "中央値",
+    "stdDev": "標準偏差",
+    "normal": "正規分布",
+    "trendline": "トレンドライン"
+  },
+  "guideTooltipLabel": "${ guideStart } から ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "その他"
+  },
+  "notAvailable": "使用不可",
+  "field": "フィールド"
+}

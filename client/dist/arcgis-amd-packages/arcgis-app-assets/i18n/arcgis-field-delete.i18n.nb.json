@@ -1,0 +1,17 @@
+{
+  "cancel": "Avbryt",
+  "deletePrompt": "Er du sikker på at du vil slette dette feltet fra laget?",
+  "deleteField": "Slett felt",
+  "deleteFields": "Slett felter",
+  "deletingField": "Sletter felt ...",
+  "newFeature": "Nytt geoobjekt",
+  "fieldDeleted": "Feltet er slettet",
+  "fieldDeletionUnsuccessful": "Slettingen av feltet var mislykket",
+  "fieldInUse": "Dette feltet blir brukt på følgende områder:",
+  "expressions": "Uttrykk",
+  "popups": "Popuper",
+  "forms": "Skjemaer",
+  "charts": "Diagrammer",
+  "deleteWarning": "Hvis du sletter et felt som brukes til å konfigurere lagegenskapene, kan føre til endret atferd.",
+  "learnMore": "Mer informasjon"
+}

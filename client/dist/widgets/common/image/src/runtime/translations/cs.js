@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Sn\xedmek",imageChooseShape:"Tvar",imageCrop:"O\u0159ez"})}}}));

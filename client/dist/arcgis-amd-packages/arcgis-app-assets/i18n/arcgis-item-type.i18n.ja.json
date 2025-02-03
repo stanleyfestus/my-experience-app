@@ -1,0 +1,20 @@
+{
+  "hosted": "ホスト",
+  "hostedView": "ホスト、ビュー",
+  "hostedPhotos": "ホスト、写真",
+  "hostedCollection": "ホスト、コレクション",
+  "hostedMultidimensional": "ホスト、多次元",
+  "hostedCollectionMultidimensional": "ホスト、コレクション、多次元",
+  "collectionMultidimensional": "コレクション、多次元",
+  "multidimensional": "多次元",
+  "collection": "コレクション",
+  "photoLocations": "写真",
+  "locatorView": "ビュー",
+  "utilityNetwork": "ユーティリティ ネットワーク",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

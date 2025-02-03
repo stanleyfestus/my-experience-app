@@ -1,0 +1,25 @@
+<svg width="102" height="102" viewBox="0 0 102 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4219_698)">
+<rect width="102" height="13" fill="#363636"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M95 7V10H96V7H99V6H96V3H95V6H92V7H95Z" fill="#6A6A6A"/>
+<rect x="14" y="4" width="23" height="5" fill="#6A6A6A"/>
+<rect x="4" y="3" width="7" height="7" rx="3.5" fill="#6A6A6A"/>
+<rect y="91" width="102" height="11" fill="#363636"/>
+<rect x="4" y="93" width="7" height="7" rx="3.5" fill="#6A6A6A"/>
+<path d="M92 96H99V97H92V96Z" fill="#6A6A6A"/>
+<rect x="14" y="94" width="23" height="5" fill="#6A6A6A"/>
+<rect y="18" width="102" height="11" fill="#363636"/>
+<rect x="4" y="20" width="7" height="7" rx="3.5" fill="#6A6A6A"/>
+<rect x="0.5" y="18.5" width="101" height="67" stroke="#363636"/>
+<rect x="6" y="36" width="90" height="3" fill="#6A6A6A"/>
+<rect x="6" y="44" width="55" height="3" fill="#6A6A6A"/>
+<rect x="6" y="52" width="90" height="27" fill="#6A6A6A"/>
+<path d="M92 23H99V24H92V23Z" fill="#6A6A6A"/>
+<rect x="14" y="21" width="23" height="5" fill="#6A6A6A"/>
+</g>
+<defs>
+<clipPath id="clip0_4219_698">
+<rect width="102" height="102" fill="white"/>
+</clipPath>
+</defs>
+</svg>

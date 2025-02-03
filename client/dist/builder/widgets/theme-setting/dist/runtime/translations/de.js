@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Design",customTheme:"Anpassen",resetTheme:"Zur\xfccksetzen",backToMainThemePanel:"Zur\xfcck",customPaletteTitle:"Palettenfarben anpassen",customFontsetTitle:"Schriftartensatz anpassen",customAppElementsTitle:"App-Elemente"})}}}));

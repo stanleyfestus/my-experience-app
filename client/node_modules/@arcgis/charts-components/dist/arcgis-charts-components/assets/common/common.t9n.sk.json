@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Priemer",
+    "median": "Medián",
+    "sum": "Suma",
+    "discretePercentile": "Diskrétny percentil",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "firstQuartile": "Prvý kvartil",
+    "thirdQuartile": "Tretí kvartil",
+    "iqr": "IQR",
+    "standardDeviation": "Štandardná odchýlka",
+    "variance": "Rozptyl",
+    "count": "Počet",
+    "aggregation": "${ statistics } z ${ fieldName }",
+    "percent": "Percento",
+    "noAggregation": "Bez agregácie",
+    "meanValue": "Priemerná hodnota"
+  },
+  "overlays": {
+    "mean": "Priemer",
+    "median": "Medián",
+    "stdDev": "Štandardná odchýlka",
+    "normal": "Normálne rozdelenie",
+    "trendline": "Trendová línia"
+  },
+  "guideTooltipLabel": "Z ${ guideStart } do ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Iné"
+  },
+  "notAvailable": "Nie je k dispozícii",
+  "field": "Pole"
+}

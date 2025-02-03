@@ -1,0 +1,22 @@
+{
+  "allowAnalysisReason": "Mindestens ein Bilddaten-Layer der Karte wird hier nicht aufgeführt, da die Service-Eigenschaft \"Analyse zulassen\" nicht aktiviert ist. <a href='${ docLink }' target='_blank'>Mehr erfahren</a><br>",
+  "createSketch": "Skizze erstellen",
+  "dataTypeMismatch": "Der ausgewählte Layer weist nicht den richtigen Datentyp auf.",
+  "drawInputFeatures": "Eingabe-Features darstellen",
+  "featureCountAboveMaximum": "Die Feature-Anzahl darf nicht größer als ${maximum} sein.",
+  "featureCountBelowMinimum": "Die Feature-Anzahl darf nicht kleiner als ${minimum} sein.",
+  "geometryMismatch": "Der ausgewählte Layer weist nicht die richtige Geometrie auf.",
+  "isRequired": "Dieser Parameter ist erforderlich.",
+  "layer": "Layer",
+  "layerAction": "${layerName}-Aktionen",
+  "layerNotAvailable": "Fehler beim Laden des Layers \"${layerName}\"",
+  "layerNotSupported": "Der ausgewählte Layer wird nicht unterstützt.",
+  "layersFilteredOut": "Einige Layer wurden herausgefiltert.",
+  "layersNotAllowAnalysis": "Für einige Layer in dieser Karte ist eine Analyse nicht zulässig.",
+  "loadingSketch": "Skizze wird geladen...",
+  "multipleLayersNotAvailable": "Fehler beim Laden des Layers \"${layerName}\" und weiterer Layer",
+  "numberFeatures": "Anzahl der Features: ${featureCount}",
+  "numberFeaturesLoading": "Wird berechnet...",
+  "proxyReason": "Mindestens ein Layer der Karte wird hier nicht aufgeführt, da er entweder nicht für Sie freigegeben oder nicht öffentlich zugänglich ist. <a href='${ docLink }' target='_blank'>Mehr erfahren</a><br>",
+  "replaceLayer": "Layer ersetzen"
+}

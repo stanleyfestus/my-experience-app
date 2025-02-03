@@ -1,0 +1,10 @@
+{
+  "name": "grid4",
+  "type": "template",
+  "templateType": "grid-widget",
+  "label": "Grid 4",
+  "thumbnail": "thumbnail.png",
+  "order": 4,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

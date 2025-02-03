@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Vaizdų rodymo tvarka",
+  "mosaicMethod": "Mozaikos metodas",
+  "mosaicOperator": "Mozaikos operatorius",
+  "done": "Atlikta",
+  "cancel": "Atšaukti",
+  "reverserOrder": "Apsukti rikiavimą",
+  "imageIDs": "Vaizdų ID:",
+  "useCommaDelimiter": "ID atskyrimui naudoti kablelius",
+  "highestPriorityValue": "Aukščiausio prioriteto reikšmė",
+  "attribute": "Atributas",
+  "mosaicMethodLabel": {
+    "none": "Nėra",
+    "attribute": "Pagal atributą",
+    "center": "Arčiausiai centro",
+    "nadir": "Arčiausiai nadyro",
+    "northwest": "Šiaurės vakarai",
+    "seamline": "Ribinės linijos",
+    "lock-raster": "Užfiksuoti rastrą",
+    "viewpoint": "Peržiūros taškas"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Pirmas",
+    "last": "Paskutinis",
+    "min": "Minimumas",
+    "max": "Maksimumas",
+    "mean": "Vidutinis",
+    "blend": "Maišyti",
+    "sum": "Suma"
+  },
+  "componentLabel": {
+    "methodSelect": "Pasirinkti mozaikos metodą",
+    "attributeFieldSelect": "Pasirinkti lauką",
+    "operatorSelect": "Pasirinkti mozaikos operatorių"
+  }
+}

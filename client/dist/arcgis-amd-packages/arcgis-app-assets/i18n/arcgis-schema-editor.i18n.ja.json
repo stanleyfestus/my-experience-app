@@ -1,0 +1,14 @@
+{
+  "expandAll": "すべて展開",
+  "collapseAll": "すべて折りたたむ",
+  "categoryItem": {
+    "expand": "展開",
+    "collapse": "折りたたむ",
+    "editCategory": "カテゴリの編集",
+    "deleteCategory": "カテゴリの削除",
+    "addSubcategory": "サブカテゴリの追加",
+    "addCategory": "カテゴリの追加",
+    "save": "保存",
+    "cancel": "キャンセル"
+  }
+}

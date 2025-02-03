@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"Utw\xf3rz nowe",newExperience:"Nowe \u015brodowisko",experiences:"\u015arodowiska",templates:"Szablony",developerEdition:"Developer Edition"})}}}));

@@ -1,0 +1,17 @@
+{
+  "value": "Vrednost",
+  "classname": "ClassName",
+  "color": "Boja",
+  "raster": "Raster",
+  "tableType": "Tip tabele",
+  "manual": "Ručno",
+  "external": "Eksterno",
+  "browseTable": "Pregled tabele",
+  "unsupportedDataType": "Nepodržani tip",
+  "generate": "Generiši tabelu",
+  "minValue": "Minimalna vrednost",
+  "maxValue": "Maksimalna vrednost",
+  "classBaseName": "Osnovno ime klase",
+  "colorscheme": "Šema boja",
+  "defaultClassName": "Oznaka_"
+}

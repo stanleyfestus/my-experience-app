@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Alanlar",
+  "filterAttributes": "Arama alanları",
+  "selected": "seçili",
+  "integer": "Tamsayı",
+  "number": "Sayı",
+  "string": "Dize",
+  "date": "Tarih",
+  "dataType": "Veri türü",
+  "matching": "eşleştirme",
+  "selectAll": "Tümünü seç",
+  "deselectAll": "Tümünün seçimini kaldır",
+  "displayName": "Ekran adı",
+  "type": "Tür",
+  "default": "Varsayılan",
+  "fieldName": "Alan adı",
+  "sort": "Sırala",
+  "filter": "Filtrele",
+  "filterDataType": "Veri türüne göre filtrele",
+  "filterFieldName": "Alan adına göre filtrele",
+  "addField": "Alan ekle"
+}

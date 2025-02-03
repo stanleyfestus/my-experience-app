@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"Sukurti nauj\u0105",newExperience:"Nauja patirtis",experiences:"Patirtys",templates:"\u0160ablonai",developerEdition:"K\u016br\u0117jo leidimas"})}}}));

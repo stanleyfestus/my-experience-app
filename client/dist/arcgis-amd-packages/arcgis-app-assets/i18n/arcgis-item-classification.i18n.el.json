@@ -1,0 +1,22 @@
+{
+  "cancel": "Ακύρωση",
+  "reset": "Επαναφορά",
+  "resetting": "Επαναφορά...",
+  "save": "Αποθήκευση",
+  "saving": "Αποθήκευση...",
+  "itemClassificationCategoryLabel": "Ετικέτα κατηγορίας ταξινόμησης αντικειμένου",
+  "itemClassificationEditLabel": "Επεξεργασία ταξινόμησης",
+  "itemClassificationValidateError": "Η επικύρωση απέτυχε, η τιμή ταξινόμησης του αντικειμένου δεν θα συμπληρωθεί! Επεξεργαστείτε και αποθηκεύστε μια νέα.",
+  "classificationValueSaved": "Η τιμή ταξινόμησης αποθηκεύτηκε",
+  "classificationNotificationHandler": "Χειρισμός ειδοποίησης ταξινόμησης",
+  "openModal": "Άνοιγμα βοηθητικού παραθύρου",
+  "currentSelections": "Τρέχουσες επιλογές",
+  "fieldSelectionError": "Το πεδίο αυτό είναι απαιτούμενο.",
+  "selectAnOption": "Κάντε μια επιλογή",
+  "selectOptions": "Κάντε επιλογή(ες)",
+  "singleSelectionLabel": "Πτυσσόμενο μενού μοναδικής επιλογής",
+  "multipleSelectionLabel": "Πτυσσόμενο μενού πολλαπλής επιλογής",
+  "singleAttributeError": "Το περιεχόμενο ΠΡΕΠΕΙ να καθορίζει ένα ${attributeName}. Επανεξετάστε τις επιλογές σας.",
+  "multipleAttributeErrors": "Το περιεχόμενο ΠΡΕΠΕΙ να καθορίζει ένα ${attributeString} και ένα ${lastAttributeName}. Επανεξετάστε τις επιλογές σας.",
+  "classificationSectionLabel": "Ταξινόμηση"
+}

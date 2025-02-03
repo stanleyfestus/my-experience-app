@@ -1,0 +1,22 @@
+{
+  "allowAnalysisReason": "שכבת תצלומים אחת או יותר מהמפה לא מופיעות כאן מכיוון שמאפיין התרת שירות הניתוח לא מופעל. <a href='${ docLink }' target='_blank'>מידע נוסף.</a><br>",
+  "createSketch": "צור סקיצה",
+  "dataTypeMismatch": "לשכבה שנבחרה אין את סוג הנתונים הנכון.",
+  "drawInputFeatures": "שרטט ישויות קלט",
+  "featureCountAboveMaximum": "ספירת היישויות לא יכולה להיות גדולה מ-${maximum}.",
+  "featureCountBelowMinimum": "ספירת היישויות לא יכולה להיות קטנה מ-${minimum}.",
+  "geometryMismatch": "לשכבה שנבחרה אין את הגיאומטריה הנכונה.",
+  "isRequired": "זהו פרמטר חובה.",
+  "layer": "שכבה",
+  "layerAction": "${layerName} פעולות",
+  "layerNotAvailable": "נכשלה טעינת שכבה ${layerName}",
+  "layerNotSupported": "השכבה שנבחרה לא נתמכת.",
+  "layersFilteredOut": "חלק מהשכבות סוננו החוצה.",
+  "layersNotAllowAnalysis": "ניתוח אינו מותר עבור חלק מהשכבות במפה זו.",
+  "loadingSketch": "טוען סקיצה...",
+  "multipleLayersNotAvailable": "נכשלה טעינת שכבה ${layerName} ואחרות",
+  "numberFeatures": "מספר ישויות: ${featureCount}",
+  "numberFeaturesLoading": "מחשב...",
+  "proxyReason": "שכבה אחת או יותר מהמפה לא מופיעות כאן מכיוון שהן לא משותפות איתך או שהן לא נגישות ציבורית. <a href='${ docLink }' target='_blank'>מידע נוסף.</a><br>",
+  "replaceLayer": "החלף שכבה"
+}

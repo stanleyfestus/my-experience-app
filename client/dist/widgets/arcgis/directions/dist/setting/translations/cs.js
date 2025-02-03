@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Nastaven\xed trasy",searchSettings:"Nastaven\xed vyhled\xe1v\xe1n\xed",generalSettings:"Obecn\xe1 nastaven\xed",routeUrl:"URL trasy",outputStops:"Zast\xe1vky",outputRoute:"Trasa",outputDirectionPoints:"Body sm\u011bru",outputDirectionLines:"Linie sm\u011bru"})}}}));

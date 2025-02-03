@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Mot\u012bvs",customTheme:"Piel\u0101got",resetTheme:"Atiestat\u012bt",backToMainThemePanel:"Atpaka\u013c",customPaletteTitle:"Piel\u0101got paletes kr\u0101sas",customFontsetTitle:"Piel\u0101got fontu kopu",customAppElementsTitle:"Lietotnes elementi"})}}}));

@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Ruttinst\xe4llningar",searchSettings:"S\xf6kinst\xe4llningar",generalSettings:"Allm\xe4nna inst\xe4llningar",routeUrl:"Rutt-URL",outputStops:"Stopp",outputRoute:"Rutt",outputDirectionPoints:"Riktningspunkter",outputDirectionLines:"Riktningslinjer"})}}}));

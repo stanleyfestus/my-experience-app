@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Stĺpce",
+  "filterAttributes": "Stĺpce pre vyhľadávanie",
+  "selected": "vybrané",
+  "integer": "Celé číslo",
+  "number": "Číslo",
+  "string": "Reťazec",
+  "date": "Dátum",
+  "dataType": "Dátový typ",
+  "matching": "zhodné",
+  "selectAll": "Vybrať všetko",
+  "deselectAll": "Zrušiť výber všetkého",
+  "displayName": "Názov na zobrazenie",
+  "type": "Typ",
+  "default": "Predvolené",
+  "fieldName": "Názov stĺpca",
+  "sort": "Zoradiť",
+  "filter": "Filter",
+  "filterDataType": "Filtrovať podľa dátového typu",
+  "filterFieldName": "Filtrovať podľa názvu poľa",
+  "addField": "Pridať stĺpec"
+}

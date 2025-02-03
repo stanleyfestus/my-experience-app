@@ -1,0 +1,45 @@
+{
+  "noTimeEnabledLayers": "Ajateadlikke kihte pole saadaval",
+  "enableTimeSlider": "Rakenda ajafiltrit",
+  "startEndPoints": {
+    "title": "Algus-/lõpupunktid",
+    "timeDisplay": "Ajaliuguri režiim",
+    "currentInterval": "Kuva andmed ajavahemiku piires",
+    "currentIntervalHelp": "Kuvatakse praegusele ajavahemikule langevad ajaandmed.",
+    "progressively": "Kuva andmed järk-järgult",
+    "progressivelyHelp": "Ajaandmed kuvatakse järk-järgult algus- ja lõpuaja vahel.",
+    "instant": "Kuva andmed ajahetkel",
+    "instantHelp": "Kuvatakse ajalised andmed, mis langevad ühele ajahetkele.",
+    "startDate": "Alguskuupäev",
+    "startTime": "Algusaeg",
+    "endDate": "Lõppkuupäev",
+    "endTime": "Lõpuaeg"
+  },
+  "timeInterval": {
+    "title": "Ajavahemik",
+    "lengthPerInterval": "Ühe intervalli pikkus",
+    "lengthPerStep": "Koguaeg jagatuna võrdseteks ajaetappideks",
+    "count": "Kogus",
+    "countValidation": "Sisestage number, mis on suurem kui 0 ja väiksem kui ${maxCount}",
+    "unit": "Üksus",
+    "equalSteps": "Koguaeg jagatuna võrdseteks ajaetappideks",
+    "timeUnits": {
+      "centuries": "Sajand",
+      "decades": "Kümnend",
+      "years": "Aasta",
+      "months": "Kuu",
+      "weeks": "Nädal",
+      "days": "Päev",
+      "hours": "Tund",
+      "minutes": "Minut",
+      "seconds": "Sekund",
+      "milliseconds": "Millisekund"
+    }
+  },
+  "playback": {
+    "title": "Taasesitus",
+    "playRate": "Esituskiirus",
+    "slow": "Aeglane",
+    "fast": "Kiire"
+  }
+}

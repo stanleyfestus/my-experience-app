@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"T\u1ea1o m\u1edbi",newExperience:"Tr\u1ea3i nghi\u1ec7m m\u1edbi",experiences:"Tr\u1ea3i nghi\u1ec7m",templates:"Bi\u1ec3u m\u1eabu",developerEdition:"Phi\xean b\u1ea3n d\xe0nh cho Nh\xe0 ph\xe1t tri\u1ec3n"})}}}));

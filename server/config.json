@@ -1,0 +1,12 @@
+{
+  "port": 3001,
+  "https": true,
+  "oauth": {
+    "clientId": "YOUR_APP_ID",
+    "clientSecret": "",
+    "portalUrl": "https://yourportal.domain.com/portal"
+  },
+  "server": {
+    "host": "http://localhost:3001/ExperienceBuilder/"
+  }
+}

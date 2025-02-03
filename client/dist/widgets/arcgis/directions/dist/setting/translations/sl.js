@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Nastavitve poti",searchSettings:"Nastavitve iskanja",generalSettings:"Splo\u0161ne nastavitve",routeUrl:"URL poti",outputStops:"Postanki",outputRoute:"Usmerjanje",outputDirectionPoints:"To\u010dke smeri",outputDirectionLines:"Linije smeri"})}}}));

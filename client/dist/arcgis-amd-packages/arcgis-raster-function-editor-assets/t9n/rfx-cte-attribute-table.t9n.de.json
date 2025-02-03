@@ -1,0 +1,17 @@
+{
+  "value": "Wert",
+  "classname": "ClassName",
+  "color": "Farbe",
+  "raster": "Raster",
+  "tableType": "Tabellentyp",
+  "manual": "Manuell",
+  "external": "Extern",
+  "browseTable": "Tabelle durchsuchen",
+  "unsupportedDataType": "Nicht unterstützter Typ",
+  "generate": "Tabelle generieren",
+  "minValue": "Minimalwert",
+  "maxValue": "Maximalwert",
+  "classBaseName": "Basisname für Klasse",
+  "colorscheme": "Farbschema",
+  "defaultClassName": "Label_"
+}

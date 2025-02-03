@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"Selles piirkonnas loetletakse vidinad, mida on konfigureeritud, kuid mitte praegusel kangal. Need v\xf5ivad esineda muudes seadmere\u017eiimides.",element:"Sisesta vidin",pending:"Ootel",widgetHelpIconLabel:"Teave selle vidina kohta",widgetGuideStart:"Tutvuge v\xf5imalustega"})}}}));

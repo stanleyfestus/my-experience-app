@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({subMenuExpandMode:"L\xe4ge f\xf6r visning av undermeny",mainMenu:"Huvudmeny",subMenu:"Undermeny"})}}}));

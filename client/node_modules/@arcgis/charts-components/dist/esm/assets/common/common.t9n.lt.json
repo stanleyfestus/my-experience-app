@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Vidurkis",
+    "median": "Mediana",
+    "sum": "Suma",
+    "discretePercentile": "Diskretinis procentilis",
+    "minimum": "Minimumas",
+    "maximum": "Maksimumas",
+    "firstQuartile": "Pirmas kvartilis",
+    "thirdQuartile": "Trečias kvartilis",
+    "iqr": "IQR",
+    "standardDeviation": "Standartinis nuokrypis",
+    "variance": "Nuokrypis",
+    "count": "Bendras skaičius",
+    "aggregation": "${ statistics } iš ${ fieldName }",
+    "percent": "Procentai",
+    "noAggregation": "Be agregavimo",
+    "meanValue": "Vidurkio reikšmė"
+  },
+  "overlays": {
+    "mean": "Vidurkis",
+    "median": "Mediana",
+    "stdDev": "Standartinis nuokrypis",
+    "normal": "Normalus paskirstymas",
+    "trendline": "Tendencijų linija"
+  },
+  "guideTooltipLabel": "Nuo ${ guideStart } iki ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Kita"
+  },
+  "notAvailable": "Negalima",
+  "field": "Laukas"
+}

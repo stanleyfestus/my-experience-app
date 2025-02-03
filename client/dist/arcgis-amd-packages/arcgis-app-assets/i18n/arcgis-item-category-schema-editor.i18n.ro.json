@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Configurarea categoriilor de conținut",
+  "modalGroupHeader": "Configurarea categoriilor de grup",
+  "helpText": "Editați, ștergeți sau reordonați categoriile din organizația dvs.",
+  "helpTextGroup": "Editați, ștergeți sau reordonați categorii pentru conținut în acest grup.",
+  "helpTextDescription": "Rețineți că alți membri ai organizației dvs. pot să fi alocat deja aceste categorii reperelor proprii, iar editarea schemei va actualiza acele repere în mod corespunzător.",
+  "helpTextGroupDescription": "Rețineți că alți membri ai grupului pot să fi alocat deja aceste categorii reperelor proprii, iar editarea schemei va actualiza acele repere în mod corespunzător.",
+  "loadingText": "Încărcare șabloane de scheme",
+  "cancel": "Anulare",
+  "finishSetup": "Terminare configurare",
+  "hasUnsavedChanges": "Ați efectuat modificări la nivel de categorie care se vor pierde dacă nu salvați mai întâi. Sigur doriți să închideți această vizualizare și să pierdeți modificările?",
+  "error": {
+    "generic": {
+      "title": "Eroare la actualizarea categoriilor",
+      "message": "Ceva nu a mers bine. Încercați din nou mai târziu."
+    },
+    "maxDepthExceeded": {
+      "title": "Eroare la actualizarea categoriilor",
+      "message": "Nu puteți imbrica mai multe de 2 niveluri în adâncime."
+    },
+    "destinationHasSameName": {
+      "title": "Eroare la actualizarea categoriilor",
+      "message": "O categorie cu același nume există deja în categoria de destinație."
+    },
+    "emptyTitle": {
+      "title": "Eroare la actualizarea categoriilor",
+      "message": "Titlul categoriei nu poate rămâne necompletat."
+    },
+    "noSchema": {
+      "title": "Schema nu a fost găsită",
+      "message": "Schema elementului nu este găsită pentru utilizator."
+    },
+    "maxCharacter": {
+      "title": "Eroare la actualizarea categoriilor",
+      "message": "Numele pot avea maximum ${maxCharacter} caractere."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Ștergere categorie",
+      "cta": "Ștergere categorie",
+      "message": {
+        "single": "Un reper a fost deja alocat acestei categorii. Ștergerea categoriei o va elimina și din acest reper.",
+        "multiple": "${number} elemente sunt alocate acestei categorii. Ștergerea categoriei o va elimina și din aceste repere.",
+        "unknown": "Elementele alocate acestei categorii: ${number}. Ștergerea categoriei o va elimina și din aceste repere."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Actualizare categorie",
+      "message": {
+        "single": "Un reper a fost deja alocat acestei categorii. Actualizarea categoriei va actualiza reperul pentru a utiliza \"${newTitle}\".",
+        "multiple": "${number} elemente sunt alocate acestei categorii. Actualizarea categoriei va actualiza reperul pentru a utiliza \"${newTitle}\".",
+        "unknown": "Elementele alocate acestei categorii: ${number}. Actualizarea categoriei va actualiza reperul pentru a utiliza \"${newTitle}\"."
+      },
+      "cta": "Actualizare categorie"
+    }
+  },
+  "template": {
+    "title": "Șabloane de categorii",
+    "learnMore": "Aflați mai multe",
+    "templateList": {
+      "custom": {
+        "title": "Categorii particulare",
+        "message": "Creați propriile categorii pentru a organiza conținutul în organizaţia dvs.",
+        "messageGroup": "Creați propriile categorii pentru a organiza conținut în acest grup."
+      },
+      "arcgis": {
+        "title": "Categorii ArcGIS",
+        "message": "Categoriile ArcGIS includ o selecţie de categorii și subcategorii de subiecte care pot fi utilizate pentru a clasifica mai multe tipuri de conţinut geospaţial. Aceste categorii sunt utilizate pentru a susţine ArcGIS Living Atlas al lumii."
+      },
+      "iso": {
+        "title": "Categorii ISO",
+        "message": "Categoriile ISO includ categorii de teme de la Organizaţia Internaţională pentru Standardizare care oferă o metodă de descriere și catalogare a informaţiilor geografice."
+      },
+      "inspire": {
+        "title": "Categorii INSPIRE",
+        "message": "Categoriile INSPIRE includ un set cuprinzător de teme de date spațiale definite în Directiva INSPIRE."
+      }
+    }
+  }
+}

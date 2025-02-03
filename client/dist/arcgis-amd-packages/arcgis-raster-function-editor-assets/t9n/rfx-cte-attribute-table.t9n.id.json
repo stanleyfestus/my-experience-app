@@ -1,0 +1,17 @@
+{
+  "value": "Nilai",
+  "classname": "ClassName",
+  "color": "Warna",
+  "raster": "Raster",
+  "tableType": "Jenis Tabel",
+  "manual": "Manual",
+  "external": "Eksternal",
+  "browseTable": "Jelajahi Tabel",
+  "unsupportedDataType": "Jenis tidak didukung",
+  "generate": "Buat Tabel",
+  "minValue": "Nilai Minimum",
+  "maxValue": "Nilai Maksimum",
+  "classBaseName": "Nama Dasar Kelas",
+  "colorscheme": "Skema Warna",
+  "defaultClassName": "Label_"
+}

@@ -1,0 +1,20 @@
+{
+  "backLabel": "Nazaj",
+  "cannotReopenTool": "Orodja ni bilo mogoče ponovno odpreti. Parametri orodja so bili povrnjeni na privzete.",
+  "cannotReopenWebTool": "Spletnega orodja ni mogoče odpreti. <calcite-link target='_blank' href='${ docLink }'>Več</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Prekliči",
+    "confirmationPrompt": "Ali želite nadaljevati brez posodabljanja parametrov analize?",
+    "continueRun": "Nadaljujte",
+    "creditEstimate": "Ocenjeno število kreditov: ${cost}",
+    "creditReductionHint": "<em>Če želite zmanjšati število kreditov za analizo, razmislite o dodajanju filtra ali uporabi okolja za analizo za nastavitev obsega obdelave.</em> <calcite-link target='_blank' href='${ docLink }'>Več o tem</calcite-link>",
+    "creditThreshold": "Kreditni prag: ${threshold}",
+    "heading": "Kreditni prag je bil dosežen",
+    "learnMore": "Več",
+    "thresholdExceeded": "Ocenjeni stroški za to analizo so višji od vašega kreditnega praga."
+  },
+  "failedToExecuteEstimate": "Smernice za oddajo. Izvedba EstimateRasterAnalysisCost ni uspela",
+  "missingPermissionForWebTool": "Do tega orodja ni mogoče dostopati. Zagotovite, da orodje obstaja in da ima vaš uporabnik dovoljenje za dostop.",
+  "runAnalysisLabel": "Zaženi",
+  "webToolJSONChanged": "Posodobljenih je bilo eden ali več parametrov. Nekaterih parametrov ni dovoljeno izpolniti iz zgodovine."
+}

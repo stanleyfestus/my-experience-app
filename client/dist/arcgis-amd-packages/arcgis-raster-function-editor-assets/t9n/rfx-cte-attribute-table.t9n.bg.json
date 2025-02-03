@@ -1,0 +1,17 @@
+{
+  "value": "Стойност",
+  "classname": "Име на клас",
+  "color": "Цвят",
+  "raster": "Растер",
+  "tableType": "Тип таблица",
+  "manual": "Ръчно",
+  "external": "Външна",
+  "browseTable": "Преглед на таблица",
+  "unsupportedDataType": "Неподдържан тип",
+  "generate": "Генериране на таблица",
+  "minValue": "Минимална стойност",
+  "maxValue": "Максимална стойност",
+  "classBaseName": "Базово име на клас",
+  "colorscheme": "Цветова схема",
+  "defaultClassName": "Надпис_"
+}

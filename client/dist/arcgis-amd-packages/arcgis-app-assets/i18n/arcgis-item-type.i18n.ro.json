@@ -1,0 +1,20 @@
+{
+  "hosted": "găzduită",
+  "hostedView": "vizualizare, găzduită",
+  "hostedPhotos": "găzduite, fotografii",
+  "hostedCollection": "găzduită, colecție",
+  "hostedMultidimensional": "găzduită, multidimensională",
+  "hostedCollectionMultidimensional": "găzduită, colecție, multidimensională",
+  "collectionMultidimensional": "colecție, multidimensională",
+  "multidimensional": "multidimensională",
+  "collection": "colecție",
+  "photoLocations": "fotografii",
+  "locatorView": "vizualizare",
+  "utilityNetwork": "rețea de utilități",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

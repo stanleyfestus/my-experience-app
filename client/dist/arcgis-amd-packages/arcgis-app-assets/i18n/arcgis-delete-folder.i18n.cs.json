@@ -1,0 +1,22 @@
+{
+  "deleteFolder": "Smazat složku",
+  "delete": "Smazat",
+  "permanentlyDelete": "Trvale odstranit",
+  "back": "Zpět",
+  "cancel": "Storno",
+  "success": "Složka '${title}' byla úspěšně smazána",
+  "deleteProtectedItemsInFolder": "Složku nelze odstranit, protože některé položky jsou chráněny proti odstranění nebo se jedná o závislé položky.",
+  "message": {
+    "empty": "Opravdu chcete odstranit složku <strong style='font-weight: 500'>${title}</strong>?",
+    "recycleAll": "Opravdu chcete odstranit složku <strong style='font-weight: 500'>${title}</strong> a její obsah přesunout do koše?",
+    "mustBeEmpty": "Aby bylo možné složku <strong style='font-weight: 500'>${title}</strong> odstranit, musí být prázdná.",
+    "aFewCannotBeDeleted": "Několik položek nelze odstranit. Chcete pokračovat v odstraňování zbytku?",
+    "canBeEmptied": "Aby bylo možné složku <strong style='font-weight: 500'>${title}</strong> odstranit, musí být prázdná. Chcete pokračovat v odstraňování zbytku?",
+    "cannotBeDeleted": "Složku <strong style='font-weight: 500'>${title}</strong> nelze odstranit, protože její položky nelze odstranit."
+  },
+  "disabledMessage": {
+    "single": "V této složce <span style='color:red'> je </span>1 položka${label}.<br/></br/>Určitě chcete tuto složku a její položku odstranit?",
+    "multiple": "V této složce <span style='color:red'> je ${number}</span> položek${label}.<br/></br/>Určitě chcete tuto složku a její položky odstranit?",
+    "unknown": "Určitě chcete tuto složku ${label} odstranit?"
+  }
+}

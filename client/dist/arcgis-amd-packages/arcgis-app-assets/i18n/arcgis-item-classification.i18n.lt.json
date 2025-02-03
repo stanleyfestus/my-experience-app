@@ -1,0 +1,22 @@
+{
+  "cancel": "Atšaukti",
+  "reset": "Atkurti",
+  "resetting": "Nustatoma iš naujo...",
+  "save": "Įrašyti",
+  "saving": "Įrašoma...",
+  "itemClassificationCategoryLabel": "Elementų klasifikacijos kategorijos žyma",
+  "itemClassificationEditLabel": "Redaguoti klasifikaciją",
+  "itemClassificationValidateError": "Patvirtinti nepavyko, elementų klasifikacijos reikšmė nebus užpildyta! Redaguokite ir įrašykite naują.",
+  "classificationValueSaved": "Klasifikacijos reikšmė įrašyta",
+  "classificationNotificationHandler": "Klasifikacijos pranešimų tvarkymo priemonė",
+  "openModal": "Atidaryti modalųjį dialogą",
+  "currentSelections": "Dabartiniai pasirinkimai",
+  "fieldSelectionError": "Tai yra būtinas laukas.",
+  "selectAnOption": "Pasirinkite parinktį",
+  "selectOptions": "Pasirinkimo nustatymas (-ai)",
+  "singleSelectionLabel": "Vieno pasirinkimo iššokantysis meniu",
+  "multipleSelectionLabel": "Kelių pasirinkimų iššokantysis meniu",
+  "singleAttributeError": "Turinyje PRIVALOMA nurodyti ${attributeName}. Peržiūrėkite savo pasirinkimus.",
+  "multipleAttributeErrors": "Turinyje PRIVALOMA nurodyti ${attributeString} ir ${lastAttributeName}. Peržiūrėkite savo pasirinkimus.",
+  "classificationSectionLabel": "Klasifikacija"
+}

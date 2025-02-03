@@ -1,0 +1,10 @@
+{
+  "name": "sidebar",
+  "type": "template",
+  "templateType": "fixed-modal-window",
+  "label": "Sidebar",
+  "thumbnail": "thumbnail.png",
+  "order": 7,
+  "thumbnailWidth": 332,
+  "thumbnailHeight": 280
+}

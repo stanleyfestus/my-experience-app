@@ -1,0 +1,18 @@
+{
+  "sketches": "Realizar bocetos",
+  "actions": "Acciones",
+  "edit": "Editar",
+  "duplicate": "Duplicada",
+  "featureDuplicated": "Entidad seleccionada duplicada correctamente.",
+  "featuresDuplicated": "Entidades seleccionadas duplicadas correctamente.",
+  "copyToNewSketchLayer": "Copiar en nueva capa de bocetos",
+  "delete": "Eliminar",
+  "addSketch": "Agregar entidad",
+  "textPreview": "A",
+  "point": "Punto",
+  "line": "Línea",
+  "polygon": "Polígono",
+  "text": "Texto",
+  "collapse": "Contraer",
+  "expand": "Expandir"
+}

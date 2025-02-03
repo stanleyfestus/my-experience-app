@@ -1,0 +1,17 @@
+{
+  "cancel": "Atšaukti",
+  "deletePrompt": "Ar tikrai norite ištrinti šį lauką iš sluoksnio?",
+  "deleteField": "Ištrinti lauką",
+  "deleteFields": "Ištrinti laukus",
+  "deletingField": "Laukas ištrinamas...",
+  "newFeature": "Naujas elementas",
+  "fieldDeleted": "Laukas sėkmingai ištrintas.",
+  "fieldDeletionUnsuccessful": "Lauko ištrinti nepavyko",
+  "fieldInUse": "Šis laukas naudojamas šiose srityse:",
+  "expressions": "Išraiškos",
+  "popups": "Iškylantys langai",
+  "forms": "Formos",
+  "charts": "Diagramos",
+  "deleteWarning": "Ištrynus lauką, naudojamą sluoksnio elementams konfigūruoti, veikimas gali pasikeisti.",
+  "learnMore": "Sužinokite daugiau"
+}

@@ -1,0 +1,22 @@
+{
+  "deleteFolder": "Usuń folder",
+  "delete": "Usuń",
+  "permanentlyDelete": "Trwale usuń",
+  "back": "Wstecz",
+  "cancel": "Anuluj",
+  "success": "Folder '${title}' został pomyślnie usunięty",
+  "deleteProtectedItemsInFolder": "Nie można usunąć folderu, ponieważ niektóre elementy są chronione przed usunięciem lub istnieją elementy od nich zależne.",
+  "message": {
+    "empty": "Czy na pewno chcesz usunąć folder <strong style='font-weight: 500'>${title}</strong>?",
+    "recycleAll": "Czy na pewno chcesz usunąć folder <strong style='font-weight: 500'>${title}</strong> i wysłać jego zawartość do kosza?",
+    "mustBeEmpty": "Aby można było usunąć folder <strong style='font-weight: 500'>${title}</strong>, musi on zostać opróżniony.",
+    "aFewCannotBeDeleted": "Nie można usunąć niektórych elementów. Czy chcesz usunąć pozostałe?",
+    "canBeEmptied": "Aby można było usunąć folder <strong style='font-weight: 500'>${title}</strong>, musi on zostać opróżniony. Czy chcesz usunąć te elementy?",
+    "cannotBeDeleted": "Nie można usunąć folderu <strong style='font-weight: 500'>${title}</strong>, ponieważ zawiera on elementy, których nie można usunąć."
+  },
+  "disabledMessage": {
+    "single": "W folderze <span style='color:red'> znajduje się </span>1 element${label}.<br/></br/>Czy na pewno chcesz usunąć ten folder i ten element?",
+    "multiple": "W folderze <span style='color:red'> znajduje się następująca liczba elementów: ${number}</span>${label}.<br/></br/>Czy na pewno usunąć ten folder i wszystkie znajdujące się w nim elementy?",
+    "unknown": "Czy na pewno chcesz usunąć folder ${label}?"
+  }
+}

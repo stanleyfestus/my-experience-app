@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Felter",
+  "filterAttributes": "Søkefelter",
+  "selected": "valgte",
+  "integer": "Heltall",
+  "number": "Tall",
+  "string": "Streng",
+  "date": "Dato",
+  "dataType": "Datatype",
+  "matching": "matching",
+  "selectAll": "Merk alt",
+  "deselectAll": "Fjern merkingen på alle",
+  "displayName": "Visningsnavn",
+  "type": "Type",
+  "default": "Standard",
+  "fieldName": "Visningsnavn",
+  "sort": "Sorter",
+  "filter": "Filter",
+  "filterDataType": "Filtrer etter datatype",
+  "filterFieldName": "Filtrer etter feltnavn",
+  "addField": "Legg til felt"
+}

@@ -1,0 +1,6 @@
+{
+  "selectFeature": "Objektikihi valimine",
+  "browseLayer": "Sirvi kihte",
+  "loading": "Laadimine...",
+  "errorCodes": { "required": "See parameeter on nõutav." }
+}

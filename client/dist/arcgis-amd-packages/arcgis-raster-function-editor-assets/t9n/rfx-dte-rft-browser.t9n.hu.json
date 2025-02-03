@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Raszterfüggvénysablonok tallózása",
+  "rfxVariable": "RaszterFunkcióVáltozó",
+  "outputRaster": "Kimeneti raszter",
+  "readingFailed": "Nem sikerült a kiválasztott raszterfunkció-sablon betöltése."
+}

@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"\u8def\u5f84\u8bbe\u7f6e",searchSettings:"\u641c\u7d22\u8bbe\u7f6e",generalSettings:"\u5e38\u89c4\u8bbe\u7f6e",routeUrl:"\u8def\u5f84 URL",outputStops:"\u505c\u9760\u70b9",outputRoute:"\u8def\u5f84",outputDirectionPoints:"\u65b9\u5411\u70b9",outputDirectionLines:"\u65b9\u5411\u7ebf"})}}}));

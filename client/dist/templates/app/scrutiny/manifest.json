@@ -1,0 +1,18 @@
+{
+  "name": "scrutiny",
+  "type": "template",
+  "templateType": "app",
+  "label": "Scrutiny",
+  "description": "The scrutiny template features a wide banner at the top of the page, with similarly structured scrolling modules below.",
+  "thumbnail": "thumbnail.png",
+  "order": 40,
+  "templateCreateVersion": "1.15.0",
+  "tags": [
+    "Web page",
+    "Scrolling"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": false,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

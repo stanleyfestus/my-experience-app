@@ -1,0 +1,17 @@
+{
+  "cancel": "Peruuta",
+  "deletePrompt": "Haluatko varmasti poistaa tämän kentän karttatasosta?",
+  "deleteField": "Poista kenttä",
+  "deleteFields": "Poista kentät",
+  "deletingField": "Poistetaan kenttää...",
+  "newFeature": "Uusi kohde",
+  "fieldDeleted": "Kentän poisto onnistui",
+  "fieldDeletionUnsuccessful": "Kentän poisto epäonnistui",
+  "fieldInUse": "Tätä kenttää käytetään seuraavilla alueilla:",
+  "expressions": "Lausekkeet",
+  "popups": "Ponnahdusikkunat",
+  "forms": "Lomakkeet",
+  "charts": "Kaaviot",
+  "deleteWarning": "Karttatason ominaisuuksien määrittämiseen käytetyn kentän poistaminen voi aiheuttaa muutoksen toiminnassa.",
+  "learnMore": "Lisätietoja"
+}

@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Polja",
+  "filterAttributes": "Polja za pretraživanje",
+  "selected": "označeno",
+  "integer": "Cijeli broj",
+  "number": "Broj",
+  "string": "Tekst",
+  "date": "Datum",
+  "dataType": "Vrsta podataka",
+  "matching": "podudaranje",
+  "selectAll": "Odaberi sve",
+  "deselectAll": "Odznači sve",
+  "displayName": "Naziv prikaza",
+  "type": "Vrsta",
+  "default": "Zadano",
+  "fieldName": "Naziv polja",
+  "sort": "Sortiraj",
+  "filter": "Filtriraj",
+  "filterDataType": "Filtriraj po vrsti podataka",
+  "filterFieldName": "Filtriraj po nazivu polja",
+  "addField": "Dodaj polje"
+}

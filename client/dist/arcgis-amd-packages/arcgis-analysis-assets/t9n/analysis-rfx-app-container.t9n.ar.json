@@ -1,0 +1,18 @@
+{
+  "backLabel": "رجوع",
+  "browseHeader": "حدد الطبقة",
+  "cannotReopenRasterFunction": "تعذرت إعادة فتح دالة البيانات النقطية.",
+  "creditThresholdModal": {
+    "cancelRun": "إلغاء الأمر",
+    "confirmationPrompt": "هل ترغب في المتابعة دون تحديث معلمات التحليل؟",
+    "continueRun": "متابعة",
+    "creditEstimate": "الأرصدة المقدرة: ${cost}",
+    "creditReductionHint": "<em>لتقليل عدد الاعتمادات المراد تحليلها، فكر في إضافة عامل تصفية أو استخدام بيئات التحليل لتعيين نطاق معالجة.</em> <calcite-link target='_blank' href='${ docLink }'>معرفة المزيد</calcite-link>",
+    "creditThreshold": "حد الرصيد: ${threshold}",
+    "heading": "تم الوصول إلى حد الرصيد",
+    "learnMore": "تعرّف على المزيد",
+    "thresholdExceeded": "التكلفة المقدرة لهذا التحليل تتجاوز حد الرصيد."
+  },
+  "failedToExecuteEstimate": "فشل الإرسال. فشل تنفيذ EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "تشغيل"
+}

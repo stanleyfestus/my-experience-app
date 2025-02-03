@@ -1,0 +1,20 @@
+{
+  "hosted": "driftad",
+  "hostedView": "driftad, vy",
+  "hostedPhotos": "driftad, foton",
+  "hostedCollection": "driftad, samling",
+  "hostedMultidimensional": "driftad, flerdimensionell",
+  "hostedCollectionMultidimensional": "driftad, samling, flerdimensionell",
+  "collectionMultidimensional": "driftad, flerdimensionell",
+  "multidimensional": "flerdimensionell",
+  "collection": "samling",
+  "photoLocations": "foton",
+  "locatorView": "vy",
+  "utilityNetwork": "infrastruktursnätverk",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

@@ -1,0 +1,20 @@
+{
+  "backLabel": "Natrag",
+  "cannotReopenTool": "Alat se nije mogao ponovno otvoriti. Parametri alata vraćeni su na zadane vrijednosti.",
+  "cannotReopenWebTool": "Nije moguće otvoriti web alat. <calcite-link target='_blank' href='${ docLink }'>Saznajte više</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Odustani",
+    "confirmationPrompt": "Želite li nastaviti bez ažuriranja parametara analize?",
+    "continueRun": "Nastavi",
+    "creditEstimate": "Procijenjeni krediti: ${cost}",
+    "creditReductionHint": "<em>Ako želite broj smanjiti kredita za analizu, razmislite o dodavanju filtra ili upotrijebite okruženja analize prilikom podešavanja obuhvata obrade.</em> <calcite-link target='_blank' href='${ docLink }'>Saznajte više</calcite-link>",
+    "creditThreshold": "Prag kredita: ${threshold}",
+    "heading": "Dosegnut prag kredita",
+    "learnMore": "Saznajte više",
+    "thresholdExceeded": "Procijenjeni trošak ove analize veći je od vašeg praga kredita."
+  },
+  "failedToExecuteEstimate": "Slanje nije uspjelo. Izvršenje EstimateRasterAnalysisCost nije uspjelo",
+  "missingPermissionForWebTool": "Ovom alatu nije moguće pristupiti. Provjerite postoji li alat i ima li vaš korisnik dopuštenje za pristup.",
+  "runAnalysisLabel": "Pokreni",
+  "webToolJSONChanged": "Jedan ili više parametara je ažurirano. Neki se parametri možda neće ponovno popuniti iz povijesti."
+}

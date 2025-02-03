@@ -1,0 +1,22 @@
+{
+  "cancel": "Mégse",
+  "reset": "Alaphelyzetbe állítás",
+  "resetting": "Alaphelyzetbe állítás…",
+  "save": "Mentés",
+  "saving": "Mentés...",
+  "itemClassificationCategoryLabel": "Elemosztályozási kategória címkéje",
+  "itemClassificationEditLabel": "Osztályozás szerkesztése",
+  "itemClassificationValidateError": "Az érvényesítés nem sikerült, az elem osztályozási értéke nem lesz kitöltve! Szerkessze, és mentsen újat.",
+  "classificationValueSaved": "Az osztályozási érték elmentve.",
+  "classificationNotificationHandler": "Osztályozásértesítés-kezelő",
+  "openModal": "Modális megnyitása",
+  "currentSelections": "Aktuális kijelölések",
+  "fieldSelectionError": "A mező kitöltése kötelező.",
+  "selectAnOption": "Válasszon a beállítások közül",
+  "selectOptions": "Válassza ki a beállítás(oka)t",
+  "singleSelectionLabel": "Egyetlen kijelölés legördülő menü",
+  "multipleSelectionLabel": "Többszörös kijelölés legördülő menü",
+  "singleAttributeError": "A tartalomnak meg KELL adnia egy ${attributeName} értéket. Ellenőrizze a kiválasztásokat.",
+  "multipleAttributeErrors": "A tartalomnak meg KELL adnia egy ${attributeString} és ${lastAttributeName}értéket. Ellenőrizze a kiválasztásokat.",
+  "classificationSectionLabel": "Osztályozás"
+}

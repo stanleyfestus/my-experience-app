@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Set\u0103ri rut\u0103",searchSettings:"Set\u0103ri c\u0103utare",generalSettings:"Set\u0103ri generale",routeUrl:"URL rut\u0103",outputStops:"Opriri",outputRoute:"Rut\u0103",outputDirectionPoints:"Puncte direc\u021bie",outputDirectionLines:"Linii direc\u021bie"})}}}));

@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Keskmine",
+    "median": "Keskmine",
+    "sum": "Summa",
+    "discretePercentile": "Diskreetne protsentiil",
+    "minimum": "Miinimum",
+    "maximum": "Maksimum",
+    "firstQuartile": "Esimene kvartiil",
+    "thirdQuartile": "Kolmas kvartiil",
+    "iqr": "IQR",
+    "standardDeviation": "Standardhälve",
+    "variance": "Dispersioon",
+    "count": "Kogus",
+    "aggregation": "${ statistics } /${ fieldName }",
+    "percent": "Protsent",
+    "noAggregation": "Agregeerimist pole",
+    "meanValue": "Keskväärtus"
+  },
+  "overlays": {
+    "mean": "Keskmine",
+    "median": "Keskmine",
+    "stdDev": "Standardhälve",
+    "normal": "Normaaljaotus",
+    "trendline": "Trendijoon"
+  },
+  "guideTooltipLabel": "Alates ${ guideStart } kuni ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Muud"
+  },
+  "notAvailable": "Pole kättesaadav",
+  "field": "Väli"
+}

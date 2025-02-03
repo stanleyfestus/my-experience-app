@@ -1,0 +1,20 @@
+{
+  "backLabel": "Quay lại",
+  "cannotReopenTool": "Không thể mở lại công cụ. Thông số của công cụ đã được trả về giá trị mặc định.",
+  "cannotReopenWebTool": "Không thể mở công cụ web. <calcite-link target='_blank' href='${ docLink }'>Tìm hiểu thêm</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Hủy",
+    "confirmationPrompt": "Bạn có muốn tiếp tục mà không cập nhật thông số phân tích không?",
+    "continueRun": "Tiếp tục",
+    "creditEstimate": "Credit ước tính: ${cost}",
+    "creditReductionHint": "<em>Để giảm số lượng credits cho phân tích, hãy cân nhắc thêm bộ lọc hoặc sử dụng môi trường phân tích để thiết lập phạm vi xử lý.</em> <calcite-link target='_blank' href='${ docLink }'>Tìm hiểu thêm</calcite-link>",
+    "creditThreshold": "Ngưỡng credit: ${threshold}",
+    "heading": "Đã đạt đến ngưỡng credit",
+    "learnMore": "Tìm hiểu thêm",
+    "thresholdExceeded": "Chi phí ước tính cho phân tích này lớn hơn ngưỡng credit cho phép của bạn."
+  },
+  "failedToExecuteEstimate": "Gửi thất bại. Không thể thực hiện EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Không thể truy cập công cụ này. Đảm bảo công cụ này tồn tại và người dùng của bạn có quyền truy cập công cụ.",
+  "runAnalysisLabel": "Chạy",
+  "webToolJSONChanged": "Một hoặc nhiều thông số đã được cập nhật. Một số thông số có thể không được khôi phục lại từ lịch sử."
+}

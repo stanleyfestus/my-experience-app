@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Fält",
+  "filterAttributes": "Sökfält",
+  "selected": "valt",
+  "integer": "Heltal",
+  "number": "Nummer",
+  "string": "Sträng",
+  "date": "Datum",
+  "dataType": "Datatyp",
+  "matching": "matchning",
+  "selectAll": "Markera alla",
+  "deselectAll": "Avmarkera alla",
+  "displayName": "Visningsnamn",
+  "type": "Typ",
+  "default": "Standard",
+  "fieldName": "Fältnamn",
+  "sort": "Sortera",
+  "filter": "Filter",
+  "filterDataType": "Filtrera efter datatyp",
+  "filterFieldName": "Filtrera efter fältnamn",
+  "addField": "Lägg till fält"
+}

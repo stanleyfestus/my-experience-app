@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Configura\xe7\xf5es de Rota",searchSettings:"Configura\xe7\xf5es da pesquisa",generalSettings:"Configura\xe7\xf5es gerais",routeUrl:"URL da Rota",outputStops:"Paradas",outputRoute:"Rota",outputDirectionPoints:"Pontos de dire\xe7\xe3o",outputDirectionLines:"Linhas de dire\xe7\xe3o"})}}}));

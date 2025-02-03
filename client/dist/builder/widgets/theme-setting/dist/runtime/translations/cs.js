@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Motiv",customTheme:"P\u0159izp\u016fsobit",resetTheme:"Obnovit",backToMainThemePanel:"Zp\u011bt",customPaletteTitle:"P\u0159izp\u016fsobit barvy palety",customFontsetTitle:"P\u0159izp\u016fsobit sadu p\xedsem",customAppElementsTitle:"Prvky aplikace"})}}}));

@@ -1,0 +1,20 @@
+{
+  "done": "Готово",
+  "cancel": "Отказ",
+  "edit": "Редактиране",
+  "newExpression": "Нов израз",
+  "titlePlaceHolder": "Въведете заглавие",
+  "existing": "Съществуващи",
+  "constraint": "Формуляр",
+  "featureZ": "Z стойност",
+  "formCalculation": "Изчисление на формуляр",
+  "labeling": "Надписване",
+  "popup": "Изскачащ прозорец",
+  "popupElement": "Изскачащ елемент",
+  "featureReductionPopup": "Клъстерен изскачащ прозорец",
+  "featureReductionPopupElement": "Клъстерен изскачащ елемент",
+  "visualization": "Визуализация",
+  "fieldCalculation": "Изчисление на поле",
+  "aggregateField": "Поле обобщаване",
+  "unknown": "Непознато"
+}

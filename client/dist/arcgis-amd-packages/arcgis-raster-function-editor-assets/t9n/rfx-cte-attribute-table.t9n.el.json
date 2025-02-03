@@ -1,0 +1,17 @@
+{
+  "value": "Τιμή",
+  "classname": "Όνομα κλάσης",
+  "color": "Χρώμα",
+  "raster": "Raster",
+  "tableType": "Τύπος πίνακα",
+  "manual": "Χειροκίνητα",
+  "external": "Εξωτερικά",
+  "browseTable": "Περιήγηση στον πίνακα",
+  "unsupportedDataType": "Μη υποστηριζόμενος τύπος",
+  "generate": "Δημιουργία πίνακα",
+  "minValue": "Ελάχιστη τιμή",
+  "maxValue": "Μέγιστη τιμή",
+  "classBaseName": "Τιμή βάσης κλάσης",
+  "colorscheme": "Χρωματικός συνδυασμός",
+  "defaultClassName": "Ετικέτα_"
+}

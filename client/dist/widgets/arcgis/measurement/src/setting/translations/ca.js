@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({distance:"Dist\xe0ncia",area:"\xc0rea",atLeastOne:"S'ha de seleccionar almenys una eina",toolbar:"Barra d'eines"})}}}));

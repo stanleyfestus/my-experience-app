@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Image",imageChooseShape:"\u03a3\u03c7\u03ae\u03bc\u03b1",imageCrop:"\u03a0\u03b5\u03c1\u03b9\u03ba\u03bf\u03c0\u03ae"})}}}));

@@ -1,0 +1,17 @@
+{
+  "value": "Värde",
+  "classname": "ClassName",
+  "color": "Färg",
+  "raster": "Raster",
+  "tableType": "Tabelltyp",
+  "manual": "Manuell",
+  "external": "Extern",
+  "browseTable": "Bläddra i tabell",
+  "unsupportedDataType": "Typen stöds inte",
+  "generate": "Skapa tabell",
+  "minValue": "Minsta värde",
+  "maxValue": "Maximalt värde",
+  "classBaseName": "Klassbasnamn",
+  "colorscheme": "Färgschema",
+  "defaultClassName": "Label_"
+}

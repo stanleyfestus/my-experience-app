@@ -1,0 +1,9 @@
+{
+  "summary": "Souhrn",
+  "description": "Popis",
+  "addSummary": "Přidat shrnutí",
+  "addDescription": "Přidat popis",
+  "charactersLeft": "Zbývající znaky: ${num}",
+  "invalid": "Souhrn nesmí obsahovat následující znaky: < nebo >.",
+  "invalidDescription": "Popis nesmí obsahovat následující znaky: < nebo >."
+}

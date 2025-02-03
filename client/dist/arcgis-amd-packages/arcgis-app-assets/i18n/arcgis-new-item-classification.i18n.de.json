@@ -1,0 +1,23 @@
+{
+  "cancel": "Abbrechen",
+  "reset": "Zurücksetzen",
+  "resetting": "Wird zurückgesetzt...",
+  "save": "Speichern",
+  "saving": "Wird gespeichert...",
+  "itemClassificationLabel": "Klassifizierung",
+  "itemClassificationCategoryLabel": "Beschriftung der Elementklassifizierungskategorie",
+  "itemClassificationEditLabel": "Klassifizierung bearbeiten",
+  "itemClassificationValidateError": "Validierung fehlgeschlagen. Der Elementklassifizierungswert wird nicht eingetragen! Bearbeiten Sie einen neuen Wert, und speichern Sie ihn.",
+  "classificationValueSaved": "Der Klassifizierungswert wurde gespeichert",
+  "classificationNotificationHandler": "Klassifizierungsbenachrichtigungshandler",
+  "openModal": "Modale Registerkarte öffnen",
+  "currentSelections": "Aktuelle Auswahl",
+  "fieldSelectionError": "Dies ist ein erforderliches Feld.",
+  "selectAnOption": "Eine Option auswählen",
+  "selectOptions": "Option(en) auswählen",
+  "singleSelectionLabel": "Einfachauswahl-Dropdown-Menü",
+  "multipleSelectionLabel": "Mehrfachauswahl-Dropdown-Menü",
+  "singleAttributeError": "\"${attributeName}\" MUSS im Inhalt angegeben werden. Überprüfen Sie die Auswahl.",
+  "multipleAttributeErrors": "\"${attributeString}\" und \"${lastAttributeName}\" MÜSSEN im Inhalt angegeben werden. Überprüfen Sie die Auswahl.",
+  "classificationSectionLabel": "Klassifizierung"
+}

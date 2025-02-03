@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Imagine",imageChooseShape:"Form\u0103",imageCrop:"Decupare"})}}}));

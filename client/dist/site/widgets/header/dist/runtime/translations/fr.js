@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"Cr\xe9er",newExperience:"Nouvelle exp\xe9rience",experiences:"Exp\xe9riences",templates:"Mod\xe8les",developerEdition:"Developer Edition"})}}}));

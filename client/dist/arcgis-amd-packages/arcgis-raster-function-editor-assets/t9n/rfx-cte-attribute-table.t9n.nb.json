@@ -1,0 +1,17 @@
+{
+  "value": "Verdi",
+  "classname": "Klassenavn",
+  "color": "Farge",
+  "raster": "Raster",
+  "tableType": "Tabelltype",
+  "manual": "Manuell",
+  "external": "Ekstern",
+  "browseTable": "Se gjennom tabell",
+  "unsupportedDataType": "Typen støttes ikke",
+  "generate": "Generer tabell",
+  "minValue": "Minimumsverdi",
+  "maxValue": "Maksimumsverdi",
+  "classBaseName": "Klassebasenavn",
+  "colorscheme": "Fargevalg",
+  "defaultClassName": "Etikett_"
+}

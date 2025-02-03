@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>Нaстройки на среда за анализ в  Map Viewer. </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="outSR">
+        <div>
+            <p>Определя координатната система, която ще се използва за анализа и за слоя с резултати.
+            </p>
+        </div>
+    </div>
+    <div id="extent">
+        <div>
+            <p>Определя областта, която ще се използва за анализ.
+            </p>
+        </div>
+    </div>
+    <div id="snapRaster">
+        <div>
+            <p>Регулира обхвата на изходните данни, така че да съответства на подравняването на клетките на зададения растерен слой за прилепване.
+            </p>
+        </div>
+    </div>
+    <div id="cellSize">
+        <div>
+            <p>Указва размера на клетката или разделителната способност, която ще се използва за анализ и за създаване на изходния растерен слой.
+            </p>
+        </div>
+    </div>
+    <div id="mask">
+        <div>
+            <p>Посочва слой с маска, при който за анализ ще се използват само клетките, които попадат в областта на маската, за която ще се извършва анализ.
+            </p>
+        </div>
+    </div>
+    <div id="resamplingMethod">
+        <div>
+            <p>Указва как стойностите на пикселите ще бъдат интерполирани, когато входните и изходните растери не са подравнени.
+            </p>
+        </div>
+    </div>
+    <div id="processorType">
+        <div>
+            <p>Определя типа на използвания процесор. Опциите са  <b>CPU</b>, <b>GPU</b>, и <b>Automatic</b>. Ако е посочено <b>Automatic</b> , инструментът ще определи типа на процесора.
+            </p>
+        </div>
+    </div>
+    <div id="parallelProcessingFactor">
+        <div>
+            <p>Определя броя на инстанциите на услугата за растерна обработка, използвани по време на работата на инструмента. Поддържаните стойности включват празни низове (инструментът ще определи броя инстанциите на услугата за растерна обработка, които да се използват), цели числа (0 или положителни цели числа) и проценти. Процентите трябва да включват знак за процент (%) следващ процентната стойност.
+            </p>
+        </div>
+    </div>
+    <div id="askConfirmation">
+        <div>
+            <p>Указва дали ще се появи предупредително съобщение, ако очакваният брой кредити надхвърли посочения праг (активирано), или дали анализът ще се изпълнява, без да се показва съобщение, независимо от очакваното потребление на кредити (не е активирано). Анализът все още ще зачита настройките за кредитно бюджетиране за организацията.
+            </p>
+        </div>
+    </div>
+    <div id="creditThreshold">
+        <div>
+            <p>Определя прага, при който ще се появи предупредително съобщение въз основа на очакваното потребление на кредит от изпълнението на анализа. Анализът все още може да се изпълни, ако оценката надхвърли прага.
+            </p>
+        </div>
+    </div>
+    <div id="recycleProcessingWorkers">
+        <div>
+            <p>Определя броя на секциите с изображения, които ще бъдат обработени преди рестартиране на работните процеси, за да се предотвратят потенциални сривове при дълго протичащи процеси. По подразбиране е 0.
+            </p>
+        </div>
+    </div>
+    <div id="retryOnFailures">
+        <div>
+            <p>Определя броя на опитите да се използва един и същ работен процес при неуспех по време на обработката на дадена задача. По подразбиране е 0.
+            </p>
+        </div>
+    </div>
+    <div id="geographicTransformations">
+        <div>
+            <p>Посочва методите за преобразуване, които могат да се използват за проектиране на данните за анализ. Можете да създадете списък на методите за трансформация, които приложението може да използва от предоставената от системата трансформация. Инструментът ще използва само трансформации, подходящи за проекциите, като игнорира всички останали.
+            </p>
+            <p>Понастоящем тази среда поддържа само инструменти за анализ на растерни изображения и функции за растерни изображения.
+            </p>
+        </div>
+    </div>
+</div>
+</html>

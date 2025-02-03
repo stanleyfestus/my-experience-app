@@ -1,0 +1,17 @@
+{
+  "cancel": "Loobu",
+  "deletePrompt": "Kas soovite selle välja kindlasti kihist kustutada?",
+  "deleteField": "Kustuta väli",
+  "deleteFields": "Kustuta väljad",
+  "deletingField": "Välja kustutamine...",
+  "newFeature": "Uus objekt",
+  "fieldDeleted": "Väli on kustutatud",
+  "fieldDeletionUnsuccessful": "Välja kustutamine nurjus",
+  "fieldInUse": "Välja kasutatakse järgmistel valdkondades:",
+  "expressions": "Avaldised",
+  "popups": "Hüpikaknad",
+  "forms": "Vormid",
+  "charts": "Diagrammid",
+  "deleteWarning": "Kihi atribuutide konfigureerimiseks kasutatava välja kustutamine võib põhjustada käitumise muutumist.",
+  "learnMore": "Lisainfo"
+}

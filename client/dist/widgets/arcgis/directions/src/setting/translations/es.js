@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Configuraci\xf3n de ruta",searchSettings:"Configuraci\xf3n de b\xfasqueda",generalSettings:"Configuraci\xf3n general",routeUrl:"URL de ruta",outputStops:"Paradas",outputRoute:"Ruta",outputDirectionPoints:"Puntos de indicaci\xf3n",outputDirectionLines:"L\xedneas de indicaci\xf3n"})}}}));

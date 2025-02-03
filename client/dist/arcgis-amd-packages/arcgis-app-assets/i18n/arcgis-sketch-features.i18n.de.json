@@ -1,0 +1,18 @@
+{
+  "sketches": "Features skizzieren",
+  "actions": "Aktionen",
+  "edit": "Bearbeiten",
+  "duplicate": "Duplizieren",
+  "featureDuplicated": "Ausgewähltes Feature erfolgreich dupliziert.",
+  "featuresDuplicated": "Ausgewählte Features erfolgreich dupliziert.",
+  "copyToNewSketchLayer": "In neuen Skizzen-Layer kopieren",
+  "delete": "Löschen",
+  "addSketch": "Feature hinzufügen",
+  "textPreview": "A",
+  "point": "Punkt",
+  "line": "Linie",
+  "polygon": "Polygon",
+  "text": "Text",
+  "collapse": "Ausblenden",
+  "expand": "Einblenden"
+}

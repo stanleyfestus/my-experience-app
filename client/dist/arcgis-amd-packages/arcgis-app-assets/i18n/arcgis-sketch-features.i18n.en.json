@@ -1,0 +1,18 @@
+{
+  "sketches": "Sketch features",
+  "actions": "Actions",
+  "edit": "Edit",
+  "duplicate": "Duplicate",
+  "featureDuplicated": "Successfully duplicated selected feature.",
+  "featuresDuplicated": "Successfully duplicated selected features.",
+  "copyToNewSketchLayer": "Copy to new Sketch layer",
+  "delete": "Delete",
+  "addSketch": "Add feature",
+  "textPreview": "A",
+  "point": "Point",
+  "line": "Line",
+  "polygon": "Polygon",
+  "text": "Text",
+  "collapse": "Collapse",
+  "expand": "Expand"
+}

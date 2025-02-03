@@ -1,0 +1,18 @@
+{
+  "sketches": "วาดฟีเจอร์",
+  "actions": "การดำเนินการ",
+  "edit": "แก้ไข",
+  "duplicate": "รายการซ้ำ",
+  "featureDuplicated": "ทำซ้ำฟีเจอร์ที่เลือกสำเร็จแล้ว",
+  "featuresDuplicated": "ทำซ้ำฟีเจอร์ที่เลือกสำเร็จแล้ว",
+  "copyToNewSketchLayer": "คัดลอกไปยังชั้นข้อมูลการวาดใหม่",
+  "delete": "ลบ",
+  "addSketch": "เพิ่มฟีเจอร์",
+  "textPreview": "A",
+  "point": "จุด",
+  "line": "เส้น",
+  "polygon": "พื้นที่",
+  "text": "ข้อความ",
+  "collapse": "ย่อลงมา",
+  "expand": "ขยาย"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel·la",
+  "deletePrompt": "Segur que voleu suprimir aquest camp de la capa?",
+  "deleteField": "Suprimeix el camp",
+  "deleteFields": "Suprimeix els camps",
+  "deletingField": "S'està suprimint el camp...",
+  "newFeature": "Entitat nova",
+  "fieldDeleted": "El camp s'ha suprimit correctament",
+  "fieldDeletionUnsuccessful": "El camp no s'ha pogut suprimir",
+  "fieldInUse": "Aquest camp s'està fent servir a les àrees següents:",
+  "expressions": "Expressions",
+  "popups": "Finestres emergents",
+  "forms": "Formularis",
+  "charts": "Gràfics",
+  "deleteWarning": "Suprimir un camp que es fa servir per configurar propietats d'una capa pot provocar un canvi en el comportament.",
+  "learnMore": "Més informació"
+}

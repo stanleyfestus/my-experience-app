@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"I det h\xe4r omr\xe5det visas widgetar som har konfigurerats, men inte finns p\xe5 aktuell canvas. De kan finnas i andra enhetsl\xe4gen.",element:"Infoga widget",pending:"V\xe4ntande",widgetHelpIconLabel:"Om denna widget",widgetGuideStart:"Genomf\xf6r en tur"})}}}));

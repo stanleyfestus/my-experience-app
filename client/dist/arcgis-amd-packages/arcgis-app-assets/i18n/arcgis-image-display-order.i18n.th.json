@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "ลำดับการแสดงรูปภาพ",
+  "mosaicMethod": "วิธีการโมเสค",
+  "mosaicOperator": "ตัวดำเนินการโมเสค",
+  "done": "สำเร็จ",
+  "cancel": "ยกเลิก",
+  "reverserOrder": "ลำดับย้อนกลับ",
+  "imageIDs": "ID ภาพ:",
+  "useCommaDelimiter": "ใช้จุลภาคคั่นระหว่าง ID",
+  "highestPriorityValue": "ค่าลำดับความสำคัญสูงสุด",
+  "attribute": "เชิงบรรยาย",
+  "mosaicMethodLabel": {
+    "none": "ไม่มีเลย",
+    "attribute": "ตามแอตทริบิวต์",
+    "center": "ใกล้ศูนย์กลางมากที่สุด",
+    "nadir": "ใกล้กับ nadir ที่สุด",
+    "northwest": "ตะวันตกเฉียงเหนือ",
+    "seamline": "เส้นแบ่ง",
+    "lock-raster": "ล็อกแรสเตอร์",
+    "viewpoint": "จุดมุมมอง"
+  },
+  "mosaicOperatorLabel": {
+    "first": "หน้าแรก",
+    "last": "หน้าสุดท้าย",
+    "min": "น้อยสุด",
+    "max": "สูงสุด",
+    "mean": "เฉลี่ย",
+    "blend": "ผสม",
+    "sum": "รวม"
+  },
+  "componentLabel": {
+    "methodSelect": "เลือกวิธีการโมเสก",
+    "attributeFieldSelect": "เลือกฟิลด์",
+    "operatorSelect": "เลือกตัวดำเนินการโมเสก"
+  }
+}

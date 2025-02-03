@@ -1,0 +1,56 @@
+{
+  "layouts": {
+    "layout_1": {
+      "type": "FIXED",
+      "content": {},
+      "order": [],
+      "setting": {
+        "lockDescendants": true
+      }
+    }
+  },
+  "widgets": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {
+    "dialog_1": {
+      "id": "dialog_1",
+      "mode": "FIXED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "widthMode": "CUSTOM",
+          "heightMode": "CUSTOM",
+          "width": "480px",
+          "height": "400px",
+          "position": "MIDDLE_CENTER"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_1"
+      },
+      "index": 0,
+      "isSplash": false,
+      "border": {
+        "color": "var(--light-300)",
+        "type": "solid",
+        "width": "2px"
+      }
+    }
+  },
+  "messageConfigs": {},
+  "originExbVersion": "1.16.0",
+  "template": "blankwindow"
+}

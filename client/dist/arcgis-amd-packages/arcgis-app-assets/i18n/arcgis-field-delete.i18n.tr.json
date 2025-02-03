@@ -1,0 +1,17 @@
+{
+  "cancel": "İptal",
+  "deletePrompt": "Bu alanı katmandan silmek istediğinizden emin misiniz?",
+  "deleteField": "Alanı sil",
+  "deleteFields": "Alanları sil",
+  "deletingField": "Alan siliniyor...",
+  "newFeature": "Yeni detay",
+  "fieldDeleted": "Alan başarıyla silindi",
+  "fieldDeletionUnsuccessful": "Alan silme başarısız oldu",
+  "fieldInUse": "Bu alan aşağıdaki bölgelerde kullanılıyor.",
+  "expressions": "İfadeler",
+  "popups": "Açılır pencereler",
+  "forms": "Formlar",
+  "charts": "Çizgeler",
+  "deleteWarning": "Katman detaylarını yapılandırmak için kullanılan bir alanın silinmesi davranışta değişikliğe neden olabilir.",
+  "learnMore": "Daha fazla bilgi"
+}

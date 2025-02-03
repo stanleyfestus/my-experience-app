@@ -1,0 +1,23 @@
+{
+  "cancel": "Peruuta",
+  "reset": "Palauta",
+  "resetting": "Palautetaan...",
+  "save": "Tallenna",
+  "saving": "Tallennetaan...",
+  "itemClassificationLabel": "Luokitus",
+  "itemClassificationCategoryLabel": "Kohdeluokituksen luokkatunnusteksti",
+  "itemClassificationEditLabel": "Muokkaa luokitusta",
+  "itemClassificationValidateError": "Validointi epäonnistui. Kohteen luokitusarvoa ei täytetä. Muokkaa ja tallenna uusi.",
+  "classificationValueSaved": "Luokitusarvo on tallennettu",
+  "classificationNotificationHandler": "Luokituksen ilmoituskäsittelijä",
+  "openModal": "Avaa modaali",
+  "currentSelections": "Nykyiset valinnat",
+  "fieldSelectionError": "Tämä on pakollinen kenttä.",
+  "selectAnOption": "Valitse asetus",
+  "selectOptions": "Valitse asetukset",
+  "singleSelectionLabel": "Yhden valinnan avattava valikko",
+  "multipleSelectionLabel": "Usean valinnan avattava valikko",
+  "singleAttributeError": "Sisällön ON määritettävä ${attributeName}. Tarkista valinnat.",
+  "multipleAttributeErrors": "Sisällön ON määritettävä ${attributeString} ja ${lastAttributeName}. Tarkista valinnat.",
+  "classificationSectionLabel": "Luokitus"
+}

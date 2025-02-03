@@ -1,0 +1,22 @@
+{
+  "cancel": "ביטול",
+  "reset": "איפוס",
+  "resetting": "מאפס...",
+  "save": "שמור",
+  "saving": "שומר...",
+  "itemClassificationCategoryLabel": "תווית קטגוריה של סיווג פריט",
+  "itemClassificationEditLabel": "ערוך סיווג",
+  "itemClassificationValidateError": "האימות נכשל, ערך הסיווג של הפריט לא יאוכלס! ערוך אחד חדש ושמור אותו.",
+  "classificationValueSaved": "ערך הסיווג נשמר",
+  "classificationNotificationHandler": "הליך טיפול בהודעת סיווג",
+  "openModal": "פתח מודאל",
+  "currentSelections": "הבחירות הנוכחיות",
+  "fieldSelectionError": "זהו שדה חובה.",
+  "selectAnOption": "בחר אפשרות",
+  "selectOptions": "בחר אפשרות/יות",
+  "singleSelectionLabel": "תפריט נפתח של בחירה יחידה",
+  "multipleSelectionLabel": "תפריט נפתח של בחירה מרובה",
+  "singleAttributeError": "התוכן חייב לציין ${attributeName}. סקור את הבחירות שלך.",
+  "multipleAttributeErrors": "התוכן חייב לציין ${attributeString} וגם ${lastAttributeName}. סקור את הבחירות שלך.",
+  "classificationSectionLabel": "סיווג"
+}

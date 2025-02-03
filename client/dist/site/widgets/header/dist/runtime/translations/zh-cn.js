@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"\u65b0\u5efa",newExperience:"\u65b0\u4f53\u9a8c",experiences:"\u4f53\u9a8c",templates:"\u6a21\u677f",developerEdition:"\u5f00\u53d1\u4eba\u5458\u7248"})}}}));

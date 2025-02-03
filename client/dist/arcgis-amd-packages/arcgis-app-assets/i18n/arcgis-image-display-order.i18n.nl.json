@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Weergavevolgorde van afbeeldingen",
+  "mosaicMethod": "Mozaïekmethode",
+  "mosaicOperator": "Mozaïekoperator",
+  "done": "Gereed",
+  "cancel": "Annuleren",
+  "reverserOrder": "De volgorde omkeren",
+  "imageIDs": "Afbeeldings-ID's:",
+  "useCommaDelimiter": "Gebruik een komma om id's te scheiden",
+  "highestPriorityValue": "Hoogste prioriteitwaarde",
+  "attribute": "Attribuut",
+  "mosaicMethodLabel": {
+    "none": "Geen",
+    "attribute": "Op attribuut",
+    "center": "Het dichtst bij midden",
+    "nadir": "Dichtst bij nadir",
+    "northwest": "Noordwest",
+    "seamline": "Naadlijnen",
+    "lock-raster": "Raster vergrendelen",
+    "viewpoint": "Gezichtspunt"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Eerste",
+    "last": "Laatste",
+    "min": "Minimum",
+    "max": "Maximum",
+    "mean": "Gemiddelde",
+    "blend": "Mengsel",
+    "sum": "Som"
+  },
+  "componentLabel": {
+    "methodSelect": "Selecteer een mozaïekmethode",
+    "attributeFieldSelect": "Selecteer een veld",
+    "operatorSelect": "Selecteer een mozaïekoperator"
+  }
+}

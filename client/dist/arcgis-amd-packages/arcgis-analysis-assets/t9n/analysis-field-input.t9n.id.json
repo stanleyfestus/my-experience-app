@@ -1,0 +1,13 @@
+{
+  "fieldLoadingErrorText": "Tidak dapat memuat bidang.",
+  "fieldNotAvailable": "Gagal memuat kolom.",
+  "fieldTypesIncompatible": "Tidak ada kolom kompatibel yang tersedia.",
+  "layerNotSelected": "Tidak ada layer yang dipilih untuk mengisi kolom.",
+  "loadingFields": "Memuat kolom",
+  "multipleFieldsNotAvailable": "Gagal memuat satu kolom atau lebih.",
+  "requiredErrorLabelDefault": "Kolom",
+  "requiredErrorMessage": "Parameter ini diperlukan.",
+  "selectFieldPicklistHeading": "Pilih kolom",
+  "selectOkBtnText": "Pilih",
+  "selectVariables": "Pilih variabel"
+}

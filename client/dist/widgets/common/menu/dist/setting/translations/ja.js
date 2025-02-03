@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({subMenuExpandMode:"\u30b5\u30d6\u30e1\u30cb\u30e5\u30fc\u5c55\u958b\u30e2\u30fc\u30c9",mainMenu:"\u30e1\u30a4\u30f3 \u30e1\u30cb\u30e5\u30fc",subMenu:"\u30b5\u30d6\u30e1\u30cb\u30e5\u30fc"})}}}));

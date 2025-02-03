@@ -1,0 +1,18 @@
+{
+  "sketches": "Luonnostele kohteet",
+  "actions": "Toiminnot",
+  "edit": "Muokkaa",
+  "duplicate": "Tee kopio",
+  "featureDuplicated": "Kaksoiskappaleiden luonti valitusta kohteesta onnistui.",
+  "featuresDuplicated": "Kaksoiskappaleiden luonti valituista kohteista onnistui.",
+  "copyToNewSketchLayer": "Kopioi uuteen luonnoskarttatasoon",
+  "delete": "Poista",
+  "addSketch": "Lisää kohde",
+  "textPreview": "A",
+  "point": "Piste",
+  "line": "Viiva",
+  "polygon": "Aluekohde",
+  "text": "Teksti",
+  "collapse": "Kutista",
+  "expand": "Laajenna"
+}

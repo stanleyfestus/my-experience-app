@@ -1,0 +1,20 @@
+{
+  "hosted": "hostované",
+  "hostedView": "hostované, zobrazení",
+  "hostedPhotos": "hostované, fotografie",
+  "hostedCollection": "hostované, kolekce",
+  "hostedMultidimensional": "hostované, vícerozměrné",
+  "hostedCollectionMultidimensional": "hostované, kolekce, vícerozměrné",
+  "collectionMultidimensional": "kolekce, vícerozměrné",
+  "multidimensional": "vícerozměrné",
+  "collection": "kolekce",
+  "photoLocations": "fotografie",
+  "locatorView": "zobrazení",
+  "utilityNetwork": "inženýrská síť",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

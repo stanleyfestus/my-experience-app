@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"U ovoj oblasti navedeni su vid\u017eeti koji su pode\u0161ei ali nisu na trenutnom prikazu. Oni mogu da postoje u drugim re\u017eimima ure\u0111aja.",element:"Ubaci vid\u017eet",pending:"Na \u010dekanju",widgetHelpIconLabel:"O ovom vid\u017eetu",widgetGuideStart:"Krenite na turu"})}}}));

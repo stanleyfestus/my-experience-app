@@ -1,0 +1,18 @@
+{
+  "backLabel": "Terug",
+  "browseHeader": "Kaartlaag selecteren",
+  "cannotReopenRasterFunction": "Rasterfunctie kon niet geopend worden.",
+  "creditThresholdModal": {
+    "cancelRun": "Annuleren",
+    "confirmationPrompt": "Wilt u doorgaan zonder de analyseparameters bij te werken?",
+    "continueRun": "Doorgaan",
+    "creditEstimate": "Geschat aantal credits: ${cost}",
+    "creditReductionHint": "<em>U kunt het aantal credits voor de analyse reduceren door een filter toe te voegen of door de analyseomgevingen te gebruiken om een verwerkingsextent in te stellen.</em> <calcite-link target='_blank' href='${ docLink }'>Meer informatie</calcite-link>",
+    "creditThreshold": "Drempel credits: ${threshold}",
+    "heading": "Drempel voor credits is bereikt",
+    "learnMore": "Meer informatie",
+    "thresholdExceeded": "De geschatte kosten voor deze analyse zijn hoger dan uw drempel voor credits."
+  },
+  "failedToExecuteEstimate": "Submissie mislukt. Uitvoering EstimateRasterAnalysisCost mislukt",
+  "runAnalysisLabel": "Uitvoeren"
+}

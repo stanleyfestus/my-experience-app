@@ -1,0 +1,17 @@
+{
+  "value": "Érték",
+  "classname": "OsztályNév",
+  "color": "Szín",
+  "raster": "Raszter",
+  "tableType": "Táblatípus",
+  "manual": "Manuális",
+  "external": "Külső",
+  "browseTable": "Tábla tallózása",
+  "unsupportedDataType": "Nem támogatott típus",
+  "generate": "Tábla létrehozása",
+  "minValue": "Minimum érték",
+  "maxValue": "Maximum érték",
+  "classBaseName": "Osztályalap neve",
+  "colorscheme": "Színséma",
+  "defaultClassName": "Felirat_"
+}

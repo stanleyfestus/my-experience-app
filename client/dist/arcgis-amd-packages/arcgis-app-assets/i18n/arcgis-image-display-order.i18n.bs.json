@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Redoslijed prikaza slike",
+  "mosaicMethod": "Metoda mozaika",
+  "mosaicOperator": "Operator mozaika",
+  "done": "Gotovo",
+  "cancel": "Odustani",
+  "reverserOrder": "Obrni redoslijed",
+  "imageIDs": "ID-evi snimki:",
+  "useCommaDelimiter": "Upotrijebite zarez za odvajanje ID-a",
+  "highestPriorityValue": "Najviša prioritetna vrijednost",
+  "attribute": "Atribut",
+  "mosaicMethodLabel": {
+    "none": "Nema",
+    "attribute": "Prema atributu",
+    "center": "Najbliže centru",
+    "nadir": "Najbliže nadiru",
+    "northwest": "Sjeverozapad",
+    "seamline": "Linije preklopa",
+    "lock-raster": "Zaključaj raster",
+    "viewpoint": "Prikaz točke"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Prvo",
+    "last": "Posljednje",
+    "min": "Minimum",
+    "max": "Maksimum",
+    "mean": "Prosječno",
+    "blend": "Stopi",
+    "sum": "Zbroj"
+  },
+  "componentLabel": {
+    "methodSelect": "Odaberi metodu mozaika",
+    "attributeFieldSelect": "Odaberi polje",
+    "operatorSelect": "Odaberi operatera mozaika"
+  }
+}

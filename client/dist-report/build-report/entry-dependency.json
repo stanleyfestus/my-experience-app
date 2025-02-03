@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "name": "widgets/simple/dist/runtime/widget",
+      "size": 1509
+    }
+  ],
+  "links": [
+    {
+      "source": "widgets/simple/dist/runtime/widget",
+      "target": "jimu-core/index"
+    }
+  ]
+}

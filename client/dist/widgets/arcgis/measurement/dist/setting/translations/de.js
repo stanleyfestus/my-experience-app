@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({distance:"Entfernung",area:"Fl\xe4che",atLeastOne:"Es sollte mindestens ein Werkzeug ausgew\xe4hlt werden.",toolbar:"Werkzeugleiste"})}}}));

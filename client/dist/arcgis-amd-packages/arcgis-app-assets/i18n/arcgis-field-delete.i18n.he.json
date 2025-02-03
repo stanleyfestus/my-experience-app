@@ -1,0 +1,17 @@
+{
+  "cancel": "ביטול",
+  "deletePrompt": "האם אתה בטוח שברצונך למחוק שדה זה מהשכבה?",
+  "deleteField": "מחק שדה",
+  "deleteFields": "מחק שדות",
+  "deletingField": "מוחק שדה...",
+  "newFeature": "ישות חדשה",
+  "fieldDeleted": "השדה נמחק בהצלחה",
+  "fieldDeletionUnsuccessful": "מחיקת השדה לא הצליחה",
+  "fieldInUse": "שדה זה נמצא בשימוש באזורים הבאים:",
+  "expressions": "ביטויים",
+  "popups": "חלונות קופצים",
+  "forms": "טפסים",
+  "charts": "תרשימים",
+  "deleteWarning": "מחיקת שדה אשר משמש להגדרת מאפייני שכבה עלולה לגרום לשינוי בהתנהגות.",
+  "learnMore": "מידע נוסף"
+}

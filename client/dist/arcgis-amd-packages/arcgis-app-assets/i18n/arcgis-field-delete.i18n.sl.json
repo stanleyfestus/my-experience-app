@@ -1,0 +1,17 @@
+{
+  "cancel": "Prekliči",
+  "deletePrompt": "Ali ste prepričani, da želite izbrisati to polje iz sloja?",
+  "deleteField": "Izbriši polje",
+  "deleteFields": "Izbriši polja",
+  "deletingField": "Brisanje polja ...",
+  "newFeature": "Nov geoobjekt",
+  "fieldDeleted": "Polje je bilo uspešno izbrisano",
+  "fieldDeletionUnsuccessful": "Brisanje polja ni bilo uspešno",
+  "fieldInUse": "Polje se uporablja v naslednjih ombočjih:",
+  "expressions": "Izrazi",
+  "popups": "Pojavna okna",
+  "forms": "Obrazci",
+  "charts": "Grafikoni",
+  "deleteWarning": "Brisanje polja, ki se uporablja za konfiguracijo lastnosti sloja, lahko povzroči spremembo vedenja.",
+  "learnMore": "Več"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancelar",
+  "deletePrompt": "¿Está seguro de que desea eliminar este campo de la capa?",
+  "deleteField": "Eliminar campo",
+  "deleteFields": "Eliminar campos",
+  "deletingField": "Eliminando campo...",
+  "newFeature": "Nueva entidad",
+  "fieldDeleted": "El campo se ha eliminado correctamente",
+  "fieldDeletionUnsuccessful": "El campo no se ha eliminado correctamente",
+  "fieldInUse": "Este campo se está utilizando en las siguientes áreas:",
+  "expressions": "Expresiones",
+  "popups": "Elementos emergentes",
+  "forms": "Formularios",
+  "charts": "Gráficos",
+  "deleteWarning": "La eliminación de un campo utilizado para configurar las propiedades de las capas puede ocasionar un cambio de comportamiento.",
+  "learnMore": "Más información"
+}

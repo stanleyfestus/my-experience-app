@@ -1,0 +1,17 @@
+{
+  "value": "Reikšmė",
+  "classname": "ClassName",
+  "color": "Spalva",
+  "raster": "Rastras",
+  "tableType": "Lentelės tipas",
+  "manual": "Rankinis",
+  "external": "Išorinis",
+  "browseTable": "Naršyti lentelę",
+  "unsupportedDataType": "Nepalaikomas tipas",
+  "generate": "Generuoti lentelę",
+  "minValue": "Minimali reikšmė",
+  "maxValue": "Maksimali reikšmė",
+  "classBaseName": "Bazinis klasės pavadinimas",
+  "colorscheme": "Spalvų paletė",
+  "defaultClassName": "Žymė_"
+}

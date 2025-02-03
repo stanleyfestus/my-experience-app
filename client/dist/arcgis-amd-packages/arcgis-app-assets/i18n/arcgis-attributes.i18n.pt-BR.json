@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Campos",
+  "filterAttributes": "Campos de pesquisa",
+  "selected": "selecionado",
+  "integer": "Inteiro",
+  "number": "Número",
+  "string": "Texto",
+  "date": "Data",
+  "dataType": "Tipo de dados",
+  "matching": "combinação",
+  "selectAll": "Selecionar todos",
+  "deselectAll": "Desselecionar todos",
+  "displayName": "Nome de exibição",
+  "type": "Tipo",
+  "default": "Padrão",
+  "fieldName": "Nome do campo",
+  "sort": "Classificar",
+  "filter": "Filtrar",
+  "filterDataType": "Filtrar por tipo de dados",
+  "filterFieldName": "Filtrar por nome de campo",
+  "addField": "Adicionar campo"
+}

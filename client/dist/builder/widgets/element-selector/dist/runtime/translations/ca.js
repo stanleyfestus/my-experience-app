@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"Aquesta \xe0rea mostra els widgets que s'han configurat, per\xf2 no al llen\xe7 actual. Pot ser que existeixin en altres modes de dispositiu.",element:"Insereix un widget",pending:"Pendent",widgetHelpIconLabel:"Quant a aquest widget",widgetGuideStart:"Fes un recorregut"})}}}));

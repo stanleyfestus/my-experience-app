@@ -1,0 +1,20 @@
+{
+  "backLabel": "Atpakaļ",
+  "cannotReopenTool": "Rīku nevarēja atvērt atkārtoti. Rīka parametriem ir atjaunoti noklusējuma iestatījumi.",
+  "cannotReopenWebTool": "Nevar atvērt tīmekļa rīku. <calcite-link target='_blank' href='${ docLink }'>Papildinformācija</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Atcelt",
+    "confirmationPrompt": "Vai vēlaties turpināt, neatjauninot analīzes parametrus?",
+    "continueRun": "Turpināt",
+    "creditEstimate": "Prognozētie servisa kredīti: ${cost}",
+    "creditReductionHint": "<em>Lai samazinātu credits skaitu analīzei, apsveriet filtra pievienošanu vai izmantojiet analīzes vides, lai iestatītu apstrādes apjomu.</em> <calcite-link target='_blank' href='${ docLink }'>Uzzināt vairāk</calcite-link>",
+    "creditThreshold": "Servisa kredītu slieksnis: ${threshold}",
+    "heading": "Sasniegts servisa kredītu slieksnis",
+    "learnMore": "Uzzināt vairāk",
+    "thresholdExceeded": "Šīs analīzes paredzamās izmaksas pārsniedz jūsu servisa kredītu slieksni."
+  },
+  "failedToExecuteEstimate": "Iesniegšana neizdevās. Neizdevās izpildīt EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Šim rīkam nevar piekļūt. Pārliecinieties, vai rīks pastāv un vai lietotājam ir atļauja tam piekļūt.",
+  "runAnalysisLabel": "Palaist",
+  "webToolJSONChanged": "Viens vai vairāki parametri ir atjaunināti. Dažus parametrus nevar atkārtoti aizpildīt no vēstures."
+}

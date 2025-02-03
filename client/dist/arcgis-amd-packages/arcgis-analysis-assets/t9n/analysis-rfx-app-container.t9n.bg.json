@@ -1,0 +1,18 @@
+{
+  "backLabel": "Назад",
+  "browseHeader": "Избиране на слой",
+  "cannotReopenRasterFunction": "Растерната функция не може да бъде отворена отново.",
+  "creditThresholdModal": {
+    "cancelRun": "Отказ",
+    "confirmationPrompt": "Желаете ли да продължите без обновяване на параметрите за анализ?",
+    "continueRun": "Обработено",
+    "creditEstimate": "Приблизителни кредити: ${cost}",
+    "creditReductionHint": "<em>За да намалите броя на кредитите за анализа, помислете за добавяне на филтър или използвайте среди за анализ, за ​​да зададете обхват на обработка.</em><calcite-link target='_blank' href='${ docLink }'>Научете повече</calcite-link>",
+    "creditThreshold": "Кредитен праг: ${threshold}",
+    "heading": "Прагът за използване на кредит е достигнат",
+    "learnMore": "Научете повече",
+    "thresholdExceeded": "Очакваната цена за този анализ е по-висока от кредитния Ви праг."
+  },
+  "failedToExecuteEstimate": "Неуспешно подаване. Неуспешно изпълнение на EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Стартиране"
+}

@@ -1,0 +1,16 @@
+{
+  "folder": "Katalogas",
+  "searchFolders": "Ieškoti aplankų",
+  "enterFolder": "Įveskite aplanko pavadinimą",
+  "createNewFolder": "Kurti naują aplanką",
+  "noFoldersFoundCreate": "Aplankų tokiu pavadinimu nerasta. Kurti „${folder}“?",
+  "noFoldersFound": "Aplankų tokiu pavadinimu nerasta.",
+  "create": "Kurti „${folder}“?",
+  "loading": "Įkeliami aplankai",
+  "error": {
+    "noName": "Turite nurodyti aplanko pavadinimą.",
+    "folderAlreadyExists": "Aplankas „${folder}“ jau yra. Pasirinkite kitą pavadinimą.",
+    "title": "Klaida",
+    "invalidCharacters": "Varde negali būti nė vieno iš šių ženklų: ${invalidCharacters}."
+  }
+}

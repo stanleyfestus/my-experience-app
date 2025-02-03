@@ -1,0 +1,18 @@
+{
+  "backLabel": "Bakåt",
+  "browseHeader": "Välj lager",
+  "cannotReopenRasterFunction": "Rasterfunktionen kunde inte öppnas igen.",
+  "creditThresholdModal": {
+    "cancelRun": "Avbryt",
+    "confirmationPrompt": "Vill du fortsätta utan att uppdatera analysparametrarna?",
+    "continueRun": "Fortsätt",
+    "creditEstimate": "Beräknade krediter: ${cost}",
+    "creditReductionHint": "<em>Överväg att lägga till ett filter eller använda analysmiljöer för att ange en bearbetningsutbredning för att minska antalet krediter för analysen.</em> <calcite-link target='_blank' href='${ docLink }'>Läs mer</calcite-link>",
+    "creditThreshold": "Kredittröskel: ${threshold}",
+    "heading": "Kredittröskel har nåtts",
+    "learnMore": "Läs mer",
+    "thresholdExceeded": "Den beräknade kostnaden för den här analysen är större än din kredittröskel."
+  },
+  "failedToExecuteEstimate": "Inlämningen misslyckades. Det gick inte att utföra EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Kör"
+}

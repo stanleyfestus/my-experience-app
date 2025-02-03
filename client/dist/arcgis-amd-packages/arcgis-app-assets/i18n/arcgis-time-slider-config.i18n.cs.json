@@ -1,0 +1,45 @@
+{
+  "noTimeEnabledLayers": "Nejsou k dispozici žádné vrstvy s časovou informací",
+  "enableTimeSlider": "Použít filtr času",
+  "startEndPoints": {
+    "title": "Body začátku a konce",
+    "timeDisplay": "Režim posuvníku času",
+    "currentInterval": "Zobrazit data v rámi intervalu",
+    "currentIntervalHelp": "Jsou zobrazena časová data, která spadají do aktuálního časového intervalu.",
+    "progressively": "Zobrazit data postupně",
+    "progressivelyHelp": "Časová data se zobrazují postupně v rámci času začátku a konce.",
+    "instant": "Zobrazit data v časovém okamžiku",
+    "instantHelp": "Jsou zobrazena časová data, která spadají do jednoho okamžiku v čase.",
+    "startDate": "Počáteční datum",
+    "startTime": "Počáteční čas",
+    "endDate": "Koncové datum",
+    "endTime": "Koncový čas"
+  },
+  "timeInterval": {
+    "title": "Časový interval",
+    "lengthPerInterval": "Délka jednoho intervalu.",
+    "lengthPerStep": "Celkový čas rozdělený na stejné kroky",
+    "count": "Počet",
+    "countValidation": "Zadejte číslo větší než 0 a menší než ${maxCount}",
+    "unit": "Jednotky",
+    "equalSteps": "Celkový čas rozdělený na stejné kroky",
+    "timeUnits": {
+      "centuries": "Století",
+      "decades": "Desetiletí",
+      "years": "Rok",
+      "months": "měsíc",
+      "weeks": "týden",
+      "days": "den",
+      "hours": "hodina",
+      "minutes": "Minuta",
+      "seconds": "Sekunda",
+      "milliseconds": "Milisekunda"
+    }
+  },
+  "playback": {
+    "title": "Přehrávání",
+    "playRate": "Rychlost přehrávání",
+    "slow": "Pomalu",
+    "fast": "Rychle"
+  }
+}

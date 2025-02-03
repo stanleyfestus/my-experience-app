@@ -1,0 +1,16 @@
+{
+  "name": "assessor",
+  "type": "template",
+  "templateType": "scrolling-page",
+  "label": "Assessor",
+  "description": "Assessor offers a condensed overview through three spotlight cards, a mapped reference, and supporting tabular data.",
+  "thumbnail": "thumbnail.png",
+  "order": 19,
+  "templateCreateVersion": "1.15.0",
+  "tags": [
+    "Web page",
+    "Scrolling"
+  ],
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

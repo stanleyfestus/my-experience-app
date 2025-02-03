@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "ממוצע",
+    "median": "חציון",
+    "sum": "סכום",
+    "discretePercentile": "אחוזונים בנפרד",
+    "minimum": "מינימום",
+    "maximum": "מקסימום",
+    "firstQuartile": "רבעון ראשון",
+    "thirdQuartile": "רבעון שלישי",
+    "iqr": "IQR",
+    "standardDeviation": "סטיית תקן",
+    "variance": "שונות",
+    "count": "מונה",
+    "aggregation": "${ statistics } מתוך ${ fieldName }",
+    "percent": "אחוז",
+    "noAggregation": "ללא צבירה",
+    "meanValue": "ערך ממוצע"
+  },
+  "overlays": {
+    "mean": "ממוצע",
+    "median": "חציון",
+    "stdDev": "סטיית תקן",
+    "normal": "התפלגות נורמלית",
+    "trendline": "קו מגמה"
+  },
+  "guideTooltipLabel": "מ-${ guideStart } עד ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "אחר"
+  },
+  "notAvailable": "לא זמין",
+  "field": "שדה"
+}

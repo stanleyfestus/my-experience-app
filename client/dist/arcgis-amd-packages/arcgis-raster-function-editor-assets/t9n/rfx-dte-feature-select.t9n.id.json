@@ -1,0 +1,6 @@
+{
+  "selectFeature": "Pilih feature layer",
+  "browseLayer": "Telusuri layer",
+  "loading": "Memuat...",
+  "errorCodes": { "required": "Parameter ini harus diisi." }
+}

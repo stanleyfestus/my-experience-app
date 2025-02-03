@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Kujundus",customTheme:"Kohanda",resetTheme:"L\xe4hesta",backToMainThemePanel:"Tagasi",customPaletteTitle:"Kohanda paletti v\xe4rvusi",customFontsetTitle:"Kohanda fondi kogumit",customAppElementsTitle:"Rakenduse elemendid"})}}}));

@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Порядок отображения изображений",
+  "mosaicMethod": "Метод мозаики",
+  "mosaicOperator": "Оператор мозаики",
+  "done": "Готово",
+  "cancel": "Отмена",
+  "reverserOrder": "Обратить порядок",
+  "imageIDs": "ID изображений:",
+  "useCommaDelimiter": "Использовать запятую для разделения ID",
+  "highestPriorityValue": "Значение высшего приоритета",
+  "attribute": "Атрибут",
+  "mosaicMethodLabel": {
+    "none": "Нет",
+    "attribute": "По атрибуту",
+    "center": "Ближайший к центру",
+    "nadir": "Ближайший к надиру",
+    "northwest": "Северо-Западный",
+    "seamline": "Линии сшивки",
+    "lock-raster": "Блокировать растр",
+    "viewpoint": "Точка обзора"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Первый",
+    "last": "Последний",
+    "min": "Минимум",
+    "max": "Максимум",
+    "mean": "Среднее",
+    "blend": "Смешивание",
+    "sum": "Сумма"
+  },
+  "componentLabel": {
+    "methodSelect": "Выбрать метод мозаики",
+    "attributeFieldSelect": "Выбрать поле",
+    "operatorSelect": "Выбрать оператор мозаики"
+  }
+}

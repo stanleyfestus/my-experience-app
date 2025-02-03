@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Moyenne",
+    "median": "Médiane",
+    "sum": "Somme",
+    "discretePercentile": "Centile discret",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "firstQuartile": "Premier quartile",
+    "thirdQuartile": "Troisième quartile",
+    "iqr": "Écart interquartile",
+    "standardDeviation": "Écart type",
+    "variance": "Variance",
+    "count": "Total",
+    "aggregation": "${ statistics } de ${ fieldName }",
+    "percent": "Pourcentage",
+    "noAggregation": "Pas d’agrégation",
+    "meanValue": "Valeur moyenne"
+  },
+  "overlays": {
+    "mean": "Moyenne",
+    "median": "Médiane",
+    "stdDev": "Écart type",
+    "normal": "Distribution normale",
+    "trendline": "Ligne de tendance"
+  },
+  "guideTooltipLabel": "De ${ guideStart } à ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Autre"
+  },
+  "notAvailable": "Non disponible",
+  "field": "Champ"
+}

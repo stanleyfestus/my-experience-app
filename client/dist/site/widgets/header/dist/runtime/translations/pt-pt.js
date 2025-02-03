@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"Criar novo",newExperience:"Nova experi\xeancia",experiences:"Experi\xeancias",templates:"Modelos",developerEdition:"Developer Edition"})}}}));

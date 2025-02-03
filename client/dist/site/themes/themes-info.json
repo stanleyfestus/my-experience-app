@@ -1,0 +1,12 @@
+[
+  {
+    "name": "dark",
+    "uri": "site/themes/dark/",
+    "isNewTheme": false
+  },
+  {
+    "name": "light",
+    "uri": "site/themes/light/",
+    "isNewTheme": false
+  }
+]

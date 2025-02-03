@@ -1,0 +1,6 @@
+{
+  "browseRFT": "浏览栅格函数模板",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "输出栅格",
+  "readingFailed": "加载所选栅格函数模板失败。"
+}

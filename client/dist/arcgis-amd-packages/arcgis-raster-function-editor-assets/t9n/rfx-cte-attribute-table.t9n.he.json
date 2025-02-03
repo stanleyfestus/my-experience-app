@@ -1,0 +1,17 @@
+{
+  "value": "ערך",
+  "classname": "ClassName",
+  "color": "צבע",
+  "raster": "רסטר",
+  "tableType": "סוג טבלה",
+  "manual": "ידני",
+  "external": "חיצוני",
+  "browseTable": "עיין בטבלה",
+  "unsupportedDataType": "סוג לא נתמך",
+  "generate": "צור טבלה",
+  "minValue": "ערך מינימלי",
+  "maxValue": "ערך מקסימלי",
+  "classBaseName": "שם בסיס הקבוצה",
+  "colorscheme": "סכמת צבעים",
+  "defaultClassName": "תווית_"
+}

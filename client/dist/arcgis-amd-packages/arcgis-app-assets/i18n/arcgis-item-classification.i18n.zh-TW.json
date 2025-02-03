@@ -1,0 +1,22 @@
+{
+  "cancel": "取消",
+  "reset": "重設",
+  "resetting": "Resetting...",
+  "save": "儲存",
+  "saving": "正在儲存...",
+  "itemClassificationCategoryLabel": "項目分類類別標籤",
+  "itemClassificationEditLabel": "編輯分類",
+  "itemClassificationValidateError": "驗證失敗，不會填入項目分類值! 請編輯並儲存一個新值。",
+  "classificationValueSaved": "已儲存分類值",
+  "classificationNotificationHandler": "分類通知處理常式",
+  "openModal": "開啟模型",
+  "currentSelections": "目前選擇",
+  "fieldSelectionError": "這是必要欄位。",
+  "selectAnOption": "選擇選項",
+  "selectOptions": "選擇選項",
+  "singleSelectionLabel": "單選下拉式功能表",
+  "multipleSelectionLabel": "複選下拉式功能表",
+  "singleAttributeError": "內容「必須」指定 ${attributeName}。 檢閱您的選擇。",
+  "multipleAttributeErrors": "內容「必須」指定 ${attributeString} 和 ${lastAttributeName}。 檢閱您的選擇。",
+  "classificationSectionLabel": "分類"
+}

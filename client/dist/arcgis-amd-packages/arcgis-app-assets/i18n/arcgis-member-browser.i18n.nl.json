@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "Filters",
+    "pageRange": "${start}-${end}, totaal: ${total}",
+    "pageRangeAria": "${start}-${end}, totaal aantal leden: ${total}",
+    "selectedMembers": "Geselecteerde leden",
+    "noSelectedMembers": "Er zijn momenteel geen leden geselecteerd",
+    "noUsersFound": "Kan geen leden vinden die aan uw criteria voldoen. Als u meer gebruikers wilt weergeven, kunt u proberen een paar filters te wissen of uw zoekopdracht te wijzigen.",
+    "enterTermExternal": "Voer een zoekterm in om binnen heel ArcGIS Online gebruikers te vinden",
+    "noUsers": "Geen gebruikers beschikbaar",
+    "coordinator": "Samenwerkingscoördinator"
+  },
+  "search": {
+    "searchMembers": "Leden zoeken"
+  },
+  "filterUserTypes": {
+    "title": "Gebruikerstype",
+    "label": "User type: ${name}",
+    "loading": "Bezig met laden user types..."
+  },
+  "filterRoles": {
+    "title": "Rol",
+    "label": "Rol: ${name}",
+    "loading": "Bezig met laden rollen...",
+    "searchRoles": "Rollen zoeken"
+  },
+  "filterOrgGroups": {
+    "title": "Groepen van de organisatie",
+    "label": "Groep: ${name}",
+    "loading": "Bezig met laden groepen van de organisatie..",
+    "searchGroups": "Groepen zoeken"
+  },
+  "filterMyGroups": {
+    "title": "Mijn groepen",
+    "label": "Groep: ${name}",
+    "loading": "Bezig met laden van mijn groepen...",
+    "searchMyGroups": "Zoeken in Mijn groepen"
+  },
+  "filterCategories": {
+    "title": "Categorieën",
+    "label": "Categorie: ${name}",
+    "loading": "Bezig met laden categorieën...",
+    "noCategoriesTitle": "Nog geen categorieën",
+    "noCategories": "Categorieën stellen leden ertoe in staat items consistent te organiseren en bieden een eenvoudige manier om door organisatie-interne content te bladeren.",
+    "setupCategories": "Ledencategorieën instellen",
+    "configureCategories": "Categorieën configureren",
+    "noCategoriesAssigned": "Geen categorieën toegekend"
+  },
+  "filterPartnerCollabs": {
+    "title": "Samenwerkingen met partners",
+    "label": "Samenwerkingen met partners: ${name}",
+    "loading": "Bezig met laden samenwerkingen met partners...",
+    "coordinatorsOnly": "Alleen samenwerkingscoördinators",
+    "coordinatorsDescription": "Samenwerkingscoördinators zijn vertegenwoordigers van samenwerkingsverbanden die aan een groep kunnen worden toegevoegd zonder te vragen om bevestiging.",
+    "coordinatorsInfoLabel": "Meer informatie over samenwerkingscoördinators"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "Alle ArcGIS Online-organisatieleden doorzoeken",
+    "searchPartners": "Neem deze en de leden van partnerorganisaties op"
+  },
+  "table": {
+    "caption": "Lidresultaten, kolomkoppen met knoppen zijn sorteerbaar.",
+    "selectAll": "Alles selecteren",
+    "selection": "Selectie",
+    "headers": {
+      "name": "Naam",
+      "membertype": "Groepsrol",
+      "affiliation": "Verbonden aan",
+      "joined": "Lid sinds",
+      "credits": "Resterende credits",
+      "lastlogin": "Laatste login",
+      "usertype": "Gebruikerstype",
+      "role": "Rol"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "Meer opties",
+    "groupManager": "Groepsmanager",
+    "owner": "Eigenaar",
+    "member": "Lid",
+    "myOrg": "Mijn Organisatie",
+    "other": "Overige",
+    "coordinator": "Samenwerkingscoördinator",
+    "noLimit": "Geen limiet",
+    "creditsNumber": "${remain} van ${total}",
+    "today": "Vandaag",
+    "yesterday": "Gisteren",
+    "never": "Nooit"
+  },
+  "myOrg": {
+    "myOrgView": "Weergave Mijn organisatie"
+  },
+  "filterGroupRole": {
+    "title": "Groepsrol",
+    "label": "Groepsrol: ${role}",
+    "admins": "Eigenaar en groepsmanagers",
+    "member": "Lid"
+  },
+  "filterAffiliation": {
+    "title": "Verbonden aan",
+    "label": "Verbonden aan: ${name}",
+    "myOrg": "Mijn Organisatie",
+    "other": "Overige"
+  },
+  "filterCreditsRemain": {
+    "title": "Resterende credits",
+    "noLimit": "Geen limiet",
+    "lessThan": "Minder dan",
+    "credits": "Credits",
+    "labelNoLimit": "Credits: geen limiet",
+    "labelLess": "Credits: minder dan ${value}",
+    "invalidValue": "De ingevoerde waarde is niet geldig."
+  },
+  "filterEmailVerification": {
+    "title": "Status e-mailverificatie",
+    "unverified": "Ongeverifieerde e-mailadressen",
+    "verified": "Geverifieerde e-mailadressen",
+    "label": "Status e-mailverificatie: ${status}"
+  },
+  "filterLoginType": {
+    "title": "Logintype",
+    "label": "Type aanmelding: ${type}",
+    "social": "Sociaal"
+  },
+  "filterApp": {
+    "title": "App",
+    "label": "App: ${app}"
+  },
+  "filterMFA": {
+    "title": "Multifactorverificatie",
+    "enabled": "Ingeschakeld",
+    "disabled": "Uitgeschakeld",
+    "label": "Multifactorverificatie: ${status}"
+  },
+  "roles": {
+    "user": "Gebruiker",
+    "publisher": "Publisher",
+    "admin": "Beheerder",
+    "viewer": "Viewer",
+    "editor": "Data Editor",
+    "facilitator": "Facilitator"
+  }
+}

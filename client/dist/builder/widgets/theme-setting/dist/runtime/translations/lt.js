@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Tema",customTheme:"Adaptuoti",resetTheme:"Nustatyti i\u0161 naujo",backToMainThemePanel:"Gr\u012f\u017eti",customPaletteTitle:"Adaptuoti palet\u0117s spalvas",customFontsetTitle:"Adaptuoti \u0161rift\u0173 rinkin\u012f",customAppElementsTitle:"Aplikacijos elementai"})}}}));

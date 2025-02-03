@@ -1,0 +1,12 @@
+{
+  "addRaster": "Raszterváltozók hozzáadása",
+  "addScalar": "Állandó hozzáadása",
+  "raster": "Raszter",
+  "scalar": "Skalár",
+  "defaultModelName": "Raszterfunkció-sablon",
+  "defaultRasterName": "Raszter",
+  "invalidRFTMessage": "A raszterfüggvénysablon érvénytelen.",
+  "deprecated": "Elavult",
+  "deprecatedHoverText": "Ez a raszterfüggvény elavult, és egy későbbi kiadásban eltávolításra kerül.",
+  "userStartDirection": "Egy raszterfunkció-sablon létrehozásának elkezdéséhez válasszon funkciót."
+}

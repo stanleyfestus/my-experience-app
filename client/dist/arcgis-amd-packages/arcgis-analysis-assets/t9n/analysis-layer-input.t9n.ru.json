@@ -1,0 +1,22 @@
+{
+  "allowAnalysisReason": "Один или несколько слоев изображений карты не перечислены здесь, поскольку свойство сервиса, разрешающее анализ, не включено. <a href='${ docLink }' target='_blank'>Подробнее.</a><br>",
+  "createSketch": "Создать скетч",
+  "dataTypeMismatch": "Выбранный слой содержит недопустимый тип данных.",
+  "drawInputFeatures": "Нарисовать входные объекты",
+  "featureCountAboveMaximum": "Максимальное допустимое количество объектов не должно превышать ${maximum}.",
+  "featureCountBelowMinimum": "Минимальное допустимое количество объектов равно ${minimum}.",
+  "geometryMismatch": "Выбранный слой содержит недопустимую геометрию.",
+  "isRequired": "Это обязательный параметр.",
+  "layer": "Слой",
+  "layerAction": "Действия: ${layerName}",
+  "layerNotAvailable": "Не удалось загрузить слой ${layerName}",
+  "layerNotSupported": "Выбранный слой не поддерживается.",
+  "layersFilteredOut": "Некоторые слои были отфильтрованы.",
+  "layersNotAllowAnalysis": "Анализ не разрешен для некоторых слоев на этой карте.",
+  "loadingSketch": "Загрузка скетча...",
+  "multipleLayersNotAvailable": "Не удалось загрузить слой ${layerName} и другие",
+  "numberFeatures": "Число объектов: ${featureCount}",
+  "numberFeaturesLoading": "Вычисление...",
+  "proxyReason": "Один или несколько слоев с карты не перечислены здесь, поскольку они не опубликованы для вас и не являются общедоступными. <a href='${ docLink }' target='_blank'>Подробнее.</a><br>",
+  "replaceLayer": "Заменить слой"
+}

@@ -1,0 +1,18 @@
+{
+  "sketches": "Dessiner des entités",
+  "actions": "Actions",
+  "edit": "Modifier",
+  "duplicate": "Dupliquer",
+  "featureDuplicated": "L’entité sélectionnée a été dupliquée.",
+  "featuresDuplicated": "Les entités sélectionnées ont été dupliquées.",
+  "copyToNewSketchLayer": "Copier vers une nouvelle couche de dessin",
+  "delete": "Supprimer",
+  "addSketch": "Ajouter une entité",
+  "textPreview": "A",
+  "point": "Point",
+  "line": "Ligne",
+  "polygon": "Polygone",
+  "text": "Texte",
+  "collapse": "Réduire",
+  "expand": "Développer"
+}

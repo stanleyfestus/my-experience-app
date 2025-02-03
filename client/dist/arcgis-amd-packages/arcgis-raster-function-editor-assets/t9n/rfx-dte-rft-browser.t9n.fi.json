@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Selaa rasteritoimintomalleja",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "TulosaineistonRasteri",
+  "readingFailed": "Valitun rasteritoimintomallin lataus epäonnistui."
+}

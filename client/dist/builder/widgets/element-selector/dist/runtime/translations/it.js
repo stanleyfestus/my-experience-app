@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"Quest'area fornisce un elenco dei widget configurati ma non sulle aree di disegno correnti. Potrebbero esistere in altre modalit\xe0 del dispositivo.",element:"Inserire widget",pending:"In sospeso",widgetHelpIconLabel:"Informazioni su questo widget",widgetGuideStart:"Iniziare un tour"})}}}));

@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Examinar plantillas de función ráster",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "Ráster de salida",
+  "readingFailed": "Error al cargar la plantilla de función ráster seleccionada."
+}

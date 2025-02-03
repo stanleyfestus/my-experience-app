@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Konfiguriši kategorije sadržaja",
+  "modalGroupHeader": "Konfiguriši grupe kategorija",
+  "helpText": "Uređivanje, brisanje ili promena redosleda kategorije u vašoj organizaciji.",
+  "helpTextGroup": "Uredite, izbrišite ili promenite redosled kategorija za sadržaj u ovoj grupi.",
+  "helpTextDescription": "Imajte u vidu da su drugi članovi vaše organizacije možda već dodelili ove kategorije svojim stavkama i da će se uređivanjem šeme njihove stavke ažurirati u skladu sa tim.",
+  "helpTextGroupDescription": "Imajte u vidu da su drugi članovi grupe možda već dodelili ove kategorije svojim stavkama i da će se uređivanjem šeme njihove stavke ažurirati u skladu sa tim.",
+  "loadingText": "Učitavanje šeme šablona",
+  "cancel": "Otkaži",
+  "finishSetup": "Završi podešavanje",
+  "hasUnsavedChanges": "Napravili ste izmene na kategoriji koje će se izgubiti, ako ih najpre ne sačuvate. Da li zaista želite da zatvorite ovaj prikaz i izgubite izmene?",
+  "error": {
+    "generic": {
+      "title": "Greška prilikom ažuriranja kategorija",
+      "message": "Nešto nije u redu. Pokušajte ponovo kasnije."
+    },
+    "maxDepthExceeded": {
+      "title": "Greška prilikom ažuriranja kategorija",
+      "message": "Ne možete ugnezditi kategorije dublje od 2 nivoa."
+    },
+    "destinationHasSameName": {
+      "title": "Greška prilikom ažuriranja kategorija",
+      "message": "Kategorija sa istim imenom već postoji u kategoriji odredišta."
+    },
+    "emptyTitle": {
+      "title": "Greška prilikom ažuriranja kategorija",
+      "message": "Naslov kategorije ne može da bude prazan."
+    },
+    "noSchema": {
+      "title": "Šema nije pronađena",
+      "message": "Šema stavke nije pronađena za korisnika."
+    },
+    "maxCharacter": {
+      "title": "Greška prilikom ažuriranja kategorija",
+      "message": "Nazivi kategorija mogu da budu maksimalne dužine ${maxCharacter} karaktera."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Obriši kategoriju",
+      "cta": "Obriši kategoriju",
+      "message": {
+        "single": "Jedna stavka je dodeljena za ovu kategoriju. Brisanje kategorije takođe će je ukloniti iz ove stavke.",
+        "multiple": "${number} stavki je dodeljeno u ovu kategoriju. Brisanje ove kategorije ukloniće je iz ovih stavki.",
+        "unknown": "Stavki dodeljeno u ovu kategoriju: ${number}. Brisanje ove kategorije ukloniće je iz ovih stavki."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Ažuriraj kategoriju",
+      "message": {
+        "single": "Jedna stavka je dodeljena za ovu kategoriju. Ažuriranje kategorije će ažurirati stavku za upotrebu \"${newTitle}\".",
+        "multiple": "${number} stavki je dodeljeno u ovu kategoriju. Ažuriranje kategorije ažuriraće stavke u upotrebi \"${newTitle}\".",
+        "unknown": "Stavki dodeljeno u ovu kategoriju: ${number}. Ažuriranje kategorije ažuriraće stavke u upotrebi \"${newTitle}\"."
+      },
+      "cta": "Ažuriraj kategoriju"
+    }
+  },
+  "template": {
+    "title": "Šabloni kategorija",
+    "learnMore": "Saznajte više",
+    "templateList": {
+      "custom": {
+        "title": "Prilagođene kategorije",
+        "message": "Kreirajte sopstvene kategorije za organizovanje sadržaja unutar organizacije.",
+        "messageGroup": "Kreirajte sopstvene fotografije za organizovanje sadržaja unutar ove grupe."
+      },
+      "arcgis": {
+        "title": "ArcGIS kategorije",
+        "message": "ArcGIS kategorije uključuju odabir kategorija i potkategorija koje mogu da budu korišćene za kategorizaciju brojnih tipova geoprostornog sadržaja. Ove kategorije se koriste za podršku ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "ISO kategorije",
+        "message": "ISO kategorije uključuju kategorije tema Međunarodne organizacije za standardizaciju koje omogućavaju metod za opis i katalogizaciju geografskih informacija."
+      },
+      "inspire": {
+        "title": "INSPIRE kategorije",
+        "message": "INSPIRE kategorija uključuju sveobuhvatni skup tema prostornih podataka postavljenih u INSPIRE datoteci."
+      }
+    }
+  }
+}

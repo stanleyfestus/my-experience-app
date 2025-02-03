@@ -1,0 +1,12 @@
+{
+  "addRaster": "Raster Değişkeni Ekle",
+  "addScalar": "Sabit Ekle",
+  "raster": "Raster",
+  "scalar": "Skalar",
+  "defaultModelName": "Raster Fonksiyonu Şablonu",
+  "defaultRasterName": "Raster",
+  "invalidRFTMessage": "Raster fonksiyonu şablonu geçerli değil.",
+  "deprecated": "Kullanım dışı olma Tarihi",
+  "deprecatedHoverText": "Bu raster işlevi kullanımdan kaldırılmıştır ve gelecekteki bir sürümde kaldırılacaktır.",
+  "userStartDirection": "Bir raster işlev şablonu oluşturmak için bir işlev seçin."
+}

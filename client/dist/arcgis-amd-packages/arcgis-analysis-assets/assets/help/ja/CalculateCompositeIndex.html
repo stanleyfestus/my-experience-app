@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>複合インデックスの計算ツールは、複数の数値変数を組み合わせて、1 つのインデックスを作成します。
+    </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="inputLayer">
+        <div>
+            <p>インデックスに結合される変数を含むテーブルまたはフィーチャ。
+            </p>
+        </div>
+    </div>
+    <div id="inputVariables">
+        <div>
+            <p>インデックスを作成するために結合される変数を含むフィールド。  <b>[方向の反転]</b> は、変数の値が反転されるかどうかを指定します。 <b>[加重]</b> は、インデックスに対する各変数の相対的な影響を示します。
+            </p>
+        </div>
+    </div>
+    <div id="indexMethod">
+        <div>
+            <p>入力変数をスケール処理し、スケール処理済みの各変数を組み合わせてインデックスを作成するために使用する方法を指定します。
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexReverse">
+        <div>
+            <p>出力インデックス値を反転させるかどうかを指定します。 オンにすると、大きい値が小さいインデックス値として処理され、逆も同様になります。
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexMinMax">
+        <div>
+            <p>出力インデックス値の最小値と最大値。
+            </p>
+        </div>
+    </div>
+    <div id="outputName">
+        <div>
+            <p>作成されマップに追加されるレイヤーの名前。
+            </p>
+        </div>
+    </div>
+    <div id="saveResultIn">
+        <div>
+            <p>結果を保存する  <b>[マイ コンテンツ]</b> 内のフォルダーの名前。
+            </p>
+        </div>
+    </div>
+</div>
+</html>

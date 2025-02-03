@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Görüntü gösterme sırası",
+  "mosaicMethod": "Mozaik yöntemi",
+  "mosaicOperator": "Mozaik işlemci",
+  "done": "Bitti",
+  "cancel": "İptal",
+  "reverserOrder": "Sırayı tersine çevir",
+  "imageIDs": "Görüntü Kimlikleri:",
+  "useCommaDelimiter": "Kimlikleri ayırmak için virgül kullan",
+  "highestPriorityValue": "En yüksek öncelikli değer",
+  "attribute": "Öznitelik",
+  "mosaicMethodLabel": {
+    "none": "Hiçbiri",
+    "attribute": "Özniteliğe göre",
+    "center": "Merkeze en yakın",
+    "nadir": "Gözlemcinin düşey olarak tam altında bulunan noktaya en yakın",
+    "northwest": "Kuzey Batı",
+    "seamline": "Birleşme Çizgileri",
+    "lock-raster": "Raster'ı kilitle",
+    "viewpoint": "Görüntü noktası"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Birinci",
+    "last": "Son",
+    "min": "Minimum",
+    "max": "Maksimum",
+    "mean": "Ortalama",
+    "blend": "Karıştır",
+    "sum": "Toplam"
+  },
+  "componentLabel": {
+    "methodSelect": "Bir mozaik yöntemi seç",
+    "attributeFieldSelect": "Alan seçin",
+    "operatorSelect": "Bir mozaik operatörü seç"
+  }
+}

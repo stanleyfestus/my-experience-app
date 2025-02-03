@@ -1,0 +1,22 @@
+{
+  "allowAnalysisReason": "Jedan ili više slojeva slika s karte nisu navedeni ovdje jer svojstvo dopuštanja usluge analize nije omogućeno. <a href='${ docLink }' target='_blank'>Saznajte više.</a><br>",
+  "createSketch": "Napravi skicu",
+  "dataTypeMismatch": "Odabrani sloj nema ispravnu vrstu podataka.",
+  "drawInputFeatures": "Crtanje ulaznih geoobjekata",
+  "featureCountAboveMaximum": "Broj geoobjekata ne može biti veći od ${maximum}.",
+  "featureCountBelowMinimum": "Broj geoobjekata ne može biti manji od ${minimum}.",
+  "geometryMismatch": "Odabrani sloj nema ispravnu geometriju.",
+  "isRequired": "Ovaj parametar je obavezan.",
+  "layer": "Sloj",
+  "layerAction": "${layerName} radnji",
+  "layerNotAvailable": "Nije uspjelo učitavanje sloja ${layerName}",
+  "layerNotSupported": "Odabrani sloj nije podržan.",
+  "layersFilteredOut": "Neki slojevi su filtrirani.",
+  "layersNotAllowAnalysis": "Analiza nije dopuštena za neke slojeve na ovoj karti.",
+  "loadingSketch": "Učitavanje skice...",
+  "multipleLayersNotAvailable": "Nije uspjelo učitavanje sloja ${layerName} i drugih",
+  "numberFeatures": "Broj geoobjekata: ${featureCount}",
+  "numberFeaturesLoading": "Izračunavanje...",
+  "proxyReason": "Jedan ili više slojeva s karte nisu navedeni ovdje jer se ili ne dijele s vama ili nisu javno dostupni. <a href='${ docLink }' target='_blank'>Saznajte više.</a><br>",
+  "replaceLayer": "Zamijeni sloj"
+}

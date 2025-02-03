@@ -1,0 +1,17 @@
+{
+  "cancel": "Hủy",
+  "deletePrompt": "Bạn có chắc chắn muốn xóa trường này khỏi lớp không?",
+  "deleteField": "Xóa trường",
+  "deleteFields": "Xóa các trường",
+  "deletingField": "Đang xóa trường...",
+  "newFeature": "Đối tượng mới",
+  "fieldDeleted": "Đã xóa trường thành công",
+  "fieldDeletionUnsuccessful": "Xóa trường không thành công",
+  "fieldInUse": "Trường này đang được sử dụng trong các vùng sau:",
+  "expressions": "Biểu thức",
+  "popups": "Cửa sổ pop-up",
+  "forms": "Mẫu form",
+  "charts": "Biểu đồ",
+  "deleteWarning": "Xóa trường được sử dụng để cấu hình các thuộc tính lớp có thể dẫn đến thay đổi hành vi.",
+  "learnMore": "Tìm hiểu thêm"
+}

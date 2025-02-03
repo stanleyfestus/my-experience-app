@@ -1,0 +1,17 @@
+{
+  "cancel": "Anulare",
+  "deletePrompt": "Sigur doriți să ștergeți acest câmp din stratul tematic?",
+  "deleteField": "Ștergere câmp",
+  "deleteFields": "Ștergere câmpuri",
+  "deletingField": "Se șterge câmpul...",
+  "newFeature": "Obiect spațial nou",
+  "fieldDeleted": "Câmp șters cu succes",
+  "fieldDeletionUnsuccessful": "Ștergerea câmpului nu a reușit",
+  "fieldInUse": "Acest câmp este utilizat în domeniile următoare:",
+  "expressions": "Expresii",
+  "popups": "Ferestre pop-up",
+  "forms": "Formulare",
+  "charts": "Diagrame",
+  "deleteWarning": "Ștergerea unui câmp utilizat pentru a configura proprietățile stratului tematic poate cauza o schimbare de comportament.",
+  "learnMore": "Aflați mai multe"
+}

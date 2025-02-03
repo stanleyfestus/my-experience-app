@@ -1,0 +1,13 @@
+{
+  "fieldLoadingErrorText": "Alanlar yüklenemiyor.",
+  "fieldNotAvailable": "Alan yüklenemedi.",
+  "fieldTypesIncompatible": "Kullanılabilir uyumlu alan yok.",
+  "layerNotSelected": "Alanları doldurmak için katman seçilmedi.",
+  "loadingFields": "Alanlar yükleniyor",
+  "multipleFieldsNotAvailable": "Bir veya daha fazla alan yüklenemedi.",
+  "requiredErrorLabelDefault": "Bir alan",
+  "requiredErrorMessage": "Bu parametre gerekli.",
+  "selectFieldPicklistHeading": "Alan seç",
+  "selectOkBtnText": "Seç",
+  "selectVariables": "Değişken seç"
+}

@@ -1,0 +1,17 @@
+{
+  "value": "Vrijednost",
+  "classname": "Naziv razreda",
+  "color": "Boja",
+  "raster": "Raster",
+  "tableType": "Vrsta tablice",
+  "manual": "Ručno",
+  "external": "Vanjski",
+  "browseTable": "Pregledaj tablicu",
+  "unsupportedDataType": "Nepodržana vrsta",
+  "generate": "Generiraj tablicu",
+  "minValue": "Minimalna vrijednost",
+  "maxValue": "Maksimalna vrijednost",
+  "classBaseName": "Osnovni naziv razreda",
+  "colorscheme": "Shema boja",
+  "defaultClassName": "Oznaka_"
+}

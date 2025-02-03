@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "圖片顯示順序",
+  "mosaicMethod": "鑲嵌方法",
+  "mosaicOperator": "鑲嵌運算子",
+  "done": "完成",
+  "cancel": "取消",
+  "reverserOrder": "反向順序",
+  "imageIDs": "影像 ID:",
+  "useCommaDelimiter": "使用逗號以分隔 ID",
+  "highestPriorityValue": "最高優先順序值",
+  "attribute": "屬性",
+  "mosaicMethodLabel": {
+    "none": "無",
+    "attribute": "按屬性",
+    "center": "最接近中心",
+    "nadir": "最接近 nadir",
+    "northwest": "西北區",
+    "seamline": "接縫線",
+    "lock-raster": "鎖定點陣",
+    "viewpoint": "視點"
+  },
+  "mosaicOperatorLabel": {
+    "first": "第一頁",
+    "last": "最後一頁",
+    "min": "最小值",
+    "max": "最大值",
+    "mean": "中等",
+    "blend": "混合",
+    "sum": "總和"
+  },
+  "componentLabel": {
+    "methodSelect": "選擇鑲嵌方法",
+    "attributeFieldSelect": "選擇欄位",
+    "operatorSelect": "選擇鑲嵌運算子"
+  }
+}

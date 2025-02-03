@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Kentät",
+  "filterAttributes": "Hakukentät",
+  "selected": "valittu",
+  "integer": "Kokonaisluku",
+  "number": "Numero",
+  "string": "Merkkijono",
+  "date": "Päivämäärä",
+  "dataType": "Aineistotyyppi",
+  "matching": "täsmäytys",
+  "selectAll": "Valitse kaikki",
+  "deselectAll": "Poista kaikkien valinta",
+  "displayName": "Näyttönimi",
+  "type": "Tyyppi",
+  "default": "Oletusarvo",
+  "fieldName": "Kentän nimi",
+  "sort": "Lajittele",
+  "filter": "Suodata",
+  "filterDataType": "Suodata aineistotyypin mukaan",
+  "filterFieldName": "Suodata kentän nimen mukaan",
+  "addField": "Lisää kenttä"
+}

@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Ortalama",
+    "median": "Ortanca",
+    "sum": "Toplam",
+    "discretePercentile": "Ayrık yüzdelik",
+    "minimum": "Minimum",
+    "maximum": "Maksimum",
+    "firstQuartile": "Birinci çeyrek",
+    "thirdQuartile": "Üçüncü çeyrek",
+    "iqr": "IQR",
+    "standardDeviation": "Standart sapma",
+    "variance": "Varyans",
+    "count": "Sayım",
+    "aggregation": "${ statistics } / ${ fieldName }",
+    "percent": "Yüzde",
+    "noAggregation": "Kümeleme yok",
+    "meanValue": "Ortalama değer"
+  },
+  "overlays": {
+    "mean": "Ortalama",
+    "median": "Ortanca",
+    "stdDev": "Standart Sapma",
+    "normal": "Normal Dağılım",
+    "trendline": "Trend çizgisi"
+  },
+  "guideTooltipLabel": "${ guideStart }'dan ${ guideEnd }'a kadar",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Diğer"
+  },
+  "notAvailable": "Kullanılamıyor",
+  "field": "Alan"
+}

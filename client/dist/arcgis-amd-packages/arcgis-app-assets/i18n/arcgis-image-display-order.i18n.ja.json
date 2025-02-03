@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "画像の表示順序",
+  "mosaicMethod": "モザイク方法",
+  "mosaicOperator": "モザイク オペレーター",
+  "done": "完了",
+  "cancel": "キャンセル",
+  "reverserOrder": "順序を反転",
+  "imageIDs": "画像 ID:",
+  "useCommaDelimiter": "ID の区切りにカンマを使用",
+  "highestPriorityValue": "最高の優先度値",
+  "attribute": "属性",
+  "mosaicMethodLabel": {
+    "none": "なし",
+    "attribute": "属性による",
+    "center": "中央に最も近い",
+    "nadir": "天底に最も近い",
+    "northwest": "北西",
+    "seamline": "シームライン",
+    "lock-raster": "ラスターのロック",
+    "viewpoint": "観測点"
+  },
+  "mosaicOperatorLabel": {
+    "first": "最初",
+    "last": "最後",
+    "min": "最小",
+    "max": "最大",
+    "mean": "平均",
+    "blend": "ブレンド",
+    "sum": "合計"
+  },
+  "componentLabel": {
+    "methodSelect": "モザイク方法の選択",
+    "attributeFieldSelect": "フィールドの選択",
+    "operatorSelect": "モザイク オペレーターの選択"
+  }
+}

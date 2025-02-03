@@ -1,0 +1,17 @@
+{
+  "value": "Valor",
+  "classname": "ClassName",
+  "color": "Cor",
+  "raster": "Raster",
+  "tableType": "Tipo de Tabela",
+  "manual": "Manual",
+  "external": "Externo",
+  "browseTable": "Pesquisar Tabela",
+  "unsupportedDataType": "Tipo não suportado",
+  "generate": "Criar tabela",
+  "minValue": "Valor Mínimo",
+  "maxValue": "Valor Máximo",
+  "classBaseName": "Nome Base da Classe",
+  "colorscheme": "Esquema de Cores",
+  "defaultClassName": "Rótulo_"
+}

@@ -1,0 +1,14 @@
+{
+  "expandAll": "모두 확장",
+  "collapseAll": "모두 축소",
+  "categoryItem": {
+    "expand": "확장",
+    "collapse": "축소",
+    "editCategory": "범주 편집",
+    "deleteCategory": "범주 삭제",
+    "addSubcategory": "하위 범주 추가",
+    "addCategory": "범주 추가",
+    "save": "저장",
+    "cancel": "취소"
+  }
+}

@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Ruteindstillinger",searchSettings:"S\xf8geindstillinger",generalSettings:"Generelle indstillinger",routeUrl:"Rute-URL",outputStops:"Stop",outputRoute:"Rute",outputDirectionPoints:"Retningspunkter",outputDirectionLines:"Retningslinjer"})}}}));

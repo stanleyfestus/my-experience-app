@@ -1,0 +1,16 @@
+{
+  "folder": "Kaust",
+  "searchFolders": "Otsi kaustu",
+  "enterFolder": "Sisestage kausta nimi",
+  "createNewFolder": "Loo uus kaust",
+  "noFoldersFoundCreate": "Selle nimega kaustu ei leitud. Kas luua \"${folder}\"?",
+  "noFoldersFound": "Selle nimega kaustu ei leitud.",
+  "create": "Kas luua \"${folder}\"?",
+  "loading": "Kaustade laadimine",
+  "error": {
+    "noName": "Peate sisestama kausta nime.",
+    "folderAlreadyExists": "Kaust \"${folder}\" on juba olemas. Valige mõni muu nimi.",
+    "title": "viga",
+    "invalidCharacters": "Nimi ei tohi sisaldada ühtegi järgnevatest tähemärkidest: ${invalidCharacters}."
+  }
+}

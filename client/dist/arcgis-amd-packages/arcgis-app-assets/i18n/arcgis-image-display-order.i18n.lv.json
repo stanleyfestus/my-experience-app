@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Attēla parādīšanas secība",
+  "mosaicMethod": "Mozaīkas metode",
+  "mosaicOperator": "Mozaīkas operators",
+  "done": "Gatavs",
+  "cancel": "Atcelt",
+  "reverserOrder": "Apgriezt secību",
+  "imageIDs": "Attēla ID:",
+  "useCommaDelimiter": "Lai atdalītu ID, izmantot komatu",
+  "highestPriorityValue": "Augstākā prioritātes vērtība",
+  "attribute": "Atribūts",
+  "mosaicMethodLabel": {
+    "none": "Neviens",
+    "attribute": "Pēc atribūta",
+    "center": "Vistuvāk centram",
+    "nadir": "Vistuvāk nadīram",
+    "northwest": "Ziemeļrietumi",
+    "seamline": "Norobežojumi",
+    "lock-raster": "Bloķēt rastru",
+    "viewpoint": "Skata punkts"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Pirmais",
+    "last": "Pēdējais",
+    "min": "Minimālais",
+    "max": "Maksimālais",
+    "mean": "Vidējais",
+    "blend": "Sapludināt",
+    "sum": "Summa"
+  },
+  "componentLabel": {
+    "methodSelect": "Izvēlēties mozaīkas metodi",
+    "attributeFieldSelect": "Atlasīt lauku",
+    "operatorSelect": "Izvēlēties mozaīkas operatoru"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "sketches": "Esbossos d'entitats",
+  "actions": "Accions",
+  "edit": "Edita",
+  "duplicate": "Duplica",
+  "featureDuplicated": "S'ha duplicat correctament l'entitat seleccionada.",
+  "featuresDuplicated": "S'han duplicat correctament les entitats seleccionades.",
+  "copyToNewSketchLayer": "Copia a una capa d'esbós nova",
+  "delete": "Suprimeix",
+  "addSketch": "Afegeix una entitat",
+  "textPreview": "A",
+  "point": "Punt",
+  "line": "Línia",
+  "polygon": "Polígon",
+  "text": "Text",
+  "collapse": "Redueix",
+  "expand": "Amplia"
+}

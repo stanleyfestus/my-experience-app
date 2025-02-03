@@ -1,0 +1,16 @@
+{
+  "folder": "Dossier",
+  "searchFolders": "Rechercher des dossiers",
+  "enterFolder": "Saisir le nom du dossier",
+  "createNewFolder": "Créer un nouveau dossier",
+  "noFoldersFoundCreate": "Aucun dossier portant ce nom n’a été trouvé. Créer '${folder}' ?",
+  "noFoldersFound": "Aucun dossier portant ce nom n’a été trouvé.",
+  "create": "Créer '${folder}' ?",
+  "loading": "Chargement des dossiers",
+  "error": {
+    "noName": "Vous devez fournir un nom pour ce dossier.",
+    "folderAlreadyExists": "Le dossier '${folder}' existe déjà. Choisissez un autre nom.",
+    "title": "Erreur",
+    "invalidCharacters": "Le nom ne peut contenir aucun des caractères suivants : ${invalidCharacters}."
+  }
+}

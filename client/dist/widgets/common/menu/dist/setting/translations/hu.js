@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({subMenuExpandMode:"Almen\xfc kibont\xe1si m\xf3dja",mainMenu:"F\u0151men\xfc",subMenu:"Almen\xfc"})}}}));

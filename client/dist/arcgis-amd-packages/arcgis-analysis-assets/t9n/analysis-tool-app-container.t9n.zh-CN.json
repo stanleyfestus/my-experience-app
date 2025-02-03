@@ -1,0 +1,20 @@
+{
+  "backLabel": "返回",
+  "cannotReopenTool": "无法重新打开工具。 工具参数已恢复为默认值。",
+  "cannotReopenWebTool": "无法打开 web 工具。 <calcite-link target='_blank' href='${ docLink }'>了解详细信息</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "取消",
+    "confirmationPrompt": "您想继续而不更新分析参数吗？",
+    "continueRun": "继续",
+    "creditEstimate": "预估配额：${cost}",
+    "creditReductionHint": "<em>为了减少分析的配额数，请考虑添加过滤器或使用分析环境来设置处理范围。</em> <calcite-link target='_blank' href='${ docLink }'>了解更多</calcite-link>",
+    "creditThreshold": "配额阈值：${threshold}",
+    "heading": "已达到配额阈值",
+    "learnMore": "了解详细信息",
+    "thresholdExceeded": "此分析的预估成本高于您的配额阈值。"
+  },
+  "failedToExecuteEstimate": "提交失败。 执行 EstimateRasterAnalysisCost 失败",
+  "missingPermissionForWebTool": "无法访问此工具。 确保该工具存在并且您的用户拥有其访问权限。",
+  "runAnalysisLabel": "运行",
+  "webToolJSONChanged": "已更新一个或多个参数。 可能无法根据历史记录重新填充某些参数。"
+}

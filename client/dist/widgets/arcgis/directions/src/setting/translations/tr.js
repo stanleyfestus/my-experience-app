@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Rota Ayarlar\u0131",searchSettings:"Arama ayarlar\u0131",generalSettings:"Genel ayarlar",routeUrl:"Rota URL'si",outputStops:"Duraklar",outputRoute:"Rota",outputDirectionPoints:"Y\xf6n noktalar\u0131",outputDirectionLines:"Y\xf6n \xe7izgileri"})}}}));

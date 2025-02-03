@@ -1,0 +1,17 @@
+{
+  "cancel": "Storno",
+  "deletePrompt": "Skutečně chcete odstranit toto pole z vrstvy?",
+  "deleteField": "Odstranit pole",
+  "deleteFields": "Odstranit pole",
+  "deletingField": "Probíhá odstraňování pole...",
+  "newFeature": "Nový prvek",
+  "fieldDeleted": "Pole bylo úspěšně odstraněno",
+  "fieldDeletionUnsuccessful": "Odstranění pole neproběhlo úspěšně",
+  "fieldInUse": "Toto pole se používá v následujících oblastech:",
+  "expressions": "Výrazy",
+  "popups": "Vyskakovací okna",
+  "forms": "Formuláře",
+  "charts": "Grafy",
+  "deleteWarning": "Odstranění pole použitého ke konfiguraci vlastností vrstvy může způsobit změnu chování.",
+  "learnMore": "Další informace"
+}

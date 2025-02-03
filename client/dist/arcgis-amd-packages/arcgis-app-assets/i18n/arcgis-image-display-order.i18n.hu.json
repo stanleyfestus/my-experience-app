@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Képmegjelenítési sorrend",
+  "mosaicMethod": "Mozaik metódus",
+  "mosaicOperator": "Mozaik operátor",
+  "done": "Kész",
+  "cancel": "Mégse",
+  "reverserOrder": "Sorrend megfordítása",
+  "imageIDs": "Képazonosítók:",
+  "useCommaDelimiter": "Az azonosítók elválasztásához használjon vesszőt",
+  "highestPriorityValue": "Legnagyobb prioritási érték",
+  "attribute": "Attribútum",
+  "mosaicMethodLabel": {
+    "none": "Egyik sem",
+    "attribute": "Attribútum szerint",
+    "center": "Középponthoz legközelebbi",
+    "nadir": "Nadírhoz legközelebbi",
+    "northwest": "Észak-nyugat",
+    "seamline": "Mozaikvonalak",
+    "lock-raster": "Raszter zárolása",
+    "viewpoint": "Nézetpont"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Első",
+    "last": "Utolsó",
+    "min": "Minimum",
+    "max": "Maximum",
+    "mean": "Közepes",
+    "blend": "Összemosás",
+    "sum": "Összeg"
+  },
+  "componentLabel": {
+    "methodSelect": "Válasszon mozaik metódust",
+    "attributeFieldSelect": "Válasszon mezőt",
+    "operatorSelect": "Válasszon mozaik operátort"
+  }
+}

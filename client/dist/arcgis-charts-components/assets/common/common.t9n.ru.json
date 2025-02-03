@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Среднее",
+    "median": "Медиана",
+    "sum": "Сумма",
+    "discretePercentile": "Дискретный процентиль",
+    "minimum": "Минимум",
+    "maximum": "Максимум",
+    "firstQuartile": "Квартиль 1",
+    "thirdQuartile": "Квартиль 3",
+    "iqr": "IQR",
+    "standardDeviation": "Среднеквадратическое отклонение",
+    "variance": "Дисперсия",
+    "count": "Количество",
+    "aggregation": "${ statistics } из ${ fieldName }",
+    "percent": "Процент",
+    "noAggregation": "Без агрегации",
+    "meanValue": "Среднее значение"
+  },
+  "overlays": {
+    "mean": "Среднее",
+    "median": "Медиана",
+    "stdDev": "Среднеквадратическое отклонение",
+    "normal": "Нормальное распределение",
+    "trendline": "Линия тренда"
+  },
+  "guideTooltipLabel": "От ${ guideStart } до ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Прочее"
+  },
+  "notAvailable": "Недоступно",
+  "field": "Поле"
+}

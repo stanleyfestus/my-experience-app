@@ -1,0 +1,20 @@
+{
+  "hosted": "хоствани",
+  "hostedView": "хоствани, преглед",
+  "hostedPhotos": "хоствани, снимки",
+  "hostedCollection": "хоствани, колекция",
+  "hostedMultidimensional": "хоствани, многоизмерни",
+  "hostedCollectionMultidimensional": "хоствани, колекция, многоизмерни",
+  "collectionMultidimensional": "колекция, многоизмерни",
+  "multidimensional": "многоизмерни",
+  "collection": "колекция",
+  "photoLocations": "снимки",
+  "locatorView": "изглед",
+  "utilityNetwork": "комунална мрежа",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

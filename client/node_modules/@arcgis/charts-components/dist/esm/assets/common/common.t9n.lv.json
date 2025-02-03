@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Vidējais",
+    "median": "Mediāna",
+    "sum": "Summa",
+    "discretePercentile": "Diskrētā procentīle",
+    "minimum": "Minimālais",
+    "maximum": "Maksimālais",
+    "firstQuartile": "Pirmā kvartile",
+    "thirdQuartile": "Trešā kvartile",
+    "iqr": "IQR",
+    "standardDeviation": "Standartnovirze",
+    "variance": "Novirze",
+    "count": "Skaits",
+    "aggregation": "${ statistics } no ${ fieldName }",
+    "percent": "Procenti",
+    "noAggregation": "Bez apkopošanas",
+    "meanValue": "Vidējā aritmētiskā vērtība"
+  },
+  "overlays": {
+    "mean": "Vidējais",
+    "median": "Mediāna",
+    "stdDev": "Standartnovirze",
+    "normal": "Normālais sadalījums",
+    "trendline": "Tendences līkne"
+  },
+  "guideTooltipLabel": "No ${ guideStart } līdz ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Cits"
+  },
+  "notAvailable": "Nav pieejams",
+  "field": "Lauks"
+}

@@ -1,0 +1,18 @@
+{
+  "backLabel": "Πίσω",
+  "browseHeader": "Επιλογή θεματικού επιπέδου",
+  "cannotReopenRasterFunction": "Δεν ήταν δυνατό το άνοιγμα της raster συνάρτησης.",
+  "creditThresholdModal": {
+    "cancelRun": "Ακύρωση",
+    "confirmationPrompt": "Θέλετε να συνεχίσετε χωρίς ενημέρωση των παραμέτρων ανάλυσης;",
+    "continueRun": "Συνέχεια",
+    "creditEstimate": "Εκτιμώμενες μονάδες κατανάλωσης: ${cost}",
+    "creditReductionHint": "<em>Για να μειώσετε τον αριθμό των μονάδων κατανάλωσης για την ανάλυση, μπορείτε να προσθέσετε ένα φίλτρο ή να χρησιμοποιήσετε τα περιβάλλοντα ανάλυσης για να ορίσετε μια έκταση επεξεργασίας.</em> <calcite-link target='_blank' href='${ docLink }'>Μάθετε περισσότερα</calcite-link>",
+    "creditThreshold": "Όριο μονάδων κατανάλωσης: ${threshold}",
+    "heading": "Φτάσατε το όριο μονάδων κατανάλωσης",
+    "learnMore": "Περισσότερες πληροφορίες",
+    "thresholdExceeded": "Το υπολογιζόμενο κόστος για αυτή την ανάλυση είναι μεγαλύτερο από το όριο μονάδων κατανάλωσης."
+  },
+  "failedToExecuteEstimate": "Η υποβολή απέτυχε. Αποτυχία εκτέλεσης της παραμέτρου EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Εκτέλεση"
+}

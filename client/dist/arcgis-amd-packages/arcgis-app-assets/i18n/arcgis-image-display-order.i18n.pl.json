@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Kolejność wyświetlania rastrów",
+  "mosaicMethod": "Metoda mozaikowania",
+  "mosaicOperator": "Operator mozaikowania",
+  "done": "Gotowe",
+  "cancel": "Anuluj",
+  "reverserOrder": "Odwróć kolejność",
+  "imageIDs": "Identyfikatory obrazów:",
+  "useCommaDelimiter": "Oddziel identyfikatory za pomocą przecinka",
+  "highestPriorityValue": "Wartość najwyższego priorytetu",
+  "attribute": "Atrybut",
+  "mosaicMethodLabel": {
+    "none": "Brak",
+    "attribute": "Według atrybutu",
+    "center": "Najbliżej środka",
+    "nadir": "Najbliżej nadiru",
+    "northwest": "Północny zachód",
+    "seamline": "Linie szycia",
+    "lock-raster": "Zablokuj raster",
+    "viewpoint": "Wyświetl punkt"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Pierwszy",
+    "last": "Ostatni",
+    "min": "Minimum",
+    "max": "Maksimum",
+    "mean": "Średnia",
+    "blend": "Mieszanie",
+    "sum": "Suma"
+  },
+  "componentLabel": {
+    "methodSelect": "Wybierz metodę mozaikowania",
+    "attributeFieldSelect": "Wybierz pole",
+    "operatorSelect": "Wybierz operator mozaikowania"
+  }
+}

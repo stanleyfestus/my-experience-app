@@ -1,0 +1,1 @@
+System.register([],(function(a){return{execute:function(){a({_widgetLabel:"Nawigacja po widokach",widgetPlaceholder:"Dodaj sekcj\u0119, aby u\u017cywa\u0107 tego wid\u017cetu.",tabDefault:"Karta - domy\u015blne",tabUnderline:"Karta - podkre\u015blenie",tabPills:"Karta - pigu\u0142ki",arrow1:"Strza\u0142ka 1",arrow2:"Strza\u0142ka 2",arrow3:"Strza\u0142ka 3"})}}}));

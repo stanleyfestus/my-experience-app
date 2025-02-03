@@ -1,0 +1,8 @@
+{
+  "newTemplate": "新しいテンプレートの作成",
+  "openTemplate": "テンプレートを開く",
+  "addFunction": "ラスター関数の追加",
+  "addConstant": "定数の追加",
+  "addRaster": "ラスター変数の追加",
+  "expand": "拡張"
+}

@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Urutan tampilan gambar",
+  "mosaicMethod": "Metode mosaik",
+  "mosaicOperator": "Operator mosaik",
+  "done": "Selesai",
+  "cancel": "Batalkan",
+  "reverserOrder": "Membalik urutan",
+  "imageIDs": "ID Gambar:",
+  "useCommaDelimiter": "Gunakan koma untuk memisahkan ID",
+  "highestPriorityValue": "Nilai prioritas tertinggi",
+  "attribute": "Atribut",
+  "mosaicMethodLabel": {
+    "none": "Tidak Ada",
+    "attribute": "Berdasarkan atribut",
+    "center": "Paling dekat ke pusat",
+    "nadir": "Paling dekat ke nadir",
+    "northwest": "Barat laut",
+    "seamline": "Seamline",
+    "lock-raster": "Kunci raster",
+    "viewpoint": "Sudut pandang"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Pertama",
+    "last": "Terakhir",
+    "min": "Minimal",
+    "max": "Maksimal",
+    "mean": "Rata-Rata",
+    "blend": "Gabungan",
+    "sum": "Sum"
+  },
+  "componentLabel": {
+    "methodSelect": "Pilih metode mosaik",
+    "attributeFieldSelect": "Pilih kolom",
+    "operatorSelect": "Pilih operator mosaik"
+  }
+}

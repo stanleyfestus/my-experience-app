@@ -1,0 +1,20 @@
+{
+  "backLabel": "Înapoi",
+  "cannotReopenTool": "Instrumentul nu a putut fi redeschis. Parametrii instrumentului au fost readuși la valorile implicite.",
+  "cannotReopenWebTool": "Nu se poate deschide instrumentul web. <calcite-link target='_blank' href='${ docLink }'>Aflați mai multe</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Anulare",
+    "confirmationPrompt": "Doriți să continuați fără să actualizați parametrii de analiză?",
+    "continueRun": "Continuaţi",
+    "creditEstimate": "Credite estimate: ${cost}",
+    "creditReductionHint": "<em>Pentru a reduce numărul de credite pentru analiză, aveți în vedere adăugarea unui filtre sau utilizarea mediilor de analiză pentru a seta extinderea procesării.</em> <calcite-link target='_blank' href='${ docLink }'>Aflați mai multe</calcite-link>",
+    "creditThreshold": "Prag credit: ${threshold}",
+    "heading": "Prag credite atins",
+    "learnMore": "Aflați mai multe",
+    "thresholdExceeded": "Costul estimat pentru această analiză este mai mare decât pragul dvs. de credit."
+  },
+  "failedToExecuteEstimate": "Trimitere eșuată. Nu s-a reușit executarea EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Acest instrument nu poate fi accesat. Asigurați-vă că instrumentul există și că utilizatorul dvs. are permisiunea de a-l accesa.",
+  "runAnalysisLabel": "Executare",
+  "webToolJSONChanged": "Unul sau mai mulți parametri au fost actualizați. Este posibil ca unii parametrii să nu fie repopulați din istoric."
+}

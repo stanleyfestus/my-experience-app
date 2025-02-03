@@ -1,0 +1,17 @@
+{
+  "value": "Wartość",
+  "classname": "ClassName",
+  "color": "Kolor",
+  "raster": "Raster",
+  "tableType": "Typ tabeli",
+  "manual": "Manualnie",
+  "external": "Zewnętrzne",
+  "browseTable": "Przeglądaj tabelę",
+  "unsupportedDataType": "Nieobsługiwany typ",
+  "generate": "Generuj tabelę",
+  "minValue": "Wartość minimalna",
+  "maxValue": "Wartość maksymalna",
+  "classBaseName": "Nazwa podstawowa klasy",
+  "colorscheme": "Schemat kolorów",
+  "defaultClassName": "Etykieta_"
+}

@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Billedvisningsrækkefølge",
+  "mosaicMethod": "Mosaikmetode:",
+  "mosaicOperator": "Mosaik-operator:",
+  "done": "Udført",
+  "cancel": "Annuller",
+  "reverserOrder": "Vend rækkefølge",
+  "imageIDs": "Billed-ID'er:",
+  "useCommaDelimiter": "Brug komma til at adskille ID'er",
+  "highestPriorityValue": "Højeste prioritetsværdi",
+  "attribute": "Attribut",
+  "mosaicMethodLabel": {
+    "none": "Ingen",
+    "attribute": "Efter attribut",
+    "center": "Tættest på center",
+    "nadir": "Tættest på nadir",
+    "northwest": "North West",
+    "seamline": "seamlines",
+    "lock-raster": "Lås raster",
+    "viewpoint": "Visningspunkt"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Første",
+    "last": "Sidste",
+    "min": "Minimum",
+    "max": "Maksimum",
+    "mean": "Gennemsnit",
+    "blend": "Bland",
+    "sum": "Sum"
+  },
+  "componentLabel": {
+    "methodSelect": "Vælg en mosaikmetode",
+    "attributeFieldSelect": "Vælg et felt",
+    "operatorSelect": "Vælg en mosaik-operator"
+  }
+}

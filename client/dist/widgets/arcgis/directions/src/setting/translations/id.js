@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Pengaturan Rute",searchSettings:"Pengaturan pencarian",generalSettings:"Pengaturan umum",routeUrl:"URL Rute",outputStops:"Perhentian",outputRoute:"Rute",outputDirectionPoints:"Titik arah",outputDirectionLines:"Garis arah"})}}}));

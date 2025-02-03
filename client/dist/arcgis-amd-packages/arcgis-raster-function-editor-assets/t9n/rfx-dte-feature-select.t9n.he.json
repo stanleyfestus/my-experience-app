@@ -1,0 +1,6 @@
+{
+  "selectFeature": "בחר שכבת ישות",
+  "browseLayer": "עיין בשכבות",
+  "loading": "טוען...",
+  "errorCodes": { "required": "זהו פרמטר חובה." }
+}

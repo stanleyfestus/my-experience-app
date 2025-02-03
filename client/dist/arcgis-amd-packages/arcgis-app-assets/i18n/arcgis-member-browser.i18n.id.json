@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "Filter",
+    "pageRange": "${start}-${end}, total: ${total}",
+    "pageRangeAria": "${start}-${end}, total anggota: ${total}",
+    "selectedMembers": "Anggota terpilih",
+    "noSelectedMembers": "Tidak ada anggota yang saat ini dipilih",
+    "noUsersFound": "Tidak ditemukan pengguna yang memenuhi kriteria Anda. Coba hapus sebagian filter atau mengubah pencarian Anda untuk menunjukkan lebih banyak pengguna.",
+    "enterTermExternal": "Masukkan istilah pencarian untuk menemukan pengguna di semua ArcGIS Online",
+    "noUsers": "Tidak ada pengguna yang tersedia",
+    "coordinator": "Koordinator kolaborasi"
+  },
+  "search": {
+    "searchMembers": "Cari anggota"
+  },
+  "filterUserTypes": {
+    "title": "Jenis pengguna",
+    "label": "Jenis pengguna: ${name}",
+    "loading": "Memuat jenis pengguna..."
+  },
+  "filterRoles": {
+    "title": "Peran",
+    "label": "Peran: ${name}",
+    "loading": "Memuat peran...",
+    "searchRoles": "Cari peran"
+  },
+  "filterOrgGroups": {
+    "title": "Grup organisasi",
+    "label": "Grup: ${name}",
+    "loading": "Memuat grup organisasi...",
+    "searchGroups": "Cari grup"
+  },
+  "filterMyGroups": {
+    "title": "Grup saya",
+    "label": "Grup: ${name}",
+    "loading": "Memuat grup saya...",
+    "searchMyGroups": "Cari grup saya"
+  },
+  "filterCategories": {
+    "title": "Kategori",
+    "label": "Kategori: ${name}",
+    "loading": "Memuat kategori...",
+    "noCategoriesTitle": "Belum Ada Kategori",
+    "noCategories": "Kategori memungkinkan anggota mengorganisasikan item secara konsisten dan memberikan cara sederhana untuk menelusuri konten dalam organisasi.",
+    "setupCategories": "Buat kategori anggota",
+    "configureCategories": "Konfigurasikan kategori",
+    "noCategoriesAssigned": "Tidak ada kategori yang ditetapkan"
+  },
+  "filterPartnerCollabs": {
+    "title": "Kolaborasi mitra",
+    "label": "Kolaborasi mitra: ${name}",
+    "loading": "Memuat kolaborasi mitra...",
+    "coordinatorsOnly": "Koordinator kolaborasi saja",
+    "coordinatorsDescription": "Koordinator kolaborasi adalah perwakilan kolaborasi mitra yang dapat ditambahkan ke grup tanpa memerlukan konfirmasi.",
+    "coordinatorsInfoLabel": "Informasi selengkapnya tentang koordinator kolaborasi"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "Cari semua anggota organisasi ArcGIS Online",
+    "searchPartners": "Sertakan ini dan anggota organisasi mitra"
+  },
+  "table": {
+    "caption": "Hasil anggota, header kolom dengan tombol dapat diurutkan.",
+    "selectAll": "Pilih semua",
+    "selection": "Pilihan",
+    "headers": {
+      "name": "Nama",
+      "membertype": "Peran grup",
+      "affiliation": "Afiliasi",
+      "joined": "Bergabung",
+      "credits": "Sisa kredit",
+      "lastlogin": "Masuk terakhir",
+      "usertype": "Jenis pengguna",
+      "role": "Peran"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "Opsi lainnya",
+    "groupManager": "Pengelola Grup",
+    "owner": "Pemilik",
+    "member": "Anggota",
+    "myOrg": "Organisasi Saya",
+    "other": "Lainnya",
+    "coordinator": "Koordinator kolaborasi",
+    "noLimit": "Tidak ada batasan",
+    "creditsNumber": "${remain} dari ${total}",
+    "today": "Hari ini",
+    "yesterday": "Kemarin",
+    "never": "Jangan pernah"
+  },
+  "myOrg": {
+    "myOrgView": "Tampilan organisasi saya"
+  },
+  "filterGroupRole": {
+    "title": "Peran grup",
+    "label": "Peran Grup: ${role}",
+    "admins": "Pemilik dan Pengelola Grup",
+    "member": "Anggota"
+  },
+  "filterAffiliation": {
+    "title": "Afiliasi",
+    "label": "Afiliasi: ${name}",
+    "myOrg": "Organisasi Saya",
+    "other": "Lainnya"
+  },
+  "filterCreditsRemain": {
+    "title": "Sisa kredit",
+    "noLimit": "Tidak ada batasan",
+    "lessThan": "Kurang dari",
+    "credits": "Kredit",
+    "labelNoLimit": "Kredit: Tidak ada batasan",
+    "labelLess": "Kredit: Kurang dari ${value}",
+    "invalidValue": "Nilai yang dimasukkan tidak valid."
+  },
+  "filterEmailVerification": {
+    "title": "Status verifikasi email",
+    "unverified": "Alamat email yang tidak terverifikasi",
+    "verified": "Alamat email yang terverifikasi",
+    "label": "Status verifikasi email: ${status}"
+  },
+  "filterLoginType": {
+    "title": "Jenis login",
+    "label": "Jenis login: ${type}",
+    "social": "Sosial"
+  },
+  "filterApp": {
+    "title": "Aplikasi",
+    "label": "Aplikasi: ${app}"
+  },
+  "filterMFA": {
+    "title": "Autentikasi multifaktor",
+    "enabled": "Diaktifkan",
+    "disabled": "Nonaktifkan",
+    "label": "Autentikasi multifaktor: ${status}"
+  },
+  "roles": {
+    "user": "Pengguna",
+    "publisher": "Penerbit",
+    "admin": "Administrator",
+    "viewer": "Viewer",
+    "editor": "Editor Data",
+    "facilitator": "Fasilitator"
+  }
+}

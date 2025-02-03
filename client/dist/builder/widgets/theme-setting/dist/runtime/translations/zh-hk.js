@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"\u4e3b\u984c",customTheme:"\u81ea\u8a02",resetTheme:"\u91cd\u8a2d",backToMainThemePanel:"\u4e0a\u4e00\u6b65",customPaletteTitle:"\u81ea\u8a02\u8abf\u8272\u76e4\u984f\u8272",customFontsetTitle:"\u81ea\u8a02\u5b57\u578b\u96c6",customAppElementsTitle:"\u61c9\u7528\u7a0b\u5f0f\u5143\u7d20"})}}}));

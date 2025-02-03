@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>T&ouml;&ouml;riist Arvuta liitindeks kombineerib mitu arvulist muutujat, et luua &uuml;ks indeks.
+    </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="inputLayer">
+        <div>
+            <p>Tabel v&otilde;i funktsioonid, mis sisaldavad muutujaid, mis &uuml;hendatakse indeksisse.
+            </p>
+        </div>
+    </div>
+    <div id="inputVariables">
+        <div>
+            <p>V&auml;ljad, mis sisaldavad muutujaid, mida kombineeritakse indeksi loomiseks. T&ouml;&ouml;riist  <b>P&ouml;&ouml;ra suund &uuml;mber</b> m&auml;&auml;rab, kas muutujate v&auml;&auml;rtused p&ouml;&ouml;ratakse &uuml;mber. T&ouml;&ouml;riist <b>Kaal</b> v&auml;ljendab iga muutuja suhtelist m&otilde;ju indeksile.
+            </p>
+        </div>
+    </div>
+    <div id="indexMethod">
+        <div>
+            <p>M&auml;&auml;rab meetodi, mida kasutatakse sisendmuutujate skaleerimiseks ja skaleeritud muutujate kombineerimiseks, et luua indeks.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexReverse">
+        <div>
+            <p>M&auml;&auml;rab, kas v&auml;ljundindeksi v&auml;&auml;rtuste suund p&ouml;&ouml;ratakse &uuml;mber. Kui see on m&auml;rgitud, k&auml;sitletakse &uuml;lemisi v&auml;&auml;rtusi indeksite alumiste v&auml;&auml;rtustena ja vastupidi.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexMinMax">
+        <div>
+            <p>V&auml;ljundindeksi minimaalne ja maksimaalne v&auml;&auml;rtus.
+            </p>
+        </div>
+    </div>
+    <div id="outputName">
+        <div>
+            <p>Selle kihi nimi, mis luuakse ja lisatakse kaardile.
+            </p>
+        </div>
+    </div>
+    <div id="saveResultIn">
+        <div>
+            <p>Selle kausta nimi jaotises  <b>Minu sisu</b>, kuhu tulemus salvestatakse.
+            </p>
+        </div>
+    </div>
+</div>
+</html>

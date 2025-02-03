@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>C&ocirc;ng cụ T&iacute;nh to&aacute;n Chỉ mục Hỗn hợp kết hợp nhiều biến số để tạo một chỉ mục duy nhất.
+    </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="inputLayer">
+        <div>
+            <p>Bảng hoặc đối tượng chứa c&aacute;c biến sẽ được kết hợp th&agrave;nh chỉ mục.
+            </p>
+        </div>
+    </div>
+    <div id="inputVariables">
+        <div>
+            <p>Trường chứa c&aacute;c biến sẽ được kết hợp để tạo chỉ mục.  <b>Đảo ngược phương hướng</b> chỉ định xem gi&aacute; trị của c&aacute;c biến c&oacute; bị đảo ngược hay kh&ocirc;ng. <b>Trọng số</b> l&agrave; mức độ ảnh hưởng tương đối của từng biến l&ecirc;n chỉ mục.
+            </p>
+        </div>
+    </div>
+    <div id="indexMethod">
+        <div>
+            <p>Chỉ định phương ph&aacute;p sẽ được sử dụng để chia tỷ lệ c&aacute;c biến đầu v&agrave;o v&agrave; kết hợp c&aacute;c biến đ&atilde; chia tỷ lệ để tạo chỉ mục.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexReverse">
+        <div>
+            <p>Chỉ định xem c&aacute;c gi&aacute; trị chỉ mục đầu ra c&oacute; bị đảo ngược hướng hay kh&ocirc;ng. Khi được chọn, gi&aacute; trị cao sẽ được coi l&agrave; gi&aacute; trị chỉ mục thấp v&agrave; ngược lại.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexMinMax">
+        <div>
+            <p>Gi&aacute; trị tối thiểu v&agrave; tối đa của chỉ mục đầu ra.
+            </p>
+        </div>
+    </div>
+    <div id="outputName">
+        <div>
+            <p>T&ecirc;n của lớp sẽ được tạo v&agrave; th&ecirc;m v&agrave;o bản đồ.
+            </p>
+        </div>
+    </div>
+    <div id="saveResultIn">
+        <div>
+            <p>T&ecirc;n của thư mục trong  <b>Nội dung của t&ocirc;i</b> sẽ lưu trữ kết quả.
+            </p>
+        </div>
+    </div>
+</div>
+</html>

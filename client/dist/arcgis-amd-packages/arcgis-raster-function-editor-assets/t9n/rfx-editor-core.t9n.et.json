@@ -1,0 +1,12 @@
+{
+  "addRaster": "Lisa rastri muutuja",
+  "addScalar": "Lisa konstant",
+  "raster": "Raster",
+  "scalar": "Skalaar",
+  "defaultModelName": "Rasterfunktsiooni mall",
+  "defaultRasterName": "Raster",
+  "invalidRFTMessage": "Rasterfunktsiooni mall ei sobi.",
+  "deprecated": "Aegunud",
+  "deprecatedHoverText": "See rasterfunktsioon on aegunud ja see eemaldatakse tulevasest versioonist.",
+  "userStartDirection": "Rasterfunktsiooni malli koostamiseks valige kõigepealt funktsioon."
+}

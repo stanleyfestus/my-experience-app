@@ -1,0 +1,22 @@
+{
+  "cancel": "Annuler",
+  "reset": "Réinitialiser",
+  "resetting": "Réinitialisation...",
+  "save": "Enregistrer",
+  "saving": "Enregistrement...",
+  "itemClassificationCategoryLabel": "Étiquette de catégorie de classification des éléments",
+  "itemClassificationEditLabel": "Modifier la classification",
+  "itemClassificationValidateError": "La validation a échoué. La valeur de classification des éléments ne sera pas renseignée. Appliquez des modifications et enregistrez une nouvelle valeur de classification.",
+  "classificationValueSaved": "La valeur de classification a été enregistrée",
+  "classificationNotificationHandler": "Gestionnaire de notifications pour la classification",
+  "openModal": "Ouvrir la fenêtre modale",
+  "currentSelections": "Sélections actuelles",
+  "fieldSelectionError": "Ce champ est obligatoire.",
+  "selectAnOption": "Sélectionner une option",
+  "selectOptions": "Sélectionner une ou plusieurs options",
+  "singleSelectionLabel": "Menu déroulant de sélection unique",
+  "multipleSelectionLabel": "Menu déroulant de sélection multiple",
+  "singleAttributeError": "Le contenu DOIT inclure ${attributeName}. Vérifiez vos sélections.",
+  "multipleAttributeErrors": "Le contenu DOIT inclure ${attributeString} et ${lastAttributeName}. Vérifiez vos sélections.",
+  "classificationSectionLabel": "Classification"
+}

@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "필드",
+  "filterAttributes": "검색 필드",
+  "selected": "선택함",
+  "integer": "Integer",
+  "number": "Number",
+  "string": "String",
+  "date": "Date",
+  "dataType": "데이터 유형",
+  "matching": "매칭",
+  "selectAll": "모두 선택",
+  "deselectAll": "모두 선택 취소",
+  "displayName": "디스플레이 이름",
+  "type": "유형",
+  "default": "기본",
+  "fieldName": "필드 이름",
+  "sort": "정렬",
+  "filter": "필터",
+  "filterDataType": "데이터 유형별 필터링",
+  "filterFieldName": "필드 이름별 필터링",
+  "addField": "필드 추가"
+}

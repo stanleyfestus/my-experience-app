@@ -1,0 +1,22 @@
+{
+  "allowAnalysisReason": "Jedna alebo viac snímkových vrstiev z mapy tu nie sú uvedené, pretože vlastnosť povolenia analýz pre službu nie je povolená. <a href='${ docLink }' target='_blank'>Zistiť viac.</a><br>",
+  "createSketch": "Vytvoriť skicu",
+  "dataTypeMismatch": "Vybraná vrstva nemá správny dátový typ.",
+  "drawInputFeatures": "Nakresliť vstupné prvky",
+  "featureCountAboveMaximum": "Počet prvkov nesmie byť väčší ako ${maximum}.",
+  "featureCountBelowMinimum": "Počet prvkov nesmie byť menší ako ${minimum}.",
+  "geometryMismatch": "Vybraná vrstva nemá správnu geometriu.",
+  "isRequired": "Tento parameter je povinný.",
+  "layer": "Vrstva",
+  "layerAction": "${layerName} akcie",
+  "layerNotAvailable": "Nepodarilo sa načítať vrstvu ${layerName}",
+  "layerNotSupported": "Vybraná vrstva nie je podporovaná.",
+  "layersFilteredOut": "Niektoré vrstvy boli odfiltrované.",
+  "layersNotAllowAnalysis": "Analýza nie je povolená pre niektoré vrstvy v tejto mape.",
+  "loadingSketch": "Načítanie náčrtu...",
+  "multipleLayersNotAvailable": "Nepodarilo sa načítať vrstvu ${layerName} a ďalšie",
+  "numberFeatures": "Počet prvkov: ${featureCount}",
+  "numberFeaturesLoading": "Prebieha výpočet...",
+  "proxyReason": "Jedna alebo viac vrstiev z mapy tu nie je uvedených, pretože buď nie sú zdieľané s vami alebo nie sú verejne prístupné. <a href='${ docLink }' target='_blank'>Zistiť viac.</a><br>",
+  "replaceLayer": "Nahradiť vrstvu"
+}

@@ -1,0 +1,45 @@
+{
+  "noTimeEnabledLayers": "No hi ha cap capa amb temps habilitat disponible",
+  "enableTimeSlider": "Aplica el filtre de temps",
+  "startEndPoints": {
+    "title": "Punts d'inici-final",
+    "timeDisplay": "Mode del control lliscant de temps",
+    "currentInterval": "Mostra les dades dins de l'interval",
+    "currentIntervalHelp": "Es mostren les dades temporals que es troben dins de l'interval de temps actual.",
+    "progressively": "Mostra les dades progressivament",
+    "progressivelyHelp": "Les dades temporals es mostren progressivament entre l'hora d'inici i la de finalització.",
+    "instant": "Mostra les dades en un instant de temps",
+    "instantHelp": "Es mostren les dades temporals que es troben en un únic instant en el temps.",
+    "startDate": "Data d'inici",
+    "startTime": "Hora d'inici",
+    "endDate": "Data de finalització",
+    "endTime": "Hora de finalització"
+  },
+  "timeInterval": {
+    "title": "Interval de temps",
+    "lengthPerInterval": "Durada d'un interval",
+    "lengthPerStep": "Temps total dividit en períodes iguals",
+    "count": "Recompte",
+    "countValidation": "Introduïu un nombre superior a 0 i inferior a ${maxCount}",
+    "unit": "Unitat",
+    "equalSteps": "Temps total dividit en períodes iguals",
+    "timeUnits": {
+      "centuries": "Segle",
+      "decades": "Dècada",
+      "years": "Any",
+      "months": "Mes",
+      "weeks": "Setmana",
+      "days": "Dia",
+      "hours": "Hora",
+      "minutes": "Minut",
+      "seconds": "Segon",
+      "milliseconds": "Mil·lisegon"
+    }
+  },
+  "playback": {
+    "title": "Reproducció",
+    "playRate": "Velocitat de reproducció",
+    "slow": "Lent",
+    "fast": "Ràpid"
+  }
+}

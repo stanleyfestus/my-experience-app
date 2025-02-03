@@ -1,0 +1,23 @@
+{
+  "cancel": "Anuluj",
+  "reset": "Resetuj",
+  "resetting": "Resetowanie...",
+  "save": "Zapisz",
+  "saving": "Zapisywanie...",
+  "itemClassificationLabel": "Klasyfikacja",
+  "itemClassificationCategoryLabel": "Etykieta kategorii klasyfikacji elementu",
+  "itemClassificationEditLabel": "Edytuj klasyfikację",
+  "itemClassificationValidateError": "Weryfikacja nie powiodła się, wartość klasyfikacji elementu nie zostanie wypełniona! Prosimy o edycję i zapisanie nowej.",
+  "classificationValueSaved": "Wartość klasyfikacji została zapisana",
+  "classificationNotificationHandler": "Obsługa powiadomień o klasyfikacji",
+  "openModal": "Otwórz okno modalne",
+  "currentSelections": "Bieżący wybór",
+  "fieldSelectionError": "To jest pole wymagane.",
+  "selectAnOption": "Wybierz opcję",
+  "selectOptions": "Wybierz opcje",
+  "singleSelectionLabel": "Menu rozwijane pojedynczego wyboru",
+  "multipleSelectionLabel": "Menu rozwijane wielokrotnego wyboru",
+  "singleAttributeError": "Zasoby MUSZĄ obejmować ${attributeName}. Przejrzyj swoje wybory.",
+  "multipleAttributeErrors": "Zasoby MUSZĄ obejmować ${attributeString} i ${lastAttributeName}. Przejrzyj swoje wybory.",
+  "classificationSectionLabel": "Klasyfikacja"
+}

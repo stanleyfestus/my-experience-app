@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Navig\xe1cia zobrazen\xed",widgetPlaceholder:"Pridajte sekciu pre pou\u017eitie tohto widgetu.",tabDefault:"Predvolenie karty",tabUnderline:"Pod\u010diarknutie karty",tabPills:"Gu\u013e\xf4\u010dky karty",arrow1:"\u0160\xedpka 1",arrow2:"\u0160\xedpka 2",arrow3:"\u0160\xedpka 3"})}}}));

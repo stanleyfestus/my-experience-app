@@ -1,0 +1,18 @@
+{
+  "sketches": "Fitur sketsa",
+  "actions": "Tindakan",
+  "edit": "Edit",
+  "duplicate": "Duplikasi",
+  "featureDuplicated": "Berhasil menduplikasi fitur yang dipilih.",
+  "featuresDuplicated": "Berhasil menduplikasi fitur yang dipilih.",
+  "copyToNewSketchLayer": "Salin ke layer Sketsa baru",
+  "delete": "Hapus",
+  "addSketch": "Tambahkan fitur",
+  "textPreview": "A",
+  "point": "Titik",
+  "line": "Garis",
+  "polygon": "Polygon",
+  "text": "Teks",
+  "collapse": "Tutup",
+  "expand": "Bentang"
+}

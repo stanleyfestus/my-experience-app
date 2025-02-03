@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Configurer des catégories de contenu",
+  "modalGroupHeader": "Configurer des catégories de groupe",
+  "helpText": "Modifiez, supprimez ou réorganisez les catégories de votre organisation.",
+  "helpTextGroup": "Modifiez, supprimez ou réorganisez les catégories de contenu de ce groupe.",
+  "helpTextDescription": "N’oubliez pas que les autres membres de votre organisation ont peut-être déjà attribué ces catégories à leurs éléments et que la mise à jour de la structure actualise ces éléments en conséquence.",
+  "helpTextGroupDescription": "N’oubliez pas que les autres membres du groupe ont peut-être déjà attribué ces catégories à leurs éléments et que la mise à jour de la structure actualise ces éléments en conséquence.",
+  "loadingText": "Chargement des modèles de structure",
+  "cancel": "Annuler",
+  "finishSetup": "Terminer la configuration",
+  "hasUnsavedChanges": "Les modifications que vous avez apportées aux catégories seront perdues si vous ne les enregistrez pas au préalable. Êtes-vous sûr de vouloir fermer cette vue et perdre vos modifications ?",
+  "error": {
+    "generic": {
+      "title": "Erreur lors de la mise à jour des catégories",
+      "message": "Un problème est survenu. Réessayez ultérieurement."
+    },
+    "maxDepthExceeded": {
+      "title": "Erreur lors de la mise à jour des catégories",
+      "message": "Vous ne pouvez pas imbriquer les catégories sur plus de 2 niveaux."
+    },
+    "destinationHasSameName": {
+      "title": "Erreur lors de la mise à jour des catégories",
+      "message": "Une catégorie portant le même nom existe déjà dans la catégorie de destination."
+    },
+    "emptyTitle": {
+      "title": "Erreur lors de la mise à jour des catégories",
+      "message": "Le titre des catégories doit être renseigné."
+    },
+    "noSchema": {
+      "title": "Structure introuvable",
+      "message": "La structure des éléments est introuvable pour l’utilisateur."
+    },
+    "maxCharacter": {
+      "title": "Erreur lors de la mise à jour des catégories",
+      "message": "La longueur maximale du nom des catégories est de ${maxCharacter} caractères."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Supprimer la catégorie",
+      "cta": "Supprimer la catégorie",
+      "message": {
+        "single": "Un élément est attribué à cette catégorie. La suppression de la catégorie entraînera également sa suppression pour cet élément.",
+        "multiple": "${number} éléments sont attribués à cette catégorie. La suppression de la catégorie entraînera également sa suppression pour ces éléments.",
+        "unknown": "Éléments attribués à cette catégorie : ${number}. La suppression de la catégorie entraînera également sa suppression pour ces éléments."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Mettre à jour la catégorie",
+      "message": {
+        "single": "Un élément est attribué à cette catégorie. La mise à jour de la catégorie entraînera la mise à jour de l’élément pour qu’il utilise \"${newTitle}\".",
+        "multiple": "${number} éléments sont attribués à cette catégorie. La mise à jour de la catégorie entraînera la mise à jour des éléments pour qu’ils utilisent \"${newTitle}\".",
+        "unknown": "Éléments attribués à cette catégorie : ${number}. La mise à jour de la catégorie entraînera la mise à jour des éléments pour qu’ils utilisent \"${newTitle}\"."
+      },
+      "cta": "Mettre à jour la catégorie"
+    }
+  },
+  "template": {
+    "title": "Modèles de catégorie",
+    "learnMore": "En savoir plus",
+    "templateList": {
+      "custom": {
+        "title": "Catégories personnalisées",
+        "message": "Créez vos propres catégories pour organiser le contenu de votre organisation.",
+        "messageGroup": "Créez vos propres catégories pour organiser le contenu de ce groupe."
+      },
+      "arcgis": {
+        "title": "Catégories ArcGIS",
+        "message": "Les catégories ArcGIS incluent une sélection de catégories et de sous-catégories thématiques qui peuvent être utilisées pour classer de nombreux types de contenu géospatial. Ces catégories sont utilisées pour la prise en charge d’ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "Catégories ISO",
+        "message": "Les catégories ISO incluent les catégories thématiques de l’Organisation internationale de normalisation qui permettent de décrire et classifier les informations géographiques."
+      },
+      "inspire": {
+        "title": "Catégories INSPIRE",
+        "message": "Les catégories INSPIRE comprennent un ensemble complet de thèmes de données spatiales définis dans la directive INSPIRE."
+      }
+    }
+  }
+}

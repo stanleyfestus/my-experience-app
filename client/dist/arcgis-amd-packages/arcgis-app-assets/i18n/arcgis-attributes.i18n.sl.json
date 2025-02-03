@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Polja",
+  "filterAttributes": "Iskalna polja",
+  "selected": "izbrano",
+  "integer": "Celo število",
+  "number": "Številka",
+  "string": "Niz",
+  "date": "Datum",
+  "dataType": "Tip podatkov",
+  "matching": "ujemanje",
+  "selectAll": "Izberi vse",
+  "deselectAll": "Počisti vse",
+  "displayName": "Ime prikaza",
+  "type": "Tip",
+  "default": "Privzeto",
+  "fieldName": "Ime polja",
+  "sort": "Razvrsti",
+  "filter": "Filter",
+  "filterDataType": "Filtriraj po tipu podatkov",
+  "filterFieldName": "Filtriraj po imenu polja",
+  "addField": "Dodaj polje"
+}

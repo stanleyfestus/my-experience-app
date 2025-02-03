@@ -1,0 +1,17 @@
+{
+  "value": "Valor",
+  "classname": "ClassName",
+  "color": "Color",
+  "raster": "Ràster",
+  "tableType": "Tipus de taula",
+  "manual": "Manual",
+  "external": "Extern",
+  "browseTable": "Navegueu per la taula",
+  "unsupportedDataType": "Tipus no compatible",
+  "generate": "Genera la taula",
+  "minValue": "Valor mínim",
+  "maxValue": "Valor màxim",
+  "classBaseName": "Nom de base de la classe",
+  "colorscheme": "Esquema de colors",
+  "defaultClassName": "Label_"
+}

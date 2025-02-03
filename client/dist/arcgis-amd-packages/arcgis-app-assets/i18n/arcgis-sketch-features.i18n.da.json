@@ -1,0 +1,18 @@
+{
+  "sketches": "Skitseobjekter",
+  "actions": "Handlinger",
+  "edit": "Redigér",
+  "duplicate": "Duplikér",
+  "featureDuplicated": "Det valgte objekt er blevet duplikeret.",
+  "featuresDuplicated": "De valgte objekter er blevet duplikeret.",
+  "copyToNewSketchLayer": "Kopiér til nyt skitselag",
+  "delete": "Slet",
+  "addSketch": "Tilføj objekt",
+  "textPreview": "A",
+  "point": "Punkt",
+  "line": "Linje",
+  "polygon": "Polygon",
+  "text": "Tekst",
+  "collapse": "Skjul",
+  "expand": "Udvid"
+}

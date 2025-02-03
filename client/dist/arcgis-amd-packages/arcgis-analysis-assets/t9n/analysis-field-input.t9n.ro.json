@@ -1,0 +1,13 @@
+{
+  "fieldLoadingErrorText": "Imposibil de încărcat câmpuri.",
+  "fieldNotAvailable": "Nu s-a reușit încărcarea câmpului.",
+  "fieldTypesIncompatible": "Nu există câmpuri compatibile disponibile.",
+  "layerNotSelected": "Nu a fost selectat niciun strat tematic pentru a popula câmpurile.",
+  "loadingFields": "Încărcare câmpuri",
+  "multipleFieldsNotAvailable": "Nu s-a reușit încărcarea unuia sau mai multor câmpuri.",
+  "requiredErrorLabelDefault": "Un câmp",
+  "requiredErrorMessage": "Acest parametru este obligatoriu.",
+  "selectFieldPicklistHeading": "Selectare câmp",
+  "selectOkBtnText": "Selectare",
+  "selectVariables": "Selectare variabile"
+}

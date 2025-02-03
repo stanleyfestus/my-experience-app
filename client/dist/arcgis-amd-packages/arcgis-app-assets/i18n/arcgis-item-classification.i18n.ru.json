@@ -1,0 +1,22 @@
+{
+  "cancel": "Отмена",
+  "reset": "Сбросить",
+  "resetting": "Сброс...",
+  "save": "Сохранить",
+  "saving": "Сохранение...",
+  "itemClassificationCategoryLabel": "Подпись категории классификации элемента",
+  "itemClassificationEditLabel": "Редактировать классификацию",
+  "itemClassificationValidateError": "Проверка не удалась, значение классификации элемента не будет заполнено! Отредактируйте и сохраните новый.",
+  "classificationValueSaved": "Значение классификации сохранено",
+  "classificationNotificationHandler": "Обработчик уведомлений о классификации",
+  "openModal": "Открыть модальную",
+  "currentSelections": "Текущие выборки",
+  "fieldSelectionError": "Это поле является обязательным.",
+  "selectAnOption": "Выбрать опцию",
+  "selectOptions": "Выбрать опции",
+  "singleSelectionLabel": "Раскрывающееся меню с одним вариантов выбора",
+  "multipleSelectionLabel": "Раскрывающееся меню с несколькими вариантами выбора",
+  "singleAttributeError": "Ресурс ДОЛЖЕН указывать ${attributeName}. Проверьте свои выборки.",
+  "multipleAttributeErrors": "Ресурс ДОЛЖЕН указывать ${attributeString} и ${lastAttributeName}. Проверьте свои выборки.",
+  "classificationSectionLabel": "Классификация"
+}

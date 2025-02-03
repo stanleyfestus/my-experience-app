@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({subMenuExpandMode:"Submeniu i\u0161pl\u0117timo re\u017eimas",mainMenu:"Pagrindinis meniu",subMenu:"Submeniu"})}}}));

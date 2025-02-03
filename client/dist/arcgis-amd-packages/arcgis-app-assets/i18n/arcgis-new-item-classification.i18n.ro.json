@@ -1,0 +1,23 @@
+{
+  "cancel": "Anulare",
+  "reset": "Resetare",
+  "resetting": "Resetare în curs...",
+  "save": "Salvare",
+  "saving": "În curs de salvare...",
+  "itemClassificationLabel": "Clasificare",
+  "itemClassificationCategoryLabel": "Etichetă categorie de clasificare a elementelor",
+  "itemClassificationEditLabel": "Editare clasificare",
+  "itemClassificationValidateError": "Validare eșuată, valoarea de clasificare a elementelor nu va fi populată! Editați și salvați o versiune nouă.",
+  "classificationValueSaved": "Valoarea clasificării a fost salvată",
+  "classificationNotificationHandler": "Instrument de notificare pentru clasificare",
+  "openModal": "Deschidere modal",
+  "currentSelections": "Selecții curente",
+  "fieldSelectionError": "Acesta este un câmp obligatoriu.",
+  "selectAnOption": "Selectați o opțiune",
+  "selectOptions": "Selectare opțiune(i)",
+  "singleSelectionLabel": "Meniu vertical selecție unică",
+  "multipleSelectionLabel": "Meniu vertical selecție multiplă",
+  "singleAttributeError": "Conținutul TREEBUIE să specifice un ${attributeName}. Examinați selecțiile dvs.",
+  "multipleAttributeErrors": "Conținutul TREBUIE să specifice un ${attributeString} și ${lastAttributeName}. Examinați selecțiile dvs.",
+  "classificationSectionLabel": "Clasificare"
+}

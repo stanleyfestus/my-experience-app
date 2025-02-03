@@ -1,0 +1,22 @@
+{
+  "allowAnalysisReason": "Üht või mitut kaardilt pärit pildikihti pole siin loetletud, kuna analüüsiteenuse lubamise atribuut pole lubatud. <a href='${ docLink }' target='_blank'>Lisateave.</a><br>",
+  "createSketch": "Loo visand",
+  "dataTypeMismatch": "Valitud kihil ei ole õige andmetüüp.",
+  "drawInputFeatures": "Joonista sisendobjektid",
+  "featureCountAboveMaximum": "Objektide arv ei tohi olla suurem kui ${maximum}.",
+  "featureCountBelowMinimum": "Objektide arv ei tohi olla väiksem kui ${minimum}.",
+  "geometryMismatch": "Valitud kihil ei ole õige geomeetria.",
+  "isRequired": "See parameeter on nõutav.",
+  "layer": "Kiht",
+  "layerAction": "Kihi ${layerName} toimingud",
+  "layerNotAvailable": "Kihi ${layerName} laadimine nurjus",
+  "layerNotSupported": "Valitud kihti ei toetata.",
+  "layersFilteredOut": "Mõni kiht on välja filtreeritud.",
+  "layersNotAllowAnalysis": "Analüüs pole mõne selle kaardi kihi jaoks lubatud.",
+  "loadingSketch": "Visandi laadimine...",
+  "multipleLayersNotAvailable": "Kihi ${layerName} ja muude kihtide laadimine nurjus",
+  "numberFeatures": "Objektide arv: ${featureCount}",
+  "numberFeaturesLoading": "Arvutan...",
+  "proxyReason": "Üht või mitut kaardilt pärit pildikihti pole siin lotletud, kuna neid pole teiega jagatud või need pole avalikult kättesaadavad. <a href='${ docLink }' target='_blank'>Lisateave.</a><br>",
+  "replaceLayer": "Asenda kiht"
+}

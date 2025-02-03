@@ -1,0 +1,17 @@
+{
+  "value": "Giá trị",
+  "classname": "ClassName",
+  "color": "Màu sắc",
+  "raster": "Raster",
+  "tableType": "Loại Bảng",
+  "manual": "Bằng tay",
+  "external": "Bên ngoài",
+  "browseTable": "Duyệt Bảng",
+  "unsupportedDataType": "Loại không được hỗ trợ",
+  "generate": "Tạo Bảng",
+  "minValue": "Giá trị Tối thiểu",
+  "maxValue": "Giá trị Tối đa",
+  "classBaseName": "Tên Cơ sở Lớp",
+  "colorscheme": "Bảng phối Màu",
+  "defaultClassName": "Gắn nhãn_"
+}

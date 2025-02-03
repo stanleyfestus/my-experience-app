@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Konfigūruoti turinio kategorijas",
+  "modalGroupHeader": "Konfigūruoti grupės kategorijas",
+  "helpText": "Redaguokite, naikinkite arba pertvarkykite savo organizacijos kategorijas.",
+  "helpTextGroup": "Redaguokite, ištrinkite arba pertvarkykite turinio kategorijas šioje grupėje.",
+  "helpTextDescription": "Atminkite, kad kiti jūsų organizacijos nariai galėjo jau priskirti šias kategorijas savo elementams ir paredagavus schemą šie elementai bus atitinkamai atnaujinti.",
+  "helpTextGroupDescription": "Atminkite, kad kiti grupės nariai galėjo jau priskirti šias kategorijas savo elementams ir paredagavus schemą šie elementai bus atitinkamai atnaujinti.",
+  "loadingText": "Įkeliami schemos šablonai",
+  "cancel": "Atšaukti",
+  "finishSetup": "Baigti nustatymą",
+  "hasUnsavedChanges": "Atlikote kategorijos pakeitimus, kuriuos prarasite, jei pirmiausia neįrašysite. Ar tikrai norite uždaryti šį rodinį ir prarasti pakeitimus?",
+  "error": {
+    "generic": {
+      "title": "Atnaujinant kategorijas, įvyko klaida",
+      "message": "Įvyko klaida. Prašome pabandyti vėliau."
+    },
+    "maxDepthExceeded": {
+      "title": "Atnaujinant kategorijas, įvyko klaida",
+      "message": "Negalite įdėti kategorijų daugiau nei 2 lygių gylyje."
+    },
+    "destinationHasSameName": {
+      "title": "Atnaujinant kategorijas, įvyko klaida",
+      "message": "Kategorija tokiu pavadinimu pskirties kategorijoje jau yra."
+    },
+    "emptyTitle": {
+      "title": "Atnaujinant kategorijas, įvyko klaida",
+      "message": "Būtina įvesti kategorijos pavadinimą."
+    },
+    "noSchema": {
+      "title": "Schema nerasta",
+      "message": "Naudotojo elementų schema nerasta."
+    },
+    "maxCharacter": {
+      "title": "Atnaujinant kategorijas, įvyko klaida",
+      "message": "Kategorijų pavadinimai gali būti daugiausia ${maxCharacter} simbolių ilgio."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Ištrinti kategoriją",
+      "cta": "Ištrinti kategoriją",
+      "message": {
+        "single": "Šiai kategorijai priskirtas vienas elementas. Ištrynus šią kategoriją, ji bus pašalinta ir iš šio elemento.",
+        "multiple": "Šiai kategorijai priskirta elementų: ${number}. Ištrynus šią kategoriją, ji bus pašalinta ir iš šių elementų.",
+        "unknown": "Šiai kategorijai priskirta elementų: ${number}. Ištrynus šią kategoriją, ji bus pašalinta ir iš šių elementų."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Atnaujinti kategoriją",
+      "message": {
+        "single": "Šiai kategorijai priskirtas vienas elementas. Atnaujinus šią kategoriją, elementas bus atnaujintas, kad naudotų ${newTitle}.",
+        "multiple": "Šiai kategorijai priskirta elementų: ${number}. Atnaujinus šią kategoriją, elementai bus atnaujinti, kad naudotų ${newTitle}.",
+        "unknown": "Šiai kategorijai priskirta elementų: ${number}. Atnaujinus šią kategoriją, elementai bus atnaujinti, kad naudotų ${newTitle}."
+      },
+      "cta": "Atnaujinti kategoriją"
+    }
+  },
+  "template": {
+    "title": "Kategorijos šablonai",
+    "learnMore": "Sužinokite daugiau",
+    "templateList": {
+      "custom": {
+        "title": "Pasirinktinės kategorijos",
+        "message": "Kurkite savo kategorijas norėdami tvarkyti savo organizacijos turinį.",
+        "messageGroup": "Kurkite savo kategorijas turiniui tvarkyti šioje grupėje."
+      },
+      "arcgis": {
+        "title": "ArcGIS kategorijos",
+        "message": "ArcGIS kategorijos apima temų kategorijas ir subkategorijas, kurios gali būti naudojamos skirstant į kategorijas daugelio tipų geoerdvinį turinį. Šios kategorijos naudojamos ArcGIS Gyvajam pasaulio atlasui palaikyti."
+      },
+      "iso": {
+        "title": "ISO kategorijos",
+        "message": "ISO kategorijos apima temų kategorijas iš Tarptautinės standartizacijos organizacijos, kuri suteikia geografinės informacijos aprašymo ir katalogavimo metodus."
+      },
+      "inspire": {
+        "title": "INSPIRE kategorijos",
+        "message": "INSPIRE kategorijos apima INSPIRE direktyvoje išdėstytų erdvinių duomenų temų išsamų rinkinį."
+      }
+    }
+  }
+}

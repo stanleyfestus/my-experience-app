@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "平均值",
+    "median": "中位数",
+    "sum": "总和",
+    "discretePercentile": "离散百分比数",
+    "minimum": "最小值",
+    "maximum": "最大值",
+    "firstQuartile": "第一四分位数",
+    "thirdQuartile": "第三四分位数",
+    "iqr": "IQR",
+    "standardDeviation": "标准差",
+    "variance": "方差",
+    "count": "计数",
+    "aggregation": "${ statistics }/${ fieldName }",
+    "percent": "百分比",
+    "noAggregation": "无聚合",
+    "meanValue": "平均值"
+  },
+  "overlays": {
+    "mean": "平均值",
+    "median": "中位数",
+    "stdDev": "标准差",
+    "normal": "正态分布",
+    "trendline": "趋势线"
+  },
+  "guideTooltipLabel": "从 ${ guideStart } 至 ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "其他"
+  },
+  "notAvailable": "不可用",
+  "field": "字段"
+}

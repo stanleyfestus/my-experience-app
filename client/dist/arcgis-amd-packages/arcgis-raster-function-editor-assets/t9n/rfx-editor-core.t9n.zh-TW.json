@@ -1,0 +1,12 @@
+{
+  "addRaster": "新增點陣變數",
+  "addScalar": "新增常量",
+  "raster": "點陣",
+  "scalar": "純量",
+  "defaultModelName": "點陣函數範本",
+  "defaultRasterName": "點陣",
+  "invalidRFTMessage": "點陣函數樣板無效。",
+  "deprecated": "棄用",
+  "deprecatedHoverText": "已棄用點陣函數，後續版本將移除它。",
+  "userStartDirection": "選擇函數以開始建立點陣函數樣板。"
+}

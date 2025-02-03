@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "ค่าเฉลี่ย",
+    "median": "ค่ามัธยฐาน",
+    "sum": "รวม",
+    "discretePercentile": "เปอร์เซนไทล์แบบไม่ต่อเนื่อง",
+    "minimum": "น้อยสุด",
+    "maximum": "สูงสุด",
+    "firstQuartile": "ควอไทล์แรก",
+    "thirdQuartile": "ควอไทล์ที่สาม",
+    "iqr": "IQR",
+    "standardDeviation": "ค่าเบี่ยงเบนมาตรฐาน",
+    "variance": "ความแปรปรวน",
+    "count": "นับ",
+    "aggregation": "${ statistics } จาก ${ fieldName }",
+    "percent": "เปอร์เซ็นต์",
+    "noAggregation": "ไม่มีการรวม",
+    "meanValue": "ค่าเฉลี่ย"
+  },
+  "overlays": {
+    "mean": "ค่าเฉลี่ย",
+    "median": "ค่ามัธยฐาน",
+    "stdDev": "แบ่งกลุ่มโดยใช้ค่าเบี่ยงเบนมาตราฐาน",
+    "normal": "การกระจายปกติ",
+    "trendline": "เทรนด์ไลน์"
+  },
+  "guideTooltipLabel": "จาก ${ guideStart } ถึง ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "อื่น ๆ"
+  },
+  "notAvailable": "ไม่สามารถใช้ได้",
+  "field": "ฟิลด์"
+}

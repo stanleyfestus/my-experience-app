@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Gennemse rasterfunktionsskabeloner",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "OutputRaster",
+  "readingFailed": "Kunne ikke indlæse den valgte skabelon til rasterfunktionen."
+}

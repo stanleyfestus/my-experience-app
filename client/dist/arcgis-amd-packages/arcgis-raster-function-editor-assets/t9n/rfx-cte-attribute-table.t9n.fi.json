@@ -1,0 +1,17 @@
+{
+  "value": "Arvo",
+  "classname": "LuokanNimi",
+  "color": "Väri",
+  "raster": "Rasteri",
+  "tableType": "Taulutyyppi",
+  "manual": "Manuaalinen",
+  "external": "Ulkoinen",
+  "browseTable": "Selaa taulua",
+  "unsupportedDataType": "Tyyppiä ei tueta",
+  "generate": "Luo taulu",
+  "minValue": "Vähimmäisarvo",
+  "maxValue": "Enimmäisarvo",
+  "classBaseName": "Luokan perusnimi",
+  "colorscheme": "Värimalli",
+  "defaultClassName": "Selite_"
+}

@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "ฟิลด์",
+  "filterAttributes": "ค้นหาฟิลด์",
+  "selected": "เลือก",
+  "integer": "จำนวนเต็ม",
+  "number": "จำนวน",
+  "string": "ตัวหนังสือ",
+  "date": "วันที่",
+  "dataType": "ประเภทข้อมูล",
+  "matching": "จับคู่",
+  "selectAll": "เลือกทั้งหมด",
+  "deselectAll": "ไม่เลือกทั้งหมด",
+  "displayName": "ชื่อที่แสดง",
+  "type": "ประเภท",
+  "default": "ค่าตั้งต้น",
+  "fieldName": "ชื่อฟิลด์",
+  "sort": "เรียงลำดับ",
+  "filter": "ตัวกรอง",
+  "filterDataType": "กรองตามประเภทข้อมูล",
+  "filterFieldName": "กรองตามชื่อฟิลด์",
+  "addField": "เพิ่มฟิลด์"
+}

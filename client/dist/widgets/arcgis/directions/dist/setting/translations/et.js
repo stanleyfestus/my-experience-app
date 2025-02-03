@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({routeSettings:"Marsruudi seaded",searchSettings:"Otsingu seaded",generalSettings:"\xdclds\xe4tted",routeUrl:"Marsruudi URL",outputStops:"Peatused",outputRoute:"Marsruut",outputDirectionPoints:"Teejuhise punktid",outputDirectionLines:"Teejuhise jooned"})}}}));

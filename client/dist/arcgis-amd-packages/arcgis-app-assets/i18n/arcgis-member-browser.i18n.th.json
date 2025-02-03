@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "ตัวกรอง",
+    "pageRange": "${start}-${end}, รวม: ${total}",
+    "pageRangeAria": "${start}-${end}, สมาชิกทั้งหมด: ${total}",
+    "selectedMembers": "สมาชิกที่เลือก",
+    "noSelectedMembers": "ไม่ได้เลือกสมาชิกไว้ในขณะนี้",
+    "noUsersFound": "ไม่พบผู้ใช้ที่ตรงตามเกณฑ์ของคุณ ลงลบตัวกรองบางส่วน หรือเปลี่ยนแปลงการค้นหาของคุณเพื่อแสดงผู้ใช้เพิ่มเติม",
+    "enterTermExternal": "ป้อนคำค้นเพื่อค้นหาผู้ใช้จากใน ArcGIS Online ทั้งหมด",
+    "noUsers": "ไม่มีผู้ใช้ที่พร้อมใช้งาน",
+    "coordinator": "ผู้ประสานงานความร่วมมือ"
+  },
+  "search": {
+    "searchMembers": "ค้นหาสมาชิก"
+  },
+  "filterUserTypes": {
+    "title": "ประเภทผู้ใช้",
+    "label": "ประเภทผู้ใช้: ${name}",
+    "loading": "กำลังโหลดประเภทผู้ใช้..."
+  },
+  "filterRoles": {
+    "title": "บทบาท",
+    "label": "บทบาท: ${name}",
+    "loading": "กำลังโหลดบทบาท...",
+    "searchRoles": "ค้นหาบทบาท"
+  },
+  "filterOrgGroups": {
+    "title": "กลุ่มขององค์กร",
+    "label": "กลุ่ม: ${name}",
+    "loading": "กำลังโหลดกลุ่มขององค์กร...",
+    "searchGroups": "ค้นหากลุ่ม"
+  },
+  "filterMyGroups": {
+    "title": "กลุ่มของฉัน",
+    "label": "กลุ่ม: ${name}",
+    "loading": "กำลังโหลดกลุ่มของฉัน...",
+    "searchMyGroups": "ค้นหากลุ่มของฉัน"
+  },
+  "filterCategories": {
+    "title": "ประเภท",
+    "label": "หมวดหมู่: ${name}",
+    "loading": "กำลังโหลดหมวดหมู่...",
+    "noCategoriesTitle": "ยังไม่มีหมวดหมู่ในขณะนี้",
+    "noCategories": "หมวดหมู่ช่วยให้สมาชิกสามารถจัดระเบียบรายการได้อย่างสม่ำเสมอ และเป็นวิธีง่ายๆ ในการเรียกดูเนื้อหาในองค์กร",
+    "setupCategories": "ตั้งค่าหมวดหมู่สมาชิก",
+    "configureCategories": "กำหนดค่าหมวดหมู่",
+    "noCategoriesAssigned": "ไม่ได้กำหนดหมวดหมู่"
+  },
+  "filterPartnerCollabs": {
+    "title": "ความร่วมมือที่เป็นพันธมิตร",
+    "label": "การทำงานร่วมกันแบบพันธมิตร: ${name}",
+    "loading": "กำลังโหลดการทำงานร่วมกันแบบพันธมิตร...",
+    "coordinatorsOnly": "ผู้ประสานงานการทำงานร่วมกันเท่านั้น",
+    "coordinatorsDescription": "ผู้ประสานงานการทำงานร่วมกันเป็นตัวแทนจากความร่วมมือที่เป็นพันธมิตรซึ่งสามารถเพิ่มเข้าในกลุ่มได้โดยไม่ต้องมีการยืนยัน",
+    "coordinatorsInfoLabel": "ข้อมูลเพิ่มเติมเกี่ยวกับผู้ประสานงานการทำงานร่วมกัน"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "ค้นหาสมาชิกองค์กร ArcGIS Online ทั้งหมด",
+    "searchPartners": "รวมสมาชิกรายนี้และสมาชิกขององค์กรที่เป็นพันธมิตร"
+  },
+  "table": {
+    "caption": "สามารถจัดเรียงผลลัพธ์สมาชิก ส่วนหัวคอลัมน์พร้อมปุ่มได้",
+    "selectAll": "เลือกทั้งหมด",
+    "selection": "การเลือกรายการ",
+    "headers": {
+      "name": "ชื่อ",
+      "membertype": "บทบาทของกลุ่ม",
+      "affiliation": "การติดต่อ",
+      "joined": "เข้าร่วม",
+      "credits": "เครดิตที่เหลืออยู่",
+      "lastlogin": "เข้าสู่ระบบล่าสุด",
+      "usertype": "ประเภทผู้ใช้",
+      "role": "บทบาท"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "ตัวเลือกอื่นๆ",
+    "groupManager": "ผู้จัดการกลุ่ม",
+    "owner": "เจ้าของ",
+    "member": "สมาชิก",
+    "myOrg": "องค์กรของฉัน",
+    "other": "อื่น ๆ",
+    "coordinator": "ผู้ประสานงานความร่วมมือ",
+    "noLimit": "ไม่มีขีดจำกัด",
+    "creditsNumber": "${remain} จาก ${total}",
+    "today": "วันนี้",
+    "yesterday": "เมื่อวาน",
+    "never": "ไม่เคย"
+  },
+  "myOrg": {
+    "myOrgView": "มุมมององค์กรของฉัน"
+  },
+  "filterGroupRole": {
+    "title": "บทบาทของกลุ่ม",
+    "label": "บทบาทของกลุ่ม: ${role}",
+    "admins": "เจ้าของและผู้จัดการกลุ่ม",
+    "member": "สมาชิก"
+  },
+  "filterAffiliation": {
+    "title": "การติดต่อ",
+    "label": "การติดต่อ: ${name}",
+    "myOrg": "องค์กรของฉัน",
+    "other": "อื่น ๆ"
+  },
+  "filterCreditsRemain": {
+    "title": "เครดิตที่เหลืออยู่",
+    "noLimit": "ไม่มีขีดจำกัด",
+    "lessThan": "น้อยกว่า",
+    "credits": "เครดิต",
+    "labelNoLimit": "เครดิต: ไม่มีขีดจำกัด",
+    "labelLess": "เครดิต: น้อยกว่า ${value}",
+    "invalidValue": "ค่าที่ป้อนใช้งานไม่ได้"
+  },
+  "filterEmailVerification": {
+    "title": "สถานะการยืนยันอีเมล",
+    "unverified": "ที่อยู่อีเมลที่ยังไม่ผ่านการยืนยัน",
+    "verified": "ที่อยู่อีเมลที่ผ่านการยืนยัน",
+    "label": "สถานะการยืนยันอีเมล: ${status}"
+  },
+  "filterLoginType": {
+    "title": "ประเภทการล็อกอิน",
+    "label": "ประเภทการเข้าสู่ระบบ: ${type}",
+    "social": "โซเชียล"
+  },
+  "filterApp": {
+    "title": "แอป",
+    "label": "แอป: ${app}"
+  },
+  "filterMFA": {
+    "title": "การรับรองความถูกต้องแบบหลายปัจจัย",
+    "enabled": "เปิดการใช้งาน",
+    "disabled": "ปิดการใช้งาน",
+    "label": "การรับรองความถูกต้องแบบหลายปัจจัย: ${status}"
+  },
+  "roles": {
+    "user": "ผู้ใช้",
+    "publisher": "ผู้เผยแพร่",
+    "admin": "ผู้ดูแลระบบ",
+    "viewer": "ผู้ดู",
+    "editor": "โปรแกรมแก้ไขข้อมูล",
+    "facilitator": "ผู้ให้บริการ"
+  }
+}

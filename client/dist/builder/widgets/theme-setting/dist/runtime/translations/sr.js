@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Tema",customTheme:"Prilagodi",resetTheme:"Poni\u0161ti",backToMainThemePanel:"Nazad",customPaletteTitle:"Pode\u0161avanje palete boja",customFontsetTitle:"Pode\u0161avanje seta fonta",customAppElementsTitle:"Elementi aplikacije"})}}}));

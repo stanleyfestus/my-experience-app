@@ -1,0 +1,20 @@
+{
+  "hosted": "được lưu trữ",
+  "hostedView": "được lưu trữ, chế độ xem",
+  "hostedPhotos": "được lưu trữ, ảnh",
+  "hostedCollection": "được lưu trữ, bộ sưu tập",
+  "hostedMultidimensional": "được lưu trữ, đa chiều",
+  "hostedCollectionMultidimensional": "được lưu trữ, bộ sưu tập, đa chiều",
+  "collectionMultidimensional": "bộ sưu tập, đa chiều",
+  "multidimensional": "đa chiều",
+  "collection": "bộ sưu tập",
+  "photoLocations": "ảnh",
+  "locatorView": "chế độ xem",
+  "utilityNetwork": "mạng lưới tiện ích",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

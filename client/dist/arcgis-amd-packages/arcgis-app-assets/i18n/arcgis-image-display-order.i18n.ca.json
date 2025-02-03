@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Ordre de visualització de les imatges",
+  "mosaicMethod": "Mètode de mosaic",
+  "mosaicOperator": "Operador de mosaic",
+  "done": "Fet",
+  "cancel": "Cancel·la",
+  "reverserOrder": "Inverteix l'ordre",
+  "imageIDs": "ID d'imatge:",
+  "useCommaDelimiter": "Utilitzeu la coma per separar els ID",
+  "highestPriorityValue": "Valor més prioritari",
+  "attribute": "Atribut",
+  "mosaicMethodLabel": {
+    "none": "Cap",
+    "attribute": "Per atribut",
+    "center": "El més pròxim al centre",
+    "nadir": "El més pròxim al nadir",
+    "northwest": "Nord-oest",
+    "seamline": "Línies d'unió",
+    "lock-raster": "Bloqueja el ràster",
+    "viewpoint": "Visualitza el punt"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Primer",
+    "last": "Últim",
+    "min": "Mínim",
+    "max": "Màxim",
+    "mean": "Mitjana",
+    "blend": "Combinació",
+    "sum": "Suma"
+  },
+  "componentLabel": {
+    "methodSelect": "Seleccioneu un mètode de mosaic",
+    "attributeFieldSelect": "Seleccioneu un camp",
+    "operatorSelect": "Seleccioneu un operador de mosaic"
+  }
+}

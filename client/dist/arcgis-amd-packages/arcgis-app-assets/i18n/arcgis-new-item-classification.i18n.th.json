@@ -1,0 +1,23 @@
+{
+  "cancel": "ยกเลิก",
+  "reset": "เริ่มใหม่",
+  "resetting": "กำลังรีเซ็ต...",
+  "save": "จัดเก็บ",
+  "saving": "กำลังบันทึก...",
+  "itemClassificationLabel": "การจัดประเภท",
+  "itemClassificationCategoryLabel": "ป้ายกำกับหมวดหมู่การจำแนกประเภทรายการ",
+  "itemClassificationEditLabel": "แก้ไขการจำแนกประเภท",
+  "itemClassificationValidateError": "ตรวจสอบยืนยันไม่สำเร็จ ค่าการจำแนกประเภทรายการจะไม่ถูกเติม โปรดแก้ไขและบันทึกรายการใหม่",
+  "classificationValueSaved": "บันทึกค่าการจำแนกประเภทแล้ว",
+  "classificationNotificationHandler": "ตัวจัดการการแจ้งเตือนการจำแนกประเภท",
+  "openModal": "เปิดโมดัล",
+  "currentSelections": "การเลือกปัจจุบัน",
+  "fieldSelectionError": "นี่เป็นฟิลด์ที่จำเป็น",
+  "selectAnOption": "เลือกตัวเลือก",
+  "selectOptions": "เลือกตัวเลือก",
+  "singleSelectionLabel": "เมนูแบบเลื่อนลงการเลือกรายการเดียว",
+  "multipleSelectionLabel": "เมนูแบบเลื่อนลงการเลือกหลายรายการ",
+  "singleAttributeError": "หัวข้อต้องระบุ ${attributeName} ตรวจสอบการเลือกของคุณ",
+  "multipleAttributeErrors": "หัวข้อต้องระบุ ${attributeString} และ ${lastAttributeName} ตรวจสอบการเลือกของคุณ",
+  "classificationSectionLabel": "การจัดประเภท"
+}

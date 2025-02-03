@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Fields",
+  "filterAttributes": "Search fields",
+  "selected": "selected",
+  "integer": "Integer",
+  "number": "Number",
+  "string": "String",
+  "date": "Date",
+  "dataType": "Data type",
+  "matching": "matching",
+  "selectAll": "Select all",
+  "deselectAll": "Deselect all",
+  "displayName": "Display name",
+  "type": "Type",
+  "default": "Default",
+  "fieldName": "Field name",
+  "sort": "Sort",
+  "filter": "Filter",
+  "filterDataType": "Filter by data type",
+  "filterFieldName": "Filter by field name",
+  "addField": "Add field"
+}

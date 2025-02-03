@@ -1,0 +1,6 @@
+{
+  "browseRFT": "Duyệt biểu mẫu hàm raster",
+  "rfxVariable": "RasterFunctionVariable",
+  "outputRaster": "OutputRaster",
+  "readingFailed": "Không thể tải raster function template đã chọn."
+}

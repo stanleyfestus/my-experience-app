@@ -1,0 +1,18 @@
+{
+  "sketches": "ישויות סקיצה",
+  "actions": "פעולות",
+  "edit": "עריכה",
+  "duplicate": "שכפול",
+  "featureDuplicated": "היישות שנבחרה שוכפלה בהצלחה.",
+  "featuresDuplicated": "היישויות שנבחרו שוכפלו בהצלחה.",
+  "copyToNewSketchLayer": "העתק לשכבת סקיצה חדשה",
+  "delete": "מחיקה",
+  "addSketch": "הוסף ישות",
+  "textPreview": "A",
+  "point": "נקודה",
+  "line": "קו",
+  "polygon": "פוליגון",
+  "text": "טקסט",
+  "collapse": "כווץ",
+  "expand": "הרחב"
+}

@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Väljad",
+  "filterAttributes": "Otsinguväljad",
+  "selected": "valitud",
+  "integer": "Täisarv",
+  "number": "Number",
+  "string": "Tekstistring",
+  "date": "Kuupäev",
+  "dataType": "Andmete tüüp",
+  "matching": "vastendamine",
+  "selectAll": "Vali kõik",
+  "deselectAll": "Tühista kõik valikud",
+  "displayName": "Kuvatav nimi",
+  "type": "Tüüp",
+  "default": "Vaikimisi",
+  "fieldName": "Välja nimi",
+  "sort": "Sordi",
+  "filter": "Filtreeri",
+  "filterDataType": "Filtreeri andmete tüübi järgi",
+  "filterFieldName": "Filtreeri välja nime järgi",
+  "addField": "Lisa väli"
+}

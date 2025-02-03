@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Gjennomsnitt",
+    "median": "Median",
+    "sum": "Sum",
+    "discretePercentile": "Diskret persentil",
+    "minimum": "Minimum",
+    "maximum": "Maksimum",
+    "firstQuartile": "Første kvartil",
+    "thirdQuartile": "Tredje kvartil",
+    "iqr": "IQR",
+    "standardDeviation": "Standardavvik",
+    "variance": "Varians",
+    "count": "Antall",
+    "aggregation": "${ statistics } av ${ fieldName }",
+    "percent": "Prosent",
+    "noAggregation": "Ingen sammenslåing",
+    "meanValue": "Gjennomsnittsverdi"
+  },
+  "overlays": {
+    "mean": "Gjennomsnitt",
+    "median": "Median",
+    "stdDev": "Standardavvik",
+    "normal": "Normalfordeling",
+    "trendline": "Trendline"
+  },
+  "guideTooltipLabel": "Fra ${ guideStart } til ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Annet"
+  },
+  "notAvailable": "Ikke tilgjengelig",
+  "field": "Felt"
+}

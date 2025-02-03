@@ -1,0 +1,23 @@
+{
+  "cancel": "취소",
+  "reset": "재설정",
+  "resetting": "재설정 중...",
+  "save": "저장",
+  "saving": "저장 중...",
+  "itemClassificationLabel": "분류",
+  "itemClassificationCategoryLabel": "항목 분류 범주 레이블",
+  "itemClassificationEditLabel": "분류 편집",
+  "itemClassificationValidateError": "유효성을 검사하지 못해 항목 분류 값이 채워지지 않습니다. 편집한 후 새 항목을 저장하세요.",
+  "classificationValueSaved": "분류 값이 저장됨",
+  "classificationNotificationHandler": "분류 알림 처리기",
+  "openModal": "모달 열기",
+  "currentSelections": "현재 선택 항목",
+  "fieldSelectionError": "필수 필드입니다.",
+  "selectAnOption": "옵션 선택",
+  "selectOptions": "옵션 선택",
+  "singleSelectionLabel": "단일 선택 항목 드롭다운 메뉴",
+  "multipleSelectionLabel": "다중 선택 항목 드롭다운 메뉴",
+  "singleAttributeError": "콘텐츠는 ${attributeName}을(를) 지정해야 합니다. 선택 항목을 검토합니다.",
+  "multipleAttributeErrors": "콘텐츠는 ${attributeString} 및 ${lastAttributeName}을(를) 지정해야 합니다. 선택 항목을 검토합니다.",
+  "classificationSectionLabel": "분류"
+}

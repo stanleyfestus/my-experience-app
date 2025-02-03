@@ -1,0 +1,20 @@
+{
+  "backLabel": "Geri",
+  "cannotReopenTool": "Araç tekrar açılamadı. Araç parametreleri varsayılan değerlere geri döndürüldü.",
+  "cannotReopenWebTool": "Web aracı açılamadı. <calcite-link target='_blank' href='${ docLink }'>Daha fazla bilgi</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "İptal",
+    "confirmationPrompt": "Analiz parametrelerini güncellemeden devam etmek ister misiniz?",
+    "continueRun": "Devam Et",
+    "creditEstimate": "Tahmini krediler: ${cost}",
+    "creditReductionHint": "<em>Analizin kredi sayısını azaltmak için bir işlem yayılımı ayarlamak amacıyla. bir filtre eklemeyi veya analiz ortamlarını kullanmayı düşünün.</em> <calcite-link target='_blank' href='${ docLink }'>Daha fazla bilgi</calcite-link>",
+    "creditThreshold": "Kredi eşiği: ${threshold}",
+    "heading": "Kredi eşiğine ulaşıldı",
+    "learnMore": "Daha fazla bilgi",
+    "thresholdExceeded": "Bu analizin tahmini maliyeti, kredi eşiğinizden daha yüksek."
+  },
+  "failedToExecuteEstimate": "Gönderim başarısız oldu. EstimateRasterAnalysisCost yürütülemedi",
+  "missingPermissionForWebTool": "Bu araca erişim sağlanamıyor. Aracın var olduğundan ve kullanıcınızın erişim iznine sahip olduğundan emin olun.",
+  "runAnalysisLabel": "Çalıştır",
+  "webToolJSONChanged": "Bir veya daha fazla parametre güncellendi. Bazı parametreler geçmişten yeniden doldurulamayabilir."
+}

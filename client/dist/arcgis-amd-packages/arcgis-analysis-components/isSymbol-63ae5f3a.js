@@ -1,0 +1,1 @@
+define(["exports","./isObject-a5254a4d"],(function(e,t){"use strict";e.isSymbol=function(e){return"symbol"==typeof e||t.isObjectLike(e)&&"[object Symbol]"==t.baseGetTag(e)}}));

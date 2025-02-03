@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"Vytvo\u0159it nov\xfd",newExperience:"Nov\xe1 aplikace",experiences:"Aplikace",templates:"\u0160ablony",developerEdition:"Developer Edition"})}}}));

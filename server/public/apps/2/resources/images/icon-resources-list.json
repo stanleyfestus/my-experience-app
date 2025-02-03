@@ -1,0 +1,33 @@
+{
+  "1711618452005.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1711618452005.png",
+    "properties": {
+      "filename": "1711618452005.png",
+      "originalName": "Kulutus.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1711618452005.png",
+      "inlineSvg": false
+    }
+  },
+  "1712321282361.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1712321282361.png",
+    "properties": {
+      "filename": "1712321282361.png",
+      "originalName": "Tuotanto.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1712321282361.png",
+      "color": "var(--dark-800)",
+      "size": 16,
+      "inlineSvg": false,
+      "isUploaded": true
+    }
+  },
+  "1712321287940.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1712321287940.png",
+    "properties": {
+      "filename": "1712321287940.png",
+      "originalName": "Akusto.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1712321287940.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}

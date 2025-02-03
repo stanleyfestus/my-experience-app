@@ -1,0 +1,17 @@
+{
+  "cancel": "Atcelt",
+  "deletePrompt": "Vai tiešām vēlaties dzēst šo lauku no slāņa?",
+  "deleteField": "Dzēst lauku",
+  "deleteFields": "Dzēst laukus",
+  "deletingField": "Lauka dzēšana...",
+  "newFeature": "Jauns elements",
+  "fieldDeleted": "Lauks ir sekmīgi izdzēsts",
+  "fieldDeletionUnsuccessful": "Lauka dzēšana neizdevās",
+  "fieldInUse": "Šis lauks tiek izmantots šādās jomās:",
+  "expressions": "Izteiksmes",
+  "popups": "Uznirstošie logi",
+  "forms": "Veidlapas",
+  "charts": "Diagrammas",
+  "deleteWarning": "Dzēšot lauku, kas tiek izmantots slāņa rekvizītu konfigurēšanai, var mainīties darbība.",
+  "learnMore": "Uzzināt vairāk"
+}

@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Felder",
+  "filterAttributes": "Suchfelder",
+  "selected": "ausgewählt",
+  "integer": "Integer",
+  "number": "Zahl",
+  "string": "String",
+  "date": "Datum",
+  "dataType": "Datentyp",
+  "matching": "Abgleich",
+  "selectAll": "Alle auswählen",
+  "deselectAll": "Auswahl für alle aufheben",
+  "displayName": "Anzeigename",
+  "type": "Typ",
+  "default": "Standard",
+  "fieldName": "Feldname",
+  "sort": "Sortieren",
+  "filter": "Filtern",
+  "filterDataType": "Nach Datentyp filtern",
+  "filterFieldName": "Nach Feldname filtern",
+  "addField": "Feld hinzufügen"
+}

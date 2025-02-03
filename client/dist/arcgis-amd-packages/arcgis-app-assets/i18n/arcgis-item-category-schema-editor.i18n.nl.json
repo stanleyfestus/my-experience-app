@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Contentcategorieën configureren",
+  "modalGroupHeader": "Groepscategorieën configureren",
+  "helpText": "Wijzig, verwijder of herschik categorieën in uw organisatie.",
+  "helpTextGroup": "Content in deze groep bewerken, verwijderen of de categorieën hiervoor opnieuw rangschikken.",
+  "helpTextDescription": "Houd er rekening mee dat andere leden van uw organisatie deze categorieën mogelijk al aan hun items hebben toegewezen. Als u het schema bewerkt, worden deze items dienovereenkomstig bijgewerkt.",
+  "helpTextGroupDescription": "Houd er rekening mee dat andere leden van de groep deze categorieën mogelijk al aan hun items hebben toegewezen. Als u het schema bewerkt, worden deze items dienovereenkomstig bijgewerkt.",
+  "loadingText": "Bezig met laden schemasjablonen",
+  "cancel": "Annuleren",
+  "finishSetup": "Setup voltooien",
+  "hasUnsavedChanges": "U hebt categoriewijzigingen aangebracht die verloren zullen gaan als u ze niet eerst opslaat. Weet u zeker dat u deze weergave wilt sluiten en uw wijzigingen wilt annuleren?",
+  "error": {
+    "generic": {
+      "title": "Fout bij bijwerken categorieën",
+      "message": "Er is iets fout gegaan. Probeer het later opnieuw."
+    },
+    "maxDepthExceeded": {
+      "title": "Fout bij bijwerken categorieën",
+      "message": "Het is niet mogelijk categorieën dieper dan 2 niveaus te nesten."
+    },
+    "destinationHasSameName": {
+      "title": "Fout bij bijwerken categorieën",
+      "message": "Er bestaat al een categorie met dezelfde naam in de doelcategorie."
+    },
+    "emptyTitle": {
+      "title": "Fout bij bijwerken categorieën",
+      "message": "Titel categorie mag niet leeg zijn."
+    },
+    "noSchema": {
+      "title": "Kan schema niet vinden",
+      "message": "Kan itemschema niet vinden voor gebruiker."
+    },
+    "maxCharacter": {
+      "title": "Fout bij bijwerken categorieën",
+      "message": "Namen van categorieën kunnen maximaal ${maxCharacter} tekens lang zijn."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Categorie verwijderen",
+      "cta": "Categorie verwijderen",
+      "message": {
+        "single": "Er is één item aan deze categorie toegewezen. Als u de categorie verwijdert, wordt deze ook uit dit item verwijderd.",
+        "multiple": "Er zijn ${number} items aan deze categorie toegewezen. Als u de categorie verwijdert, wordt deze ook uit deze items verwijderd.",
+        "unknown": "Items die aan deze categorie zijn toegewezen: ${number} Als u de categorie verwijdert, wordt deze ook uit deze items verwijderd."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Categorie bijwerken",
+      "message": {
+        "single": "Er is één item aan deze categorie toegewezen. Als de categorie wordt bijgewerkt, wordt het item zo bijgewerkt dat het \"${newTitle}\" gebruikt.",
+        "multiple": "Er zijn ${number} items aan deze categorie toegewezen. Als de categorie wordt bijgewerkt, worden de items zo bijgewerkt dat ze \"${newTitle}\" gebruiken.",
+        "unknown": "Items die aan deze categorie zijn toegewezen: ${number} Als de categorie wordt bijgewerkt, worden de items zo bijgewerkt dat ze \"${newTitle}\" gebruiken."
+      },
+      "cta": "Categorie bijwerken"
+    }
+  },
+  "template": {
+    "title": "Categoriesjablonen",
+    "learnMore": "Meer informatie",
+    "templateList": {
+      "custom": {
+        "title": "Aangepaste categorieën",
+        "message": "Maak uw eigen categorieën om content te organiseren binnen uw organisatie.",
+        "messageGroup": "Maak uw eigen categorieën voor het organiseren van content in deze groep."
+      },
+      "arcgis": {
+        "title": "ArcGIS-categorieën",
+        "message": "ArcGIS-categorieën bevatten een selectie aan onderwerpcategorieën en subcategorieën die kunnen worden gebruikt om een groot aantal types geospatiale content te categoriseren. Deze categorieën worden gebruikt om ArcGIS Living Atlas of the World te ondersteunen."
+      },
+      "iso": {
+        "title": "ISO-categorieën",
+        "message": "ISO-categorieën bevatten onderwerpcategorieën van de International Organization for Standardization die een methode bieden voor het beschrijven en catalogiseren van geografische informatie."
+      },
+      "inspire": {
+        "title": "INSPIRE-categorieën",
+        "message": "INSPIRE-categorieën bevatten een uitgebreide set ruimtelijke gegevensthema's die worden uiteengezet in de INSPIRE-richtlijn."
+      }
+    }
+  }
+}

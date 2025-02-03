@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"Dette omr\xe5det viser miniprogrammer som er konfigurert, men som ikke er p\xe5 n\xe5v\xe6rende lerret. De kan finnes i andre enhetsmoduser.",element:"Sett inn miniprogram",pending:"P\xe5g\xe5ende",widgetHelpIconLabel:"Om dette miniprogrammet",widgetGuideStart:"Bli med p\xe5 omvisning"})}}}));

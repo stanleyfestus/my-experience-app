@@ -1,0 +1,20 @@
+{
+  "hosted": "розміщений на хості",
+  "hostedView": "розміщений на хості, вид",
+  "hostedPhotos": "розміщені на хості, фото",
+  "hostedCollection": "розміщений на хості, колекція",
+  "hostedMultidimensional": "розміщений на хості, багатовимірний",
+  "hostedCollectionMultidimensional": "розміщений на хості, колекція, багатовимірний",
+  "collectionMultidimensional": "колекція, багатовимірний",
+  "multidimensional": "багатовимірний",
+  "collection": "колекція",
+  "photoLocations": "фото",
+  "locatorView": "вид",
+  "utilityNetwork": "інженерно-комунікаційні мережі",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

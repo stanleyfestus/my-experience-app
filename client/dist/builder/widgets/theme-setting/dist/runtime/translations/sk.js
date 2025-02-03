@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Vrstva",customTheme:"Prisp\xf4sobi\u0165",resetTheme:"Obnovi\u0165",backToMainThemePanel:"Sp\xe4\u0165",customPaletteTitle:"Prisp\xf4sobi\u0165 farby palety",customFontsetTitle:"Prisp\xf4sobi\u0165 sadu p\xedsma",customAppElementsTitle:"Elementy aplik\xe1cie"})}}}));

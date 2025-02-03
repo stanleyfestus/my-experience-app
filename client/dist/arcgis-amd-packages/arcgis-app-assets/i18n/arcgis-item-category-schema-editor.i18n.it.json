@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Configurare categorie di contenuti",
+  "modalGroupHeader": "Configurare categorie di gruppo",
+  "helpText": "Modifica, cancella o riordina le categorie nella tua organizzazione.",
+  "helpTextGroup": "Modifica, elimina o riordina le categorie dei contenuti in questo gruppo.",
+  "helpTextDescription": "Ricordarsi che altri membri dell’organizzazione potrebbero aver già assegnato queste categorie ai propri elementi e la modifica dello schema aggiornerà tali elementi di conseguenza.",
+  "helpTextGroupDescription": "Ricordarsi che altri membri del gruppo potrebbero aver già assegnato queste categorie ai propri elementi e la modifica dello schema aggiornerà tali elementi di conseguenza.",
+  "loadingText": "Caricamento dei modelli di schema",
+  "cancel": "Annulla",
+  "finishSetup": "Termina installazione",
+  "hasUnsavedChanges": "Sono state apportate modifiche di categoria che andranno perse se non saranno salvate. Chiudere questa vista e perdere le modifiche?",
+  "error": {
+    "generic": {
+      "title": "Errore durante l'aggiornamento delle categorie",
+      "message": "Si è verificato un errore. Riprovare più tardi."
+    },
+    "maxDepthExceeded": {
+      "title": "Errore durante l'aggiornamento delle categorie",
+      "message": "Non è possibile annidare categorie con più di 2 livelli di profondità."
+    },
+    "destinationHasSameName": {
+      "title": "Errore nell'aggiornamento delle categorie",
+      "message": "Una categoria con lo stesso nome esiste giù nella categoria di destinazione."
+    },
+    "emptyTitle": {
+      "title": "Errore durante l'aggiornamento delle categorie",
+      "message": "Specificare il titolo della categoria."
+    },
+    "noSchema": {
+      "title": "Schema non trovato",
+      "message": "Schema elemento non trovato per l'utente."
+    },
+    "maxCharacter": {
+      "title": "Errore durante l'aggiornamento delle categorie",
+      "message": "I nomi delle categorie possono contenere massimo ${maxCharacter} caratteri."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Elimina categoria",
+      "cta": "Elimina categoria",
+      "message": {
+        "single": "Un elemento è assegnato a questa categoria. L'eliminazione della categoria la rimuoverà anche da questo elemento.",
+        "multiple": "${number} elementi sono assegnati a questa categoria. L'eliminazione della categoria la rimuoverà anche da questi elementi.",
+        "unknown": "Elementi assegnati a questa categoria: ${number}. L'eliminazione della categoria la rimuoverà anche da questi elementi."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Aggiorna categoria",
+      "message": {
+        "single": "Un elemento è assegnato a questa categoria. L'aggiornamento della categoria aggiornerà anche l'elemento per utilizzare \"${newTitle}\".",
+        "multiple": "${number} elementi sono assegnati a questa categoria. L'aggiornamento della categoria aggiornerà anche gli elementi per utilizzare \"${newTitle}\".",
+        "unknown": "Elementi assegnati a questa categoria: ${number}. L'aggiornamento della categoria aggiornerà anche gli elementi per utilizzare \"${newTitle}\"."
+      },
+      "cta": "Aggiorna categoria"
+    }
+  },
+  "template": {
+    "title": "Modelli di categoria",
+    "learnMore": "Ulteriori informazioni",
+    "templateList": {
+      "custom": {
+        "title": "Personalizza categorie",
+        "message": "Creare categorie per organizzare i contenuti dell'organizzazione.",
+        "messageGroup": "Creare le proprie categorie per organizzare contenuti all’interno di questo gruppo."
+      },
+      "arcgis": {
+        "title": "Categorie ArcGIS",
+        "message": "Le categorie ArcGIS includono una selezione di categorie e sottocategorie di argomenti utilizzabili per classificare molti tipi di contenuto geospaziale. Tali categorie sono utilizzate per supportare ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "Categorie ISO",
+        "message": "Le categorie ISO sono categorie di argomenti elaborate dall'Organizzazione Internazionale per la Normazione al fine di fornire un metodo di descrizione e catalogazione delle informazioni geografiche."
+      },
+      "inspire": {
+        "title": "Categorie INSPIRE",
+        "message": "Le categorie INSPIRE comprendono un insieme di temi relativi ai dati spaziali definiti dalla Direttiva INSPIRE."
+      }
+    }
+  }
+}

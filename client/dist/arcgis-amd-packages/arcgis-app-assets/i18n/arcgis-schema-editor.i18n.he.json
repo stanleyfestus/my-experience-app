@@ -1,0 +1,14 @@
+{
+  "expandAll": "הרחב הכול",
+  "collapseAll": "כווץ הכול",
+  "categoryItem": {
+    "expand": "הרחב",
+    "collapse": "צמצם",
+    "editCategory": "ערוך קטגוריה",
+    "deleteCategory": "מחק קטגוריה",
+    "addSubcategory": "הוסף קטגוריית משנה",
+    "addCategory": "הוסף קטגוריה",
+    "save": "שמור",
+    "cancel": "ביטול"
+  }
+}

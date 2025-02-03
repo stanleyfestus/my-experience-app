@@ -1,0 +1,22 @@
+{
+  "cancel": "Annulla",
+  "reset": "Reimposta",
+  "resetting": "Reimpostazione in corso...",
+  "save": "Salva",
+  "saving": "Salvataggio in corso...",
+  "itemClassificationCategoryLabel": "Etichetta di categoria classificazione elemento",
+  "itemClassificationEditLabel": "Modifica classificazione",
+  "itemClassificationValidateError": "Validazione non riuscita, il valore di classificazione dell'elemento non sarà inserito. Modificarne e salvarne uno nuovo.",
+  "classificationValueSaved": "Il valore di classificazione è stato salvato.",
+  "classificationNotificationHandler": "Gestore notifiche di classificazione",
+  "openModal": "Apri modale",
+  "currentSelections": "Selezioni correnti",
+  "fieldSelectionError": "Questo è un campo obbligatorio.",
+  "selectAnOption": "Seleziona un'opzione",
+  "selectOptions": "Seleziona opzione/i",
+  "singleSelectionLabel": "Menu a discesa a selezione singola",
+  "multipleSelectionLabel": "Menu a discesa a selezione multipla",
+  "singleAttributeError": "Il contenuto DEVE specificare un ${attributeName}. Esaminare le proprie selezioni.",
+  "multipleAttributeErrors": "Il contenuto DEVE specificare un ${attributeString} e ${lastAttributeName}. Esaminare le proprie selezioni.",
+  "classificationSectionLabel": "Classificazione"
+}

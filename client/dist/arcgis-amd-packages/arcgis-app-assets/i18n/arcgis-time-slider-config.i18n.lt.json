@@ -1,0 +1,45 @@
+{
+  "noTimeEnabledLayers": "Nėra sluoksnių, kuriuose atsižvelgiama į laiką",
+  "enableTimeSlider": "Taikyti laiko filtrą",
+  "startEndPoints": {
+    "title": "Pradžios ir pabaigos taškai",
+    "timeDisplay": "Laiko slankiklio režimas",
+    "currentInterval": "Rodyti duomenis esamame intervale",
+    "currentIntervalHelp": "Rodomi laikini duomenys, patenkantys į esamą laiko intervalą.",
+    "progressively": "Rodyti duomenis palaipsniui",
+    "progressivelyHelp": "Palaipsniui rodomi laiko duomenys tarp pradžios ir pabaigos laikų.",
+    "instant": "Rodyti momento duomenis",
+    "instantHelp": "Rodomi laikiniai duomenys, patenkantys į vieną laiko momentą.",
+    "startDate": "Pradžios data",
+    "startTime": "Pradžios laikas",
+    "endDate": "Pabaigos data",
+    "endTime": "Pabaigos laikas"
+  },
+  "timeInterval": {
+    "title": "Laiko intervalas",
+    "lengthPerInterval": "Vieno intervalo ilgis",
+    "lengthPerStep": "Bendras laikas padalytas vienodais intervalais",
+    "count": "Bendras skaičius",
+    "countValidation": "Įveskite skaičių, didesnį nei 0 ir mažesnį nei ${maxCount}",
+    "unit": "Erdvė",
+    "equalSteps": "Bendras laikas padalytas vienodais intervalais",
+    "timeUnits": {
+      "centuries": "Amžius",
+      "decades": "Dešimtmetis",
+      "years": "Metai",
+      "months": "Mėnuo",
+      "weeks": "Savaitė",
+      "days": "Diena",
+      "hours": "Valanda",
+      "minutes": "Minutė",
+      "seconds": "Antras",
+      "milliseconds": "Milisekundė"
+    }
+  },
+  "playback": {
+    "title": "Atkūrimas",
+    "playRate": "Leidimo sparta",
+    "slow": "Lėtai",
+    "fast": "Greitai"
+  }
+}

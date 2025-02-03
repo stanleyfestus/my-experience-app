@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Camps",
+  "filterAttributes": "Camps de cerca",
+  "selected": "seleccionat",
+  "integer": "Enter",
+  "number": "Nombre",
+  "string": "Cadena",
+  "date": "Data",
+  "dataType": "Tipus de dades",
+  "matching": "coincidència",
+  "selectAll": "Selecciona-ho tot",
+  "deselectAll": "Anul·la la selecció de tot",
+  "displayName": "Nom de visualització",
+  "type": "Tipus",
+  "default": "Per defecte",
+  "fieldName": "Nom del camp",
+  "sort": "Ordena",
+  "filter": "Filtre",
+  "filterDataType": "Filtra per tipus de dades",
+  "filterFieldName": "Filtra per nom del camp",
+  "addField": "Afegeix un camp"
+}

@@ -1,0 +1,17 @@
+{
+  "value": "Waarde",
+  "classname": "Klassenaam",
+  "color": "Kleur",
+  "raster": "Raster",
+  "tableType": "Tabeltype",
+  "manual": "Handmatig",
+  "external": "Extern",
+  "browseTable": "Tabel Bekijken",
+  "unsupportedDataType": "Niet-ondersteund type",
+  "generate": "Tabel genereren",
+  "minValue": "Minimumwaarde",
+  "maxValue": "Maximumwaarde",
+  "classBaseName": "Klasse basisnaam",
+  "colorscheme": "Kleurenschema",
+  "defaultClassName": "Label_"
+}

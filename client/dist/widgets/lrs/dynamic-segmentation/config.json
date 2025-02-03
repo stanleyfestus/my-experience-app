@@ -1,0 +1,16 @@
+{
+  "lrsLayers": [],
+  "defaultDisplayType": "Table",
+  "attributeInputType": "LineOnly",
+  "pointAttributeSets": null,
+  "lineAttributeSets": null,
+  "attributeSets": [],
+  "defaultPointAttributeSet": "",
+  "defaultLineAttributeSet": "",
+  "mapHighlightColor": "#65adff",
+  "tableHighlightColor": "#65adff",
+  "allowMerge": false,
+  "conflictPreventionEnabled": false,
+  "defaultDiagramScale": 3,
+  "showEventStatistics": false
+}

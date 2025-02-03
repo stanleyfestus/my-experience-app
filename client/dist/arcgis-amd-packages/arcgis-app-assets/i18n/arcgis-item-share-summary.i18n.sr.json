@@ -1,0 +1,13 @@
+{
+  "sharing": "Deljenje",
+  "private": "Vlasnik",
+  "shared": "Vlasnik i deljenje sa grupama",
+  "org": "Organizacija",
+  "public": "Svi (javno)",
+  "privateGroups": "Vlasnik",
+  "sharedGroups": "Vlasnik + Grupe (${num})",
+  "orgGroups": "Organizacija + Grupe (${num})",
+  "publicGroups": "Svi (javno) + Grupe (${num})",
+  "groups": "Grupe (${num})",
+  "updateSharing": "Nivo deljenja: ${level}, ažuriraj deljenje"
+}

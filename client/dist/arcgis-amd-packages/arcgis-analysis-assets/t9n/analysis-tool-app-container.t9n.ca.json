@@ -1,0 +1,20 @@
+{
+  "backLabel": "Enrere",
+  "cannotReopenTool": "No s'ha pogut tornar a obrir l'eina. Els paràmetres de l'eina s'han revertit als valors per defecte.",
+  "cannotReopenWebTool": "No es pot obrir l'eina web. <calcite-link target='_blank' href='${ docLink }'>Més informació</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Cancel·la",
+    "confirmationPrompt": "Voleu continuar sense actualitzar els paràmetres d'anàlisi?",
+    "continueRun": "Continua",
+    "creditEstimate": "Crèdits estimats: ${cost}",
+    "creditReductionHint": "<em>Per reduir el nombre de crèdits de l'anàlisi, us recomanem afegir un filtre o fer servir els entorns d'anàlisi per definir una extensió de processament.</em> <calcite-link target='_blank' href='${ docLink }'>Més informació</calcite-link>",
+    "creditThreshold": "Llindar de crèdits: ${threshold}",
+    "heading": "Llindar de crèdits assolit",
+    "learnMore": "Més informació",
+    "thresholdExceeded": "El cost estimat per a aquesta anàlisi és superior al vostre llindar de crèdits."
+  },
+  "failedToExecuteEstimate": "Error en els enviaments. No s'ha pogut executar EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "No es pot accedir a aquesta eina. Assegureu-vos que l'eina existeixi i que el vostre usuari tingui permís per accedir-hi.",
+  "runAnalysisLabel": "Execució",
+  "webToolJSONChanged": "S'han actualitzat un o diversos paràmetres. És possible que alguns paràmetres no es puguin tornar a emplenar des de l'historial."
+}

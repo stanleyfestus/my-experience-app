@@ -1,0 +1,17 @@
+{
+  "cancel": "Mégse",
+  "deletePrompt": "Biztosan törölni szeretné ezt a mezőt ebből a rétegből?",
+  "deleteField": "Mező törlése",
+  "deleteFields": "Mezők törlése",
+  "deletingField": "Mező törlése...",
+  "newFeature": "Új vektoros elem",
+  "fieldDeleted": "A mező törlése sikeresen megtörtént",
+  "fieldDeletionUnsuccessful": "A mező törlése sikertelen volt",
+  "fieldInUse": "Ezt a mezőt a következő területeken használják:",
+  "expressions": "Kifejezések",
+  "popups": "Előugró ablakok",
+  "forms": "Űrlapok",
+  "charts": "Diagramok",
+  "deleteWarning": "A rétegtulajdonságok konfigurálásához használt mező törlése a viselkedés megváltozását okozhatja.",
+  "learnMore": "További információ"
+}

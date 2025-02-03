@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "ترتيب عرض الصورة",
+  "mosaicMethod": "طريقة موزايك",
+  "mosaicOperator": "مُشغل الموزاييك",
+  "done": "تم",
+  "cancel": "إلغاء الأمر",
+  "reverserOrder": "عكس الترتيب",
+  "imageIDs": "مُعرف الصورة:",
+  "useCommaDelimiter": "استخدم الفاصلة للفصل بين المعرفات",
+  "highestPriorityValue": "قيمة الأولوية القصوى",
+  "attribute": "بيان",
+  "mosaicMethodLabel": {
+    "none": "لا شيء",
+    "attribute": "حسب البيانات الجدولية",
+    "center": "الأقرب إلى المركز",
+    "nadir": "الأقرب إلى النظير",
+    "northwest": "شمال غربي",
+    "seamline": "خطوط التماس",
+    "lock-raster": "قفل البيانات النقطية",
+    "viewpoint": "عرض النقطة"
+  },
+  "mosaicOperatorLabel": {
+    "first": "الأول",
+    "last": "أخير",
+    "min": "الحد الأدنى",
+    "max": "الحد الأقصى",
+    "mean": "المتوسط",
+    "blend": "مزج",
+    "sum": "مجموع"
+  },
+  "componentLabel": {
+    "methodSelect": "حدد طريقة موزايك",
+    "attributeFieldSelect": "تحديد حقل",
+    "operatorSelect": "حدد عامل موزايك"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "backLabel": "Späť",
+  "browseHeader": "Vyberte vrstvu",
+  "cannotReopenRasterFunction": "Rastrovú funkciu nebolo možné znovu otvoriť.",
+  "creditThresholdModal": {
+    "cancelRun": "Zrušiť",
+    "confirmationPrompt": "Chcete pokračovať bez aktualizácie parametrov analýzy?",
+    "continueRun": "Pokračovať",
+    "creditEstimate": "Odhadované kredity: ${cost}",
+    "creditReductionHint": "<em>Ak chcete redukovať počet kreditov pre analýzu, zvážte pridanie filtra alebo použite nastavenie prostredia analýzy pre nastavenie rozsahu spracovania.</em><calcite-link target='_blank' href='${ docLink }'>Viac informácií</calcite-link>",
+    "creditThreshold": "Prahová hodnota kreditov: ${threshold}",
+    "heading": "Prahová hodnota kreditov dosiahnutá",
+    "learnMore": "Zistiť viac",
+    "thresholdExceeded": "Odhadované náklady na túto analýzu sú vyššie ako vaša prahová hodnota kreditov."
+  },
+  "failedToExecuteEstimate": "Odovzdanie zlyhalo. Zlyhalo vykonanie EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Spustiť"
+}

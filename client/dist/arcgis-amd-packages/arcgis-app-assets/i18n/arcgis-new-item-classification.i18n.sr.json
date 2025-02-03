@@ -1,0 +1,23 @@
+{
+  "cancel": "Otkaži",
+  "reset": "Poništi",
+  "resetting": "Resetovanje...",
+  "save": "Sačuvaj",
+  "saving": "Čuvanje...",
+  "itemClassificationLabel": "Klasifikacija",
+  "itemClassificationCategoryLabel": "Oznaka kategorije klasifikacije predmeta",
+  "itemClassificationEditLabel": "Uredi klasifikaciju",
+  "itemClassificationValidateError": "Validacija nije uspela, vrednost klasifikacije stavke neće biti popunjena! Izmenite i sačuvajte novu.",
+  "classificationValueSaved": "Vrednost klasifikacije je sačuvana",
+  "classificationNotificationHandler": "Rukovalac obaveštenja o klasifikaciji",
+  "openModal": "Otvoreno modalno",
+  "currentSelections": "Trenutni izbori",
+  "fieldSelectionError": "Ovo je obavezno polje.",
+  "selectAnOption": "Izaberite opciju",
+  "selectOptions": "Izaberite opciju(e):",
+  "singleSelectionLabel": "Padajući meni sa pojedinačnim izborom",
+  "multipleSelectionLabel": "Padajući meni sa višestrukim izborom",
+  "singleAttributeError": "Sadržaj MORA precizirati ${attributeName}. Pregledajte svoje izbore.",
+  "multipleAttributeErrors": "Sadržaj MORA precizirati ${attributeString} i ${lastAttributeName}. Pregledajte svoje izbore.",
+  "classificationSectionLabel": "Klasifikacija"
+}

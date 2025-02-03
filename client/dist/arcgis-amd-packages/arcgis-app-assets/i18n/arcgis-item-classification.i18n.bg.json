@@ -1,0 +1,22 @@
+{
+  "cancel": "Отказ",
+  "reset": "Нулиране",
+  "resetting": "Възстановяване...",
+  "save": "Запазване",
+  "saving": "Запазва се...",
+  "itemClassificationCategoryLabel": "Етикет за категория за класификация на елемент",
+  "itemClassificationEditLabel": "Редактиране на класификацията",
+  "itemClassificationValidateError": "Валидирането е неуспешно, стойността на класификацията на елемента няма да бъде попълнена! Моля, редактирайте и запазете нов.",
+  "classificationValueSaved": "Стойността на класификацията е запазена",
+  "classificationNotificationHandler": "Манипулатор на известия за класификация",
+  "openModal": "Отваряне на модала",
+  "currentSelections": "Текущи избори",
+  "fieldSelectionError": "Полето е задължително.",
+  "selectAnOption": "Изберете опция",
+  "selectOptions": "Избиране на опция(и)",
+  "singleSelectionLabel": "Падащо меню за еднократен избор",
+  "multipleSelectionLabel": "Падащо меню за многократен избор",
+  "singleAttributeError": "Съдържанието ТРЯБВА да посочва ${attributeName}. Прегледайте избраните от теб.",
+  "multipleAttributeErrors": "Съдържанието ТРЯБВА да посочва ${attributeString} и ${lastAttributeName}. Прегледайте избраните от теб.",
+  "classificationSectionLabel": "Класификация"
+}

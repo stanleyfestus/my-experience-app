@@ -1,0 +1,17 @@
+{
+  "cancel": "Zrušiť",
+  "deletePrompt": "Ste si istí, že chcete odstrániť toto pole z vrstvy?",
+  "deleteField": "Odstrániť pole",
+  "deleteFields": "Odstrániť polia",
+  "deletingField": "Vymazávanie poľa...",
+  "newFeature": "Nový prvok",
+  "fieldDeleted": "Pole bolo úspešne odstránené",
+  "fieldDeletionUnsuccessful": "Vymazanie poľa bolo neúspešné",
+  "fieldInUse": "Toto pole sa používa v týchto oblastiach:",
+  "expressions": "Výrazy",
+  "popups": "Kontextové okná",
+  "forms": "Formuláre",
+  "charts": "Grafy",
+  "deleteWarning": "Odstránenie poľa používaného na konfiguráciu vlastností vrstvy môže spôsobiť zmenu správania.",
+  "learnMore": "Zistiť viac"
+}

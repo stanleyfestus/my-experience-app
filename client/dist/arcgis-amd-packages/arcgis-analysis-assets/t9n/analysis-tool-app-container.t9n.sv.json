@@ -1,0 +1,20 @@
+{
+  "backLabel": "Bakåt",
+  "cannotReopenTool": "Verktyget kunde inte öppnas igen. Verktygsparametrar har återställts till standardinställningarna.",
+  "cannotReopenWebTool": "Det går inte att öppna webbverktyget. <calcite-link target='_blank' href='${ docLink }'>Läs mer</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Avbryt",
+    "confirmationPrompt": "Vill du fortsätta utan att uppdatera analysparametrarna?",
+    "continueRun": "Fortsätt",
+    "creditEstimate": "Beräknade krediter: ${cost}",
+    "creditReductionHint": "<em>Överväg att lägga till ett filter eller använda analysmiljöer för att ange en bearbetningsutbredning för att minska antalet krediter för analysen.</em> <calcite-link target='_blank' href='${ docLink }'>Läs mer</calcite-link>",
+    "creditThreshold": "Kredittröskel: ${threshold}",
+    "heading": "Kredittröskel har nåtts",
+    "learnMore": "Läs mer",
+    "thresholdExceeded": "Den beräknade kostnaden för den här analysen är större än din kredittröskel."
+  },
+  "failedToExecuteEstimate": "Inlämningen misslyckades. Det gick inte att utföra EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Det går inte att få åtkomst till det här verktyget. Kontrollera att verktyget finns och att din användare har behörighet för åtkomst till det.",
+  "runAnalysisLabel": "Kör",
+  "webToolJSONChanged": "En eller flera parametrar har uppdaterats. Vissa parametrar kanske inte fylls i igen från historiken."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "introduction",
+  "type": "template",
+  "templateType": "app",
+  "label": "Introduction",
+  "description": "Introduction is a template with a modular layout designed to showcase your images and striking headlines.",
+  "thumbnail": "thumbnail.png",
+  "order": 36,
+  "tags": [
+    "Web page",
+    "Scrolling"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": false,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

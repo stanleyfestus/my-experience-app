@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"\u0417\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f",imageChooseShape:"\u0424\u043e\u0440\u043c\u0430",imageCrop:"\u041e\u0431\u0440\u0456\u0437\u043a\u0430"})}}}));

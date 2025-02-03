@@ -1,0 +1,20 @@
+{
+  "done": "Готово",
+  "cancel": "Отмена",
+  "edit": "Редактировать",
+  "newExpression": "Новое выражение",
+  "titlePlaceHolder": "Введите заголовок",
+  "existing": "Существующий",
+  "constraint": "Форма",
+  "featureZ": "Z-значение",
+  "formCalculation": "Вычисление формы",
+  "labeling": "Надписывание",
+  "popup": "Всплывающее окно",
+  "popupElement": "Элемент всплывающего окна",
+  "featureReductionPopup": "Всплывающее окно кластеризации",
+  "featureReductionPopupElement": "Элемент всплывающего окна кластеризации",
+  "visualization": "Визуализация",
+  "fieldCalculation": "Вычисление поля",
+  "aggregateField": "Поле агрегации",
+  "unknown": "Неизвестно"
+}

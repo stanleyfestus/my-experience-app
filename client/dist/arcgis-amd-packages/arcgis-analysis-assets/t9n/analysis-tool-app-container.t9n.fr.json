@@ -1,0 +1,20 @@
+{
+  "backLabel": "Retour",
+  "cannotReopenTool": "Impossible de rouvrir l’outil. Les valeurs par défaut des paramètres de l’outil ont été rétablies.",
+  "cannotReopenWebTool": "Impossible d’ouvrir l’outil Web. <calcite-link target='_blank' href='${ docLink }'>En savoir plus</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Annuler",
+    "confirmationPrompt": "Voulez-vous continuer sans mettre à jour les paramètres d’analyse ?",
+    "continueRun": "Continuer",
+    "creditEstimate": "Coût estimé en crédits : ${cost}",
+    "creditReductionHint": "<em>Afin de réduire le nombre de crédits requis pour l’analyse, pensez à ajouter un filtre ou à utiliser les environnements d’analyse pour définir une étendue de traitement.</em> <calcite-link target='_blank' href='${ docLink }'>En savoir plus</calcite-link>",
+    "creditThreshold": "Seuil de crédits : ${threshold}",
+    "heading": "Seuil de crédits atteint",
+    "learnMore": "En savoir plus",
+    "thresholdExceeded": "Le coût estimé de cette analyse est supérieur au seuil de crédits."
+  },
+  "failedToExecuteEstimate": "L’envoi a échoué. Échec de l’exécution de l’opération EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Impossible d’accéder à cet outil. Assurez-vous que l’outil existe et que l’utilisateur dispose des autorisations requises pour y accéder.",
+  "runAnalysisLabel": "Exécuter",
+  "webToolJSONChanged": "Un ou plusieurs paramètres ont été mis à jour. Certains paramètres ne sont peut-être pas renseignés à partir de l’historique."
+}

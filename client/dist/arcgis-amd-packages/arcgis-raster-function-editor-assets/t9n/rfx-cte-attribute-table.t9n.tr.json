@@ -1,0 +1,17 @@
+{
+  "value": "Değer",
+  "classname": "SınıfAdı",
+  "color": "Renkli",
+  "raster": "Raster",
+  "tableType": "Tablo Tipi",
+  "manual": "El İle",
+  "external": "Harici",
+  "browseTable": "Tabloya Gözat",
+  "unsupportedDataType": "Desteklenmeyen tür",
+  "generate": "Tablo Oluştur",
+  "minValue": "Minimum Değer",
+  "maxValue": "Maksimum Değer",
+  "classBaseName": "Sınıf Taban Adı",
+  "colorscheme": "Renk Düzeni",
+  "defaultClassName": "Etiket_"
+}

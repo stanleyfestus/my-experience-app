@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Rata-rata",
+    "median": "Median",
+    "sum": "Sum",
+    "discretePercentile": "Persentil diskrit",
+    "minimum": "Minimal",
+    "maximum": "Maksimal",
+    "firstQuartile": "Kuartil pertama",
+    "thirdQuartile": "Kuartil ketiga",
+    "iqr": "IQR",
+    "standardDeviation": "Deviasi standar",
+    "variance": "Varian",
+    "count": "Count",
+    "aggregation": "${ statistics } dari ${ fieldName }",
+    "percent": "Persen",
+    "noAggregation": "Tidak ada agregasi",
+    "meanValue": "Nilai rata-rata"
+  },
+  "overlays": {
+    "mean": "Rata-rata",
+    "median": "Median",
+    "stdDev": "Deviasi Standar",
+    "normal": "Distribusi Normal",
+    "trendline": "Garis Tren"
+  },
+  "guideTooltipLabel": "Dari ${ guideStart } hingga ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Lainnya"
+  },
+  "notAvailable": "Tidak Tersedia",
+  "field": "Kolom"
+}

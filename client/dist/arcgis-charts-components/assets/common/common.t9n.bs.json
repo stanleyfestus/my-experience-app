@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Prosjek",
+    "median": "Srednja vrijednost",
+    "sum": "Zbroj",
+    "discretePercentile": "Diskretni postotak",
+    "minimum": "Minimum",
+    "maximum": "Maksimum",
+    "firstQuartile": "Prvi kvartil",
+    "thirdQuartile": "Treći kvartil",
+    "iqr": "IQR",
+    "standardDeviation": "Standardno odstupanje",
+    "variance": "Varijanca",
+    "count": "Zbroj",
+    "aggregation": "${ statistics } od ${ fieldName }",
+    "percent": "Postotak",
+    "noAggregation": "Nema agregacije",
+    "meanValue": "Srednja vrijednost"
+  },
+  "overlays": {
+    "mean": "Prosjek",
+    "median": "Srednja vrijednost",
+    "stdDev": "Standardno odstupanje",
+    "normal": "Normalna distribucija",
+    "trendline": "Linija trenda"
+  },
+  "guideTooltipLabel": "Od ${ guideStart } do ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Ostalo"
+  },
+  "notAvailable": "Nije dostupno",
+  "field": "Polje"
+}

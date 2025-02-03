@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"Dette omr\xe5de viser widgets, der er blevet konfigureret, men som ikke er p\xe5 det aktuelle l\xe6rred. De findes m\xe5ske i andre enhedstilstande.",element:"Inds\xe6t widget",pending:"Ventende",widgetHelpIconLabel:"Om denne widget",widgetGuideStart:"Tag en rundtur"})}}}));

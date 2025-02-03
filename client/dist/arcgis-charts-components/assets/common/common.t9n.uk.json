@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Середнє",
+    "median": "Медіанне",
+    "sum": "Сума",
+    "discretePercentile": "Дискретний процентиль",
+    "minimum": "Мінімум",
+    "maximum": "Максимум",
+    "firstQuartile": "Квартиль 1",
+    "thirdQuartile": "Квартиль 3",
+    "iqr": "IQR",
+    "standardDeviation": "Середньоквадратичне відхилення",
+    "variance": "Дисперсія",
+    "count": "Лічильник",
+    "aggregation": "${ statistics } з ${ fieldName }",
+    "percent": "Відсоток",
+    "noAggregation": "Немає агрегування",
+    "meanValue": "Середнє значення"
+  },
+  "overlays": {
+    "mean": "Середнє",
+    "median": "Медіанне",
+    "stdDev": "Середньоквадратичне відхилення",
+    "normal": "Нормальний розподіл",
+    "trendline": "Лінія тренду"
+  },
+  "guideTooltipLabel": "Від ${ guideStart } до ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Інше"
+  },
+  "notAvailable": "Недоступно",
+  "field": "Поле"
+}

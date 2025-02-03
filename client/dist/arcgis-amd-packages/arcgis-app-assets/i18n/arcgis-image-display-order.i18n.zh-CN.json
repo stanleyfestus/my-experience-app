@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "图像显示顺序",
+  "mosaicMethod": "镶嵌方法",
+  "mosaicOperator": "镶嵌运算符",
+  "done": "完成",
+  "cancel": "取消",
+  "reverserOrder": "倒序",
+  "imageIDs": "图像 ID：",
+  "useCommaDelimiter": "使用逗号分隔 ID",
+  "highestPriorityValue": "最高优先级值",
+  "attribute": "属性",
+  "mosaicMethodLabel": {
+    "none": "无",
+    "attribute": "按属性",
+    "center": "最接近中心",
+    "nadir": "最接近像底点",
+    "northwest": "西北",
+    "seamline": "接缝线",
+    "lock-raster": "锁定栅格",
+    "viewpoint": "视点"
+  },
+  "mosaicOperatorLabel": {
+    "first": "第一个",
+    "last": "最后一个",
+    "min": "最小值",
+    "max": "最大值",
+    "mean": "平均值",
+    "blend": "混合",
+    "sum": "总和"
+  },
+  "componentLabel": {
+    "methodSelect": "选择镶嵌方法",
+    "attributeFieldSelect": "选择字段",
+    "operatorSelect": "选择镶嵌运算符"
+  }
+}

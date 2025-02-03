@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Konfigurēt satura kategorijas",
+  "modalGroupHeader": "Konfigurēt grupas kategorijas",
+  "helpText": "Rediģējiet, dzēsiet vai pārkārtojiet savas organizācijas kategorijas.",
+  "helpTextGroup": "Rediģējiet, dzēsiet vai pārkārtojiet kategorijas šīs grupas saturam.",
+  "helpTextDescription": "Atcerieties, ka citi jūsu organizācijas dalībnieki, iespējams, jau ir piesaistījuši šīs kategorijas savām vienībām, tāpēc, labojot shēmu, šīs vienības atbilstoši tiks atjauninātas",
+  "helpTextGroupDescription": "Atcerieties, ka citi grupas dalībnieki, iespējams, jau ir piesaistījuši šīs kategorijas savām vienībām, tāpēc, labojot shēmu, šīs vienības atbilstoši tiks atjauninātas",
+  "loadingText": "Shēmas veidņu ielāde",
+  "cancel": "Atcelt",
+  "finishSetup": "Pabeigt iestatīšanu",
+  "hasUnsavedChanges": "Esat veicis kategoriju izmaiņas, kuras tiks zaudētas, ja netiks vispirms saglabātas. Vai tiešām vēlaties aizvērt šo skatu un zaudēt izmaiņas?",
+  "error": {
+    "generic": {
+      "title": "Atjauninot kategorijas, radās kļūda",
+      "message": "Radās kāda problēma. Lūdzu, vēlāk mēģiniet vēlreiz."
+    },
+    "maxDepthExceeded": {
+      "title": "Atjauninot kategorijas, radās kļūda",
+      "message": "Kategorijas nevar ligzdot dziļāk par 2 līmeņiem."
+    },
+    "destinationHasSameName": {
+      "title": "Atjauninot kategorijas, radās kļūda",
+      "message": "Kategorija ar tādu pašu nosaukumu jau pastāv mērķa kategorijā."
+    },
+    "emptyTitle": {
+      "title": "Atjauninot kategorijas, radās kļūda",
+      "message": "Kategorijas nosaukums nedrīkst būt tukšs."
+    },
+    "noSchema": {
+      "title": "Shēma nav atrasta",
+      "message": "Lietotājam nav atrasta vienības shēma."
+    },
+    "maxCharacter": {
+      "title": "Atjauninot kategorijas, radās kļūda",
+      "message": "Kategoriju nosaukumu garums nevar pārsniegt ${maxCharacter} rakstzīmes."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Dzēst kategoriju",
+      "cta": "Dzēst kategoriju",
+      "message": {
+        "single": "Šai kategorijai ir piešķirta viena vienība. Dzēšot kategoriju, tā tiks noņemta arī no šīs vienības.",
+        "multiple": "Šai kategorijai piešķirto vienību skaits: ${number}. Dzēšot kategoriju, tā tiks noņemta arī no šīm vienībām.",
+        "unknown": "Šai kategorijai piešķirto vienību skaits: ${number}. Dzēšot kategoriju, tā tiks noņemta arī no šīm vienībām."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Atjaunināt kategoriju",
+      "message": {
+        "single": "Šai kategorijai ir piešķirta viena vienība. Atjauninot kategoriju, vienība tiks atjaunināta, lai izmantotu “${newTitle}”.",
+        "multiple": "Šai kategorijai piešķirto vienību skaits: ${number}. Atjauninot kategoriju, vienība tiks atjaunināta, lai izmantotu “${newTitle}”.",
+        "unknown": "Šai kategorijai piešķirto vienību skaits: ${number}. Atjauninot kategoriju, vienība tiks atjaunināta, lai izmantotu “${newTitle}”."
+      },
+      "cta": "Atjaunināt kategoriju"
+    }
+  },
+  "template": {
+    "title": "Kategoriju veidnes",
+    "learnMore": "Uzzināt vairāk",
+    "templateList": {
+      "custom": {
+        "title": "Pielāgotas kategorijas",
+        "message": "Izveidojiet savas kategorijas, lai kārtotu saturu savā organizācijā.",
+        "messageGroup": "Izveidojiet savas kategorijas, lai organizētu saturu šajā grupā."
+      },
+      "arcgis": {
+        "title": "ArcGIS kategorijas",
+        "message": "ArcGIS kategorijas ietver tēmu kategoriju un apakškategoriju atlasi, ko var izmantot, lai kategorizētu daudzus ģeotelpiskā satura veidus. Šīs kategorijas tiek izmantotas, lai atbalstītu ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "ISO kategorijas",
+        "message": "ISO kategorijās ietilpst Starptautiskās Standartizācijas organizācijas tēmu kategorijas, kas nodrošina ģeogrāfiskās informācijas aprakstīšanas un kataloģizēšanas metodi."
+      },
+      "inspire": {
+        "title": "INSPIRE kategorijas",
+        "message": "INSPIRE kategorijās iekļauta visaptveroša to telpisko datu motīvu kopa, kas aprakstīta INSPIRE direktīvā."
+      }
+    }
+  }
+}

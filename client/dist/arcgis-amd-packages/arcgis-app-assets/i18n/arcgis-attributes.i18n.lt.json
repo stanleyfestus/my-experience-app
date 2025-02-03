@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Laukai",
+  "filterAttributes": "Paieškos laukai",
+  "selected": "pažymėta",
+  "integer": "Sveikasis skaičius",
+  "number": "Skaičius",
+  "string": "Eilutė",
+  "date": "Data",
+  "dataType": "Duomenų tipas",
+  "matching": "sutapdinimas",
+  "selectAll": "Pasirinkti viską",
+  "deselectAll": "Panaikinti visų pasirinkimą",
+  "displayName": "Pavadinimas rodymui",
+  "type": "Tipas",
+  "default": "Numatytasis",
+  "fieldName": "Lauko pavadinimas",
+  "sort": "Rūšiuoti",
+  "filter": "Filtruoti",
+  "filterDataType": "Filtruoti pagal duomenų tipą",
+  "filterFieldName": "Filtruoti pagal lauko pavadinimą",
+  "addField": "Pridėti laukelį"
+}

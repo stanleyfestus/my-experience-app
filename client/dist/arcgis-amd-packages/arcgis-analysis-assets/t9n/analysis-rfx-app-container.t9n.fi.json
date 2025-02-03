@@ -1,0 +1,18 @@
+{
+  "backLabel": "Takaisin",
+  "browseHeader": "Valitse karttataso",
+  "cannotReopenRasterFunction": "Rasteritoimintoa ei voitu avata uudelleen.",
+  "creditThresholdModal": {
+    "cancelRun": "Peruuta",
+    "confirmationPrompt": "Haluatko jatkaa päivittämättä analyysiparametreja?",
+    "continueRun": "Jatka",
+    "creditEstimate": "Arvioidut krediitit: ${cost}",
+    "creditReductionHint": "<em>Jos haluat vähentää analyysin kuluttamien krediittien määrää, voit harkita suodattimen lisäämistä tai analyysiympäristöjen käyttämistä käsittelyn laajuuden määrittämiseen.</em> <calcite-link target='_blank' href='${ docLink }'>Lisätietoja</calcite-link>",
+    "creditThreshold": "Krediitin kynnysarvo: ${threshold}",
+    "heading": "Krediitin kynnysarvo saavutettu",
+    "learnMore": "Lisätietoja",
+    "thresholdExceeded": "Tämän analyysin arvioitu kustannus on suurempi kuin krediittisi kynnysarvo."
+  },
+  "failedToExecuteEstimate": "Lähettäminen epäonnistui. Rasterianalyysin kustannusarvion suorittaminen epäonnistui",
+  "runAnalysisLabel": "Suorita"
+}

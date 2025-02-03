@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Σειρά εμφάνισης εικόνας",
+  "mosaicMethod": "Μέθοδος μωσαϊκού",
+  "mosaicOperator": "Xειριστής μωσαϊκού",
+  "done": "Τέλος",
+  "cancel": "Ακύρωση",
+  "reverserOrder": "Αντιστροφή σειράς",
+  "imageIDs": "ID εικόνων:",
+  "useCommaDelimiter": "Χρησιμοποιήστε κόμμα για να διαχωρίσετε τα αναγνωριστικά",
+  "highestPriorityValue": "Υψηλότερη τιμή προτεραιότητας",
+  "attribute": "Γνώρισμα",
+  "mosaicMethodLabel": {
+    "none": "Καθόλου",
+    "attribute": "Βάσει γνωρίσματος",
+    "center": "Πλησιέστερα στο κέντρο",
+    "nadir": "Πλησιέστερα στο Ναδίρ",
+    "northwest": "Βορειοδυτικά",
+    "seamline": "Seamlines",
+    "lock-raster": "Κλείδωμα raster",
+    "viewpoint": "Προβολή Σημείου"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Πρώτο",
+    "last": "Τελευταίο",
+    "min": "Ελάχιστο",
+    "max": "Μέγιστο",
+    "mean": "Μέσος όρος",
+    "blend": "Μείξη",
+    "sum": "Άθροισμα"
+  },
+  "componentLabel": {
+    "methodSelect": "Επιλέξτε μέθοδο δημιουργίας μωσαϊκού",
+    "attributeFieldSelect": "Επιλέξτε ένα πεδίο",
+    "operatorSelect": "Επιλέξτε έναν χειριστή μωσαϊκού"
+  }
+}

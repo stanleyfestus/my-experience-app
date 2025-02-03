@@ -1,0 +1,22 @@
+{
+  "attributesHeading": "Champs",
+  "filterAttributes": "Rechercher des champs",
+  "selected": "sélectionnés",
+  "integer": "Entier",
+  "number": "Nombre",
+  "string": "Chaîne",
+  "date": "Date",
+  "dataType": "Type de données",
+  "matching": "appariement",
+  "selectAll": "Sélectionner tout",
+  "deselectAll": "Désélectionner tout",
+  "displayName": "Nom d’affichage",
+  "type": "Type",
+  "default": "Par défaut",
+  "fieldName": "Nom de champ",
+  "sort": "Trier",
+  "filter": "Filtrer",
+  "filterDataType": "Filtrer par type de données",
+  "filterFieldName": "Filtrer par nom de champ",
+  "addField": "Ajouter un champ"
+}

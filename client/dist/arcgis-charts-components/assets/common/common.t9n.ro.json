@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Medie",
+    "median": "Mediană",
+    "sum": "Sumă",
+    "discretePercentile": "Percentilă discretă",
+    "minimum": "Minim",
+    "maximum": "Maxim",
+    "firstQuartile": "Prima cuartilă",
+    "thirdQuartile": "A treia cuatrilă",
+    "iqr": "IQR",
+    "standardDeviation": "Deviație standard",
+    "variance": "Variație",
+    "count": "Număr",
+    "aggregation": "${ statistics } din ${ fieldName }",
+    "percent": "Procent",
+    "noAggregation": "Fără însumare",
+    "meanValue": "Valoare medie"
+  },
+  "overlays": {
+    "mean": "Medie",
+    "median": "Mediană",
+    "stdDev": "Deviaţie standard",
+    "normal": "Distribuire normală",
+    "trendline": "Linie de tendințe"
+  },
+  "guideTooltipLabel": "De la ${ guideStart } la ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Altele"
+  },
+  "notAvailable": "Indisponibil",
+  "field": "Câmp"
+}

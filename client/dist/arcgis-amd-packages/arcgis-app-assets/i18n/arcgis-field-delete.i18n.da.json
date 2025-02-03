@@ -1,0 +1,17 @@
+{
+  "cancel": "Annuller",
+  "deletePrompt": "Er du sikker på, at du vil slette dette felt fra laget?",
+  "deleteField": "Slet felt",
+  "deleteFields": "Slet felter",
+  "deletingField": "Sletter felt...",
+  "newFeature": "Nyt objekt",
+  "fieldDeleted": "Feltet er blevet slettet",
+  "fieldDeletionUnsuccessful": "Sletning af feltet mislykkedes",
+  "fieldInUse": "Dette felt bruges i følgende områder:",
+  "expressions": "Udtryk",
+  "popups": "Pop-ups",
+  "forms": "Formularer",
+  "charts": "Diagrammer",
+  "deleteWarning": "Hvis du sletter et felt, der bruges til at konfigurere egenskaber, kan det forårsage ændring i funktionsmåden.",
+  "learnMore": "Få mere at vide"
+}

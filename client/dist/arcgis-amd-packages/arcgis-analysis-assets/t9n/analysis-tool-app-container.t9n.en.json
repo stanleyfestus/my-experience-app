@@ -1,0 +1,20 @@
+{
+  "backLabel": "Back",
+  "cannotReopenTool": "Tool could not be reopened. Tool parameters have been reverted to the defaults.",
+  "cannotReopenWebTool": "Unable to open web tool. <calcite-link target='_blank' href='${ docLink }'>Learn more</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Cancel",
+    "confirmationPrompt": "Would you like to proceed without updating the analysis parameters?",
+    "continueRun": "Proceed",
+    "creditEstimate": "Estimated credits: ${cost}",
+    "creditReductionHint": "<em>To reduce the number of credits for the analysis, consider adding a filter or use the analysis environments to set a processing extent.</em> <calcite-link target='_blank' href='${ docLink }'>Learn more</calcite-link>",
+    "creditThreshold": "Credit threshold: ${threshold}",
+    "heading": "Credit threshold reached",
+    "learnMore": "Learn more",
+    "thresholdExceeded": "The estimated cost for this analysis is greater than your credit threshold."
+  },
+  "failedToExecuteEstimate": "Submission failed. Failed to execute EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "This tool cannot be accessed. Ensure that the tool exists and that your user has permission to access it.",
+  "runAnalysisLabel": "Run",
+  "webToolJSONChanged": "One or more parameters have been updated. Some parameters may not be repopulated from history."
+}

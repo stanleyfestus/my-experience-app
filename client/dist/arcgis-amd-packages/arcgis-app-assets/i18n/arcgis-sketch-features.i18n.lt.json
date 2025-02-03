@@ -1,0 +1,18 @@
+{
+  "sketches": "Eskizų elementai",
+  "actions": "Veiksmai",
+  "edit": "Redaguoti",
+  "duplicate": "Dubliuoti",
+  "featureDuplicated": "Pasirinktas elementas sėkmingai dubliuotas.",
+  "featuresDuplicated": "Pasirinkti elementai sėkmingai dubliuoti.",
+  "copyToNewSketchLayer": "Kopijuoti į naują eskizų sluoksnį",
+  "delete": "Pašalinti",
+  "addSketch": "Pridėti elementą",
+  "textPreview": "A",
+  "point": "Taškas",
+  "line": "Linija",
+  "polygon": "Plotas",
+  "text": "Tekstas",
+  "collapse": "Suskleisti",
+  "expand": "Išskleisti"
+}

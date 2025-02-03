@@ -1,0 +1,17 @@
+{
+  "cancel": "Avbryt",
+  "deletePrompt": "Vill du ta bort det här fältet från lagret?",
+  "deleteField": "Ta bort fält",
+  "deleteFields": "Ta bort fält",
+  "deletingField": "Tar bort fält...",
+  "newFeature": "Nytt geoobjekt",
+  "fieldDeleted": "Fältet har tagits bort",
+  "fieldDeletionUnsuccessful": "Borttagning av fält misslyckades",
+  "fieldInUse": "Det här fältet används i följande områden:",
+  "expressions": "Uttryck",
+  "popups": "Popupfönster",
+  "forms": "Formulär",
+  "charts": "Diagram",
+  "deleteWarning": "Om du tar bort ett fält som används för att konfigurera lager kan det leda till att beteendet ändras.",
+  "learnMore": "Läs mer"
+}

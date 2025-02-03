@@ -1,0 +1,20 @@
+{
+  "backLabel": "Tilbage",
+  "cannotReopenTool": "Værktøj kunne ikke genåbnes. Værktøjsparametre er blevet nulstillet.",
+  "cannotReopenWebTool": "Kan ikke åbne webværktøj. <calcite-link target='_blank' href='${ docLink }'>Få flere oplysninger</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Annuller",
+    "confirmationPrompt": "Vil du gerne fortsætte uden at opdatere analyseparametrene?",
+    "continueRun": "Fortsæt",
+    "creditEstimate": "Anslåede credits: ${cost}",
+    "creditReductionHint": "<em>For at reducere antallet af credits til analysen kan du overveje at tilføje et filter eller bruge analysemiljøerne til at indstille en behandlingsudstrækning.</em> <calcite-link target='_blank' href='${ docLink }'>Få mere at vide</calcite-link>",
+    "creditThreshold": "Kreditgrænse: ${threshold}",
+    "heading": "Kreditgrænse nået",
+    "learnMore": "Få mere at vide",
+    "thresholdExceeded": "De anslåede omkostninger for denne analyse er større end din kreditgrænse."
+  },
+  "failedToExecuteEstimate": "Afsendelse mislykkedes. Kunne ikke udføre EstimateRasterAnalysisCost",
+  "missingPermissionForWebTool": "Dette værktøj kan ikke tilgås. Sørg for, at værktøjet findes, og at din bruger har tilladelse til at få adgang til det.",
+  "runAnalysisLabel": "Kør",
+  "webToolJSONChanged": "En eller flere parametre er blevet opdateret. Visse parametre bliver muligvis ikke genudfyldt fra historikken."
+}

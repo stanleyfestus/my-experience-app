@@ -1,0 +1,12 @@
+/*!
+ * All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+ * See https://github.com/Esri/calcite-components/blob/master/LICENSE.md for details.
+ * v1.0.5
+ */
+
+/*!__STENCIL_STATIC_IMPORT_SWITCH__*/
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */

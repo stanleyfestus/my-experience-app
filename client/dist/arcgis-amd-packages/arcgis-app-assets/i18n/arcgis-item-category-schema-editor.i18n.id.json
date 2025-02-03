@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Konfigurasikan kategori konten",
+  "modalGroupHeader": "Konfigurasikan kategori grup",
+  "helpText": "Tambahkan, hapus, atau urutkan ulang kategori di organisasi Anda.",
+  "helpTextGroup": "Edit, hapus, atau urutkan ulang kategori untuk konten dalam grup.",
+  "helpTextDescription": "Perlu diingat bahwa anggota organisasi lainnya mungkin sudah menetapkan kategori tersebut ke item mereka, dan mengedit skema akan juga memperbarui item tersebut",
+  "helpTextGroupDescription": "Perlu diingat bahwa anggota grup lainnya mungkin sudah menetapkan kategori tersebut ke item mereka, dan mengedit skema akan juga memperbarui item tersebut",
+  "loadingText": "Memuat template skema",
+  "cancel": "Batalkan",
+  "finishSetup": "Selesaikan pengaturan",
+  "hasUnsavedChanges": "Anda sudah membuat perubahan kategori yang akan hilang jika tidak disimpan terlebih dahulu. Anda yakin ingin menutup tampilan ini dan kehilangan perubahan Anda?",
+  "error": {
+    "generic": {
+      "title": "Kesalahan saat memperbarui kategori",
+      "message": "Ada kesalahan. Coba lagi nanti."
+    },
+    "maxDepthExceeded": {
+      "title": "Kesalahan saat memperbarui kategori",
+      "message": "Anda tidak boleh menyarangkan kategori di kedalaman lebih dari level 2."
+    },
+    "destinationHasSameName": {
+      "title": "Kesalahan saat memperbarui kategori",
+      "message": "Kategori dengan nama yang sama sudah ada di kategori tujuan."
+    },
+    "emptyTitle": {
+      "title": "Kesalahan saat memperbarui kategori",
+      "message": "Judul kategori tidak boleh kosong."
+    },
+    "noSchema": {
+      "title": "Skema tidak ditemukan",
+      "message": "Skema item tidak ditemukan untuk pengguna."
+    },
+    "maxCharacter": {
+      "title": "Kesalahan saat memperbarui kategori",
+      "message": "Nama kategori boleh mencapai panjang maksimum ${maxCharacter} karakter."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Hapus kategori",
+      "cta": "Hapus kategori",
+      "message": {
+        "single": "Satu item sudah ditetapkan ke kategori ini. Menghapus kategori juga akan menghapusnya dari item ini.",
+        "multiple": "${number} item sudah ditetapkan ke kategori ini. Menghapus kategori juga akan menghapusnya dari item ini.",
+        "unknown": "Item yang ditetapkan ke kategori ini: ${number}. Menghapus kategori juga akan menghapusnya dari item ini."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Perbarui kategori",
+      "message": {
+        "single": "Satu item sudah ditetapkan ke kategori ini. Memperbarui kategori akan memperbarui item yang akan digunakan \"${newTitle}\".",
+        "multiple": "${number} item sudah ditetapkan ke kategori ini. Memperbarui kategori akan memperbarui item yang akan digunakan \"${newTitle}\".",
+        "unknown": "Item yang ditetapkan ke kategori ini: ${number}. Memperbarui kategori akan memperbarui item yang akan digunakan \"${newTitle}\"."
+      },
+      "cta": "Perbarui kategori"
+    }
+  },
+  "template": {
+    "title": "Template kategori",
+    "learnMore": "Pelajari selengkapnya",
+    "templateList": {
+      "custom": {
+        "title": "Kategori kustom",
+        "message": "Buat kategori Anda sendiri untuk mengorganisasikan konten dalam organisasi Anda.",
+        "messageGroup": "Buat kategori Anda sendiri untuk mengatur konten dalam grup ini."
+      },
+      "arcgis": {
+        "title": "Kategori ArcGIS",
+        "message": "Kategori ArcGIS mencakup pilihan kategori dan subkategori topik yang dapat digunakan untuk mengategorikan berbagai jenis konten geospasial. Kategori ini digunakan untuk mendukung ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "Kategori ISO",
+        "message": "Kategori ISO mencakup kategori topik dari Organisasi Standardisasi Internasional yang menyediakan metode untuk menguraikan dan membuat katalog informasi geografis."
+      },
+      "inspire": {
+        "title": "Kategori INSPIRE",
+        "message": "Kategori INSPIRE mencakup serangkaian lengkap tema data spasial yang diatur dalam INSPIRE Directive."
+      }
+    }
+  }
+}

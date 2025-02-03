@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Navigace zobrazen\xed",widgetPlaceholder:"P\u0159idejte sekci pro pou\u017eit\xed tohoto widgetu.",tabDefault:"Karta - v\xfdchoz\xed",tabUnderline:"Karta - podtr\u017een\xed",tabPills:"Karta - obd\xe9ln\xedk",arrow1:"\u0160ipka 1",arrow2:"\u0160ipka 2",arrow3:"\u0160ipka 3"})}}}));

@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({distance:"Mesafe",area:"Alan",atLeastOne:"En az bir ara\xe7 se\xe7ilmelidir.",toolbar:"Ara\xe7 \xe7ubu\u011fu"})}}}));

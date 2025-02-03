@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Порядок відображення зображень",
+  "mosaicMethod": "Метод мозаїки",
+  "mosaicOperator": "Оператор мозаїки",
+  "done": "Готово",
+  "cancel": "Скасувати",
+  "reverserOrder": "Змінити порядок на зворотній",
+  "imageIDs": "Ідентифікатори зображень:",
+  "useCommaDelimiter": "Використовуйте кому для розділення ідентифікаторів",
+  "highestPriorityValue": "Значення найвищого пріоритету",
+  "attribute": "Атрибут",
+  "mosaicMethodLabel": {
+    "none": "Немає",
+    "attribute": "За атрибутом",
+    "center": "Найближчий до центру",
+    "nadir": "Найближчий до надиру",
+    "northwest": "Північний захід",
+    "seamline": "Лінії зшивання",
+    "lock-raster": "Блокувати растр",
+    "viewpoint": "Точка перегляду"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Перший",
+    "last": "Останній",
+    "min": "Мінімум",
+    "max": "Максимум",
+    "mean": "Середнє",
+    "blend": "Змішане",
+    "sum": "Сума"
+  },
+  "componentLabel": {
+    "methodSelect": "Виберіть метод мозаїки",
+    "attributeFieldSelect": "Виберіть поле",
+    "operatorSelect": "Виберіть оператора мозаїки"
+  }
+}

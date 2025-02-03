@@ -1,0 +1,12 @@
+{
+  "addRaster": "Pievienot rastra mainīgo",
+  "addScalar": "Pievienot konstanti",
+  "raster": "Rastrs",
+  "scalar": "Skalārs",
+  "defaultModelName": "Rastra funkciju sagatave",
+  "defaultRasterName": "Rastrs",
+  "invalidRFTMessage": "Rastra funkciju veidne nav derīga.",
+  "deprecated": "Novecojis",
+  "deprecatedHoverText": "Šī rastra funkcija ir novecojusi un tiks noņemta nākamajā laidienā.",
+  "userStartDirection": "Atlasiet funkciju, lai sāktu veidot rastra funkcijas sagatavi."
+}

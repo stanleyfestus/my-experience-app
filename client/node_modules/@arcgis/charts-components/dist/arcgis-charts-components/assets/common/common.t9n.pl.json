@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Średnia",
+    "median": "Mediana",
+    "sum": "Suma",
+    "discretePercentile": "Percentyl dyskretny",
+    "minimum": "Minimum",
+    "maximum": "Maksimum",
+    "firstQuartile": "Pierwszy kwartyl",
+    "thirdQuartile": "Trzeci kwartyl",
+    "iqr": "Rozstęp ćwiartkowy",
+    "standardDeviation": "Odchylenie standardowe",
+    "variance": "Wariancja",
+    "count": "Liczba",
+    "aggregation": "${ statistics } z ${ fieldName }",
+    "percent": "Wartość procentowa",
+    "noAggregation": "Bez agregacji",
+    "meanValue": "Wartość średnia"
+  },
+  "overlays": {
+    "mean": "Średnia",
+    "median": "Mediana",
+    "stdDev": "Odchylenie standardowe",
+    "normal": "Rozkład normalny",
+    "trendline": "Linia trendu"
+  },
+  "guideTooltipLabel": "Od ${ guideStart } do ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Inne"
+  },
+  "notAvailable": "Niedostępne",
+  "field": "Pole"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Anuluj",
+  "deletePrompt": "Czy na pewno chcesz usunąć to pole z warstwy?",
+  "deleteField": "Usuń pole",
+  "deleteFields": "Usuń pola",
+  "deletingField": "Usuwanie pola...",
+  "newFeature": "Nowy obiekt",
+  "fieldDeleted": "Pomyślnie usunięto pole",
+  "fieldDeletionUnsuccessful": "Usunięcie pola nie powiodło się",
+  "fieldInUse": "To pole jest używane w następujących obszarach:",
+  "expressions": "Wyrażenia",
+  "popups": "Okna podręczne",
+  "forms": "Formularze",
+  "charts": "Diagramy",
+  "deleteWarning": "Usunięcie pola używanego do skonfigurowania właściwości warstwy może spowodować zmianę zachowania.",
+  "learnMore": "Dowiedz się więcej"
+}

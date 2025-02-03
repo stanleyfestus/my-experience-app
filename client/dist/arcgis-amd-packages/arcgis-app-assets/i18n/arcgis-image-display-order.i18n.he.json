@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "סדר הצגת תמונות",
+  "mosaicMethod": "שיטת מוזאיקה",
+  "mosaicOperator": "מפעיל מוזאיקה",
+  "done": "בוצע",
+  "cancel": "ביטול",
+  "reverserOrder": "הפוך את הסדר",
+  "imageIDs": "מזהי תמונה:",
+  "useCommaDelimiter": "השתמש בפסיק כדי להפריד בין מזהים",
+  "highestPriorityValue": "הערך בעל העדיפות הגבוהה ביותר",
+  "attribute": "מאפיין",
+  "mosaicMethodLabel": {
+    "none": "ללא",
+    "attribute": "לפי מאפיין",
+    "center": "הקרוב ביותר למרכז",
+    "nadir": "הקרוב ביותר ל-nadir",
+    "northwest": "צפון מערב",
+    "seamline": "קווי תפר",
+    "lock-raster": "נעל רסטר",
+    "viewpoint": "נקודת מבט"
+  },
+  "mosaicOperatorLabel": {
+    "first": "ראשון",
+    "last": "אחרון",
+    "min": "מינימום",
+    "max": "מקסימום",
+    "mean": "ממוצע",
+    "blend": "מיזוג",
+    "sum": "סכום"
+  },
+  "componentLabel": {
+    "methodSelect": "בחר שיטת מוזאיקה",
+    "attributeFieldSelect": "בחר שדה",
+    "operatorSelect": "בחר אופרטור מוזאיקה"
+  }
+}

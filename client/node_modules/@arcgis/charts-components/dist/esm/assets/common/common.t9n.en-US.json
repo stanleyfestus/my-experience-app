@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Mean",
+    "median": "Median",
+    "sum": "Sum",
+    "discretePercentile": "Discrete percentile",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "firstQuartile": "First quartile",
+    "thirdQuartile": "Third quartile",
+    "iqr": "IQR",
+    "standardDeviation": "Standard deviation",
+    "variance": "Variance",
+    "count": "Count",
+    "aggregation": "${ statistics } of ${ fieldName }",
+    "percent": "Percent",
+    "noAggregation": "No aggregation",
+    "meanValue": "Mean value"
+  },
+  "overlays": {
+    "mean": "Mean",
+    "median": "Median",
+    "stdDev": "Standard Deviation",
+    "normal": "Normal Distribution",
+    "trendline": "Trendline"
+  },
+  "guideTooltipLabel": "From ${ guideStart } to ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Other"
+  },
+  "notAvailable": "Not Available",
+  "field": "Field"
+}

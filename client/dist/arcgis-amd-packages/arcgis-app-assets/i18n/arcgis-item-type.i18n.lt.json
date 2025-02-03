@@ -1,0 +1,20 @@
+{
+  "hosted": "talpinama",
+  "hostedView": "talpinama, rodinys",
+  "hostedPhotos": "talpinama, nuotraukos",
+  "hostedCollection": "talpinama, rinkinys",
+  "hostedMultidimensional": "talpinama, multidimensinis",
+  "hostedCollectionMultidimensional": "talpinama, rinkinys, multidimensinis",
+  "collectionMultidimensional": "rinkinys, multidimensinis",
+  "multidimensional": "multidimensinis",
+  "collection": "rinkinys",
+  "photoLocations": "nuotraukos",
+  "locatorView": "rodinys",
+  "utilityNetwork": "utility network",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="Stylesheet" href="../css/analysis.css" />
+    <script type="text/javascript">
+        function init() {
+            if (window.location.hash) {
+                var parentDiv, nodes, i, helpInfo, helpId, helpEnvFilters, envContent, hideNodes, hideEnvClass, hideEnvNodes, hideModeClass, hideModeNodes;
+                helpInfo = window.location.hash.substring(1);
+                if (helpInfo.indexOf("-")) {
+                    [helpId, ...helpEnvFilters] = helpInfo.split("-");
+                    helpEnvFilters = helpEnvFilters.join("-");
+                }
+                else {
+                    helpId = helpInfo;
+                }
+                parentDiv = document.getElementById("topics");
+                nodes = parentDiv.children;
+                hideEnvClass = (helpEnvFilters.includes("OnlineOnly") ? "PortalOnly": "OnlineOnly");
+                hideModeClass = (helpEnvFilters.includes("toolPaneOnly") ? "modelBuilderOnly": "toolPaneOnly");
+                if(document.getElementsByClassName) {
+                    hideEnvNodes = document.getElementsByClassName(hideEnvClass);
+                    hideModeNodes = document.getElementsByClassName(hideModeClass);
+                }
+                else {
+                    hideNodes = document.querySelectorAll(hideEnvClass);
+                }
+                for(i=0; i < nodes.length; i++) {
+                    if(nodes[i].id !== helpId) {
+                        nodes[i].style.display ="none";
+                    }
+                }
+                for(i=0; i < hideEnvNodes.length; i++) {
+                    hideEnvNodes[i].style.display = "none";
+                }
+                for(i=0; i < hideModeNodes.length; i++) {
+                    hideModeNodes[i].style.display = "none";
+                }
+                }
+            }
+    </script>
+</head>
+<body onload="init()">
+<div id="topics">
+    <div id="toolDescription" class="smallsize">
+    <p>A Kompozitindex kisz&aacute;m&iacute;t&aacute;sa eszk&ouml;z t&ouml;bb numerikus v&aacute;ltoz&oacute;t egyes&iacute;t egyetlen index l&eacute;trehoz&aacute;sa &eacute;rdek&eacute;ben.
+    </p>
+    </div>
+    <!--Parameter divs for each param-->
+    <div id="inputLayer">
+        <div>
+            <p>Az indexben egyes&iacute;tendő v&aacute;ltoz&oacute;kat tartalmaz&oacute; t&aacute;bla vagy vektoros elemek.
+            </p>
+        </div>
+    </div>
+    <div id="inputVariables">
+        <div>
+            <p>Az index l&eacute;trehoz&aacute;s&aacute;hoz kombin&aacute;land&oacute; v&aacute;ltoz&oacute;kat tartalmaz&oacute; mezők. Az  <b>Ir&aacute;ny megford&iacute;t&aacute;sa</b> azt hat&aacute;rozza meg, hogy megforduljon-e a v&aacute;ltoz&oacute;k &eacute;rt&eacute;ke. A <b>S&uacute;ly</b> az egyes v&aacute;ltoz&oacute;knak az indexre gyakorolt relat&iacute;v befoly&aacute;sa.
+            </p>
+        </div>
+    </div>
+    <div id="indexMethod">
+        <div>
+            <p>Megadja a bemeneti v&aacute;ltoz&oacute;k sk&aacute;l&aacute;z&aacute;s&aacute;ra &eacute;s a sk&aacute;l&aacute;zott v&aacute;ltoz&oacute;k kombin&aacute;l&aacute;s&aacute;ra haszn&aacute;lt m&oacute;dszert az index l&eacute;trehoz&aacute;s&aacute;hoz.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexReverse">
+        <div>
+            <p>Megadja, hogy a kimeneti index&eacute;rt&eacute;kek ir&aacute;nya megforduljon-e. Ha be van jel&ouml;lve, a magas &eacute;rt&eacute;keket alacsony index&eacute;rt&eacute;kk&eacute;nt kezeli a rendszer, &eacute;s ford&iacute;tva.
+            </p>
+        </div>
+    </div>
+    <div id="outputIndexMinMax">
+        <div>
+            <p>A kimeneti index&eacute;rt&eacute;kek minimuma &eacute;s maximuma.
+            </p>
+        </div>
+    </div>
+    <div id="outputName">
+        <div>
+            <p>A l&eacute;trehozni &eacute;s a t&eacute;rk&eacute;phez hozz&aacute;adni k&iacute;v&aacute;nt r&eacute;teg neve.
+            </p>
+        </div>
+    </div>
+    <div id="saveResultIn">
+        <div>
+            <p>A  <b>Saj&aacute;t tartalom</b> azon mapp&aacute;j&aacute;nak neve, ahov&aacute; az eredm&eacute;ny ment&eacute;se t&ouml;rt&eacute;nik.
+            </p>
+        </div>
+    </div>
+</div>
+</html>

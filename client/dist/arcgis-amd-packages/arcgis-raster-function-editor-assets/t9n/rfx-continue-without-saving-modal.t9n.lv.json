@@ -1,0 +1,6 @@
+{
+  "header": "Vai sākt no jauna, nesaglabājot?",
+  "content": "“${rftTitle}” ir nesaglabātas izmaiņas. Ja sāksit ar jaunu veidni, šīs izmaiņas tiks zaudētas.",
+  "cancel": "Atcelt",
+  "continue": "Turpināt"
+}

@@ -1,0 +1,22 @@
+{
+  "cancel": "Avbryt",
+  "reset": "Återställ",
+  "resetting": "Återställer...",
+  "save": "Spara",
+  "saving": "Sparar...",
+  "itemClassificationCategoryLabel": "Kategorietikett för objektklassificering",
+  "itemClassificationEditLabel": "Redigera klassificering",
+  "itemClassificationValidateError": "Validering misslyckades, objektklassificeringsvärdet kommer inte att fyllas i! Redigera och spara en ny.",
+  "classificationValueSaved": "Klassificeringsvärdet har sparats",
+  "classificationNotificationHandler": "Hanterare av klassificeringsmeddelanden",
+  "openModal": "Öppna modal",
+  "currentSelections": "Aktuella urval",
+  "fieldSelectionError": "Det här är ett obligatoriskt fält.",
+  "selectAnOption": "Välj ett alternativ",
+  "selectOptions": "Välj alternativ",
+  "singleSelectionLabel": "Listmeny för ett enda val",
+  "multipleSelectionLabel": "Listmeny för flerval",
+  "singleAttributeError": "Innehållet MÅSTE ange en ${attributeName}. Granska dina val.",
+  "multipleAttributeErrors": "Innehållet MÅSTE ange en ${attributeString} och ${lastAttributeName}. Granska dina val.",
+  "classificationSectionLabel": "Klassificering"
+}

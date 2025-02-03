@@ -1,0 +1,19 @@
+{
+  "name": "lens",
+  "type": "template",
+  "templateType": "app",
+  "label": "Lens",
+  "description": "Lens is a two-page template for multi-dimensional data exploration. The home page contextualizes information through maps, charts, and filters. Bookmarks on the second page allow users to examine specific subsets of data.",
+  "thumbnail": "thumbnail.png",
+  "order": 58,
+  "templateCreateVersion": "1.13.0",
+  "tags": [
+    "Website",
+    "Multipage",
+    "Map centric"
+  ],
+  "isMultiplePage": true,
+  "isMapAware": false,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 214
+}

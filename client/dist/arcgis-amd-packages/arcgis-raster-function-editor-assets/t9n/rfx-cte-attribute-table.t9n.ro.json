@@ -1,0 +1,17 @@
+{
+  "value": "Valoare",
+  "classname": "Denumire clasă",
+  "color": "Culoare",
+  "raster": "Raster",
+  "tableType": "Tip tabel",
+  "manual": "Manual",
+  "external": "Extern",
+  "browseTable": "Navigați la tabel",
+  "unsupportedDataType": "Tip neacceptat",
+  "generate": "Generați tabel",
+  "minValue": "Valoare minimă",
+  "maxValue": "Valoare maximă",
+  "classBaseName": "Denumire de bază clasă",
+  "colorscheme": "Schemă de culori",
+  "defaultClassName": "Etichetă_"
+}

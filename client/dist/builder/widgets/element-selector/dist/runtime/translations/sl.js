@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({pendingElementsInfo:"To obmo\u010dje navaja pripomo\u010dke, ki so bili konfigurirani, vendar ne na trenutnem platnu. Morda obstajajo v drugih na\u010dinih naprave.",element:"Vstavi pripomo\u010dek",pending:"Na \u010dakanju",widgetHelpIconLabel:"O tem pripomo\u010dku",widgetGuideStart:"Pojdi na potopis"})}}}));

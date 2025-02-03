@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel",
+  "deletePrompt": "Are you sure you want to delete this field from the layer?",
+  "deleteField": "Delete field",
+  "deleteFields": "Delete fields",
+  "deletingField": "Deleting field...",
+  "newFeature": "New feature",
+  "fieldDeleted": "Field successfully deleted",
+  "fieldDeletionUnsuccessful": "Field deletion was unsuccessful",
+  "fieldInUse": "This field is being used in the following areas:",
+  "expressions": "Expressions",
+  "popups": "Pop-ups",
+  "forms": "Forms",
+  "charts": "Charts",
+  "deleteWarning": "Deleting a field used to configure layer properties may cause a change in behavior.",
+  "learnMore": "Learn more"
+}

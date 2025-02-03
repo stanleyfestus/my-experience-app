@@ -1,0 +1,18 @@
+{
+  "sketches": "피처 스케치",
+  "actions": "동작",
+  "edit": "편집",
+  "duplicate": "복제",
+  "featureDuplicated": "선택한 피처를 복제했습니다.",
+  "featuresDuplicated": "선택한 피처를 복제했습니다.",
+  "copyToNewSketchLayer": "새 스케치 레이어에 복사",
+  "delete": "삭제",
+  "addSketch": "피처 추가",
+  "textPreview": "A",
+  "point": "포인트",
+  "line": "라인",
+  "polygon": "폴리곤",
+  "text": "텍스트",
+  "collapse": "축소",
+  "expand": "확장"
+}

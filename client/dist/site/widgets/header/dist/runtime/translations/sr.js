@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"Kreiraj novo",newExperience:"Novo iskustvo",experiences:"Iskustva",templates:"\u0160abloni",developerEdition:"Programersko izdanje"})}}}));

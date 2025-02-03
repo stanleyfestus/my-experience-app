@@ -1,0 +1,23 @@
+{
+  "cancel": "Annuller",
+  "reset": "Nulstil",
+  "resetting": "Nulstiller...",
+  "save": "Gem",
+  "saving": "Gemmer...",
+  "itemClassificationLabel": "Klassifikation",
+  "itemClassificationCategoryLabel": "Kategorietiket til klassifikation af elementer",
+  "itemClassificationEditLabel": "Redigér klassifikation",
+  "itemClassificationValidateError": "Validering mislykkedes, værdien for elementklassifikation vil ikke blive udfyldt! Redigér og gem en ny.",
+  "classificationValueSaved": "Klassifikationsværdien er blevet gemt",
+  "classificationNotificationHandler": "Klassifikationsnotifikations-handler",
+  "openModal": "Open-modal",
+  "currentSelections": "Aktuelle markeringer",
+  "fieldSelectionError": "Dette felt er obligatorisk.",
+  "selectAnOption": "Vælg en indstilling",
+  "selectOptions": "Vælg indstilling(er)",
+  "singleSelectionLabel": "Vælg rullemenu med én valgmulighed",
+  "multipleSelectionLabel": "Vælg rullemenu med flere valgmuligheder",
+  "singleAttributeError": "Indhold SKAL angive ${attributeName}. Gennemgå dine valg.",
+  "multipleAttributeErrors": "Indhold skal angive ${attributeString} og ${lastAttributeName}. Gennemgå dine valg.",
+  "classificationSectionLabel": "Klassifikation"
+}

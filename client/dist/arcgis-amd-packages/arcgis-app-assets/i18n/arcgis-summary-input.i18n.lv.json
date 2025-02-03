@@ -1,0 +1,9 @@
+{
+  "summary": "Kopsavilkums",
+  "description": "Apraksts",
+  "addSummary": "Pievienot kopsavilkumu",
+  "addDescription": "Pievienot aprakstu",
+  "charactersLeft": "Atlikušais rakstzīmju skaits: ${num}",
+  "invalid": "Kopsavilkums nedrīkst saturēt nevienu no šīm rakstzīmēm: < vai >.",
+  "invalidDescription": "Aprakstā nedrīkst būt neviena no šīm rakstzīmēm: < vai >."
+}

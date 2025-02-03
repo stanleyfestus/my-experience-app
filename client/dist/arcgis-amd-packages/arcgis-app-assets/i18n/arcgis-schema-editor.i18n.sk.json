@@ -1,0 +1,14 @@
+{
+  "expandAll": "Rozbaliť všetko",
+  "collapseAll": "Zbaliť všetko",
+  "categoryItem": {
+    "expand": "Rozbaliť",
+    "collapse": "Zbaliť",
+    "editCategory": "Upraviť kategóriu",
+    "deleteCategory": "Odstrániť kategóriu",
+    "addSubcategory": "Pridajte podkategóriu",
+    "addCategory": "Pridať kategóriu",
+    "save": "Uložiť",
+    "cancel": "Zrušiť"
+  }
+}

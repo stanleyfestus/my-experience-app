@@ -1,0 +1,81 @@
+{
+  "modalHeader": "Configurar categorias de conteúdo",
+  "modalGroupHeader": "Configurar categorias de grupo",
+  "helpText": "Edite, exclua ou reordene categorias em sua organização.",
+  "helpTextGroup": "Edite, exclua ou reordene categorias de conteúdo neste grupo.",
+  "helpTextDescription": "Lembre-se de que outros membros da sua organização podem já ter atribuído essas categorias aos seus itens, e a edição do esquema atualizará esses itens adequadamente",
+  "helpTextGroupDescription": "Lembre-se de que outros membros do grupo podem já ter atribuído essas categorias aos seus itens, e a edição do esquema atualizará esses itens adequadamente",
+  "loadingText": "Carregando modelos de esquema",
+  "cancel": "Cancelar",
+  "finishSetup": "Concluir instalação",
+  "hasUnsavedChanges": "Você fez alterações de categoria que serão perdidas se você não salvar primeiro. Tem certeza que deseja fechar esta visualização e perder suas alterações?",
+  "error": {
+    "generic": {
+      "title": "Erro ao atualizar categorias",
+      "message": "Aconteceu algo errado. Tente novamente mais tarde."
+    },
+    "maxDepthExceeded": {
+      "title": "Erro ao atualizar categorias",
+      "message": "Você não pode agrupar categorias com mais de 2 níveis de profundidade."
+    },
+    "destinationHasSameName": {
+      "title": "Erro ao atualizar categorias",
+      "message": "Já existe uma categoria com o mesmo nome na categoria de destino."
+    },
+    "emptyTitle": {
+      "title": "Erro ao atualizar categorias",
+      "message": "O título da categoria não pode ficar vazio."
+    },
+    "noSchema": {
+      "title": "Esquema não encontrado",
+      "message": "Esquema de item não encontrado para o usuário."
+    },
+    "maxCharacter": {
+      "title": "Erro ao atualizar categorias",
+      "message": "Os nomes das categorias podem ter no máximo ${maxCharacter} caracteres."
+    }
+  },
+  "warning": {
+    "deleteInUseCategory": {
+      "title": "Excluir categoria",
+      "cta": "Excluir categoria",
+      "message": {
+        "single": "Um item está atribuído a esta categoria. Excluir a categoria também irá removê-la deste item.",
+        "multiple": "${number} itens estão atribuídos a esta categoria. Excluir a categoria também a removerá destes itens.",
+        "unknown": "Itens atribuídos a esta categoria: ${number}. Excluir a categoria também a removerá destes itens."
+      }
+    },
+    "changeTitleInUseCategory": {
+      "title": "Atualizar categoria",
+      "message": {
+        "single": "Um item está atribuído a esta categoria. Atualizar a categoria atualizará o item para usar \"${newTitle}\".",
+        "multiple": "${number} itens estão atribuídos a esta categoria. Atualizar a categoria atualizará os itens para usar \"${newTitle}\".",
+        "unknown": "Itens atribuídos a esta categoria: ${number}. Atualizar a categoria atualizará os itens para usar \"${newTitle}\"."
+      },
+      "cta": "Atualizar categoria"
+    }
+  },
+  "template": {
+    "title": "Modelos de categoria",
+    "learnMore": "Saiba mais",
+    "templateList": {
+      "custom": {
+        "title": "Categorias personalizadas",
+        "message": "Crie suas próprias categorias para organizar o conteúdo dentro da sua organização.",
+        "messageGroup": "Crie suas próprias categorias para organizar o conteúdo dentro deste grupo."
+      },
+      "arcgis": {
+        "title": "Categorias do ArcGIS",
+        "message": "As categorias do ArcGIS incluem uma seleção de categorias e subcategorias de tópicos que podem ser usadas para categorizar muitos tipos de conteúdo geoespacial. Estas categorias são utilizadas para suportar ArcGIS Living Atlas of the World."
+      },
+      "iso": {
+        "title": "Categorias ISO",
+        "message": "As categorias ISO incluem categorias de tópico da Organização Internacional para Padronização que fornece um método para descrever e catalogar informações geográficas."
+      },
+      "inspire": {
+        "title": "Categorias INSPIRE",
+        "message": "As categorias INSPIRE inclui um conjunto completo de temas de dados espaciais que partem do INSPIRE Directive."
+      }
+    }
+  }
+}

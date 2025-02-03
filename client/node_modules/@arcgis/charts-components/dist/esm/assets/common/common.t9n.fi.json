@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Keskiarvo",
+    "median": "Mediaani",
+    "sum": "Summa",
+    "discretePercentile": "Irrallinen prosenttipiste",
+    "minimum": "Minimi",
+    "maximum": "Maksimi",
+    "firstQuartile": "Ensimmäinen kvartiili",
+    "thirdQuartile": "Kolmas kvartiili",
+    "iqr": "IQR",
+    "standardDeviation": "Keskihajonta",
+    "variance": "Varianssi",
+    "count": "Määrä",
+    "aggregation": "${ statistics }/${ fieldName }",
+    "percent": "Prosentti",
+    "noAggregation": "Ei koostetta",
+    "meanValue": "Keskiarvo"
+  },
+  "overlays": {
+    "mean": "Keskiarvo",
+    "median": "Mediaani",
+    "stdDev": "Keskihajonta",
+    "normal": "Normaalijakauma",
+    "trendline": "Trendiviiva"
+  },
+  "guideTooltipLabel": "${ guideStart }–${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Muu"
+  },
+  "notAvailable": "Ei käytettävissä",
+  "field": "Kenttä"
+}

@@ -1,0 +1,20 @@
+{
+  "backLabel": "Tagasi",
+  "cannotReopenTool": "Tööriista ei saanud uuesti avada. Tööriista parameetrid on lähtestatud vaikeväärtustele.",
+  "cannotReopenWebTool": "Veebitööriista ei saa avada. <calcite-link target='_blank' href='${ docLink }'>Lisateave</calcite-link>",
+  "creditThresholdModal": {
+    "cancelRun": "Loobu",
+    "confirmationPrompt": "Kas soovite jätkata analüüsi parameetreid värskendamata?",
+    "continueRun": "Jätka",
+    "creditEstimate": "Prognoositud krediit: ${cost}",
+    "creditReductionHint": "<em>Analüüsiks vajalike punktide arvu vähendamiseks kaaluge filtri lisamist või töötlemise ulatuse määramiseks analüüsikeskkondade kasutamist.</em> <calcite-link target='_blank' href='${ docLink }'>Lisateave</calcite-link>",
+    "creditThreshold": "Krediidilävend: ${threshold}",
+    "heading": "Krediidilävend on täis",
+    "learnMore": "Lisainfo",
+    "thresholdExceeded": "Selle analüüsi hinnanguline kulu on teie krediidilävendist suurem."
+  },
+  "failedToExecuteEstimate": "Edastamine nurjus. Toimingu EstimateRasterAnalysisCost käitamine nurjus",
+  "missingPermissionForWebTool": "Sellele tööriistale ei pääse juurde. Veenduge, et tööriist oleks olemas ja et teie kasutajal oleks sellele juurdepääsu õigus.",
+  "runAnalysisLabel": "Käivita",
+  "webToolJSONChanged": "Üks või mitu parameetrit on uuendatud. Mõnda parameetrit ei pruugita ajaloost täita."
+}

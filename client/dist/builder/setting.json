@@ -1,0 +1,17 @@
+{
+  "devEnv": {
+    "dev": {
+      "portalUrl": "https://devext.arcgis.com",
+      "clientId": "experienceBuilder"
+    },
+    "qa": {
+      "portalUrl": "https://qaext.arcgis.com",
+      "clientId": "experienceBuilder"
+    },
+    "prod": {
+      "portalUrl": "https://kssv.maps.arcgis.com",
+      "clientId": "2WMjE6W8Q6E05oi4",
+      "isWebTier": false
+    }
+  }
+}

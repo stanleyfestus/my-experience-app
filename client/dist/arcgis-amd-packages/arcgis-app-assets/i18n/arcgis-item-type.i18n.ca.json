@@ -1,0 +1,20 @@
+{
+  "hosted": "allotjat",
+  "hostedView": "allotjat, visualització",
+  "hostedPhotos": "allotjat, fotos",
+  "hostedCollection": "allotjat, recopilació",
+  "hostedMultidimensional": "allotjat, multidimensional",
+  "hostedCollectionMultidimensional": "allotjat, recopilació, multidimensional",
+  "collectionMultidimensional": "recopilació, multidimensional",
+  "multidimensional": "multidimensional",
+  "collection": "col·lecció",
+  "photoLocations": "fotos",
+  "locatorView": "visualització",
+  "utilityNetwork": "xarxa de serveis",
+  "Integrated Mesh": "Integrated Mesh",
+  "3D Object": "3D Object",
+  "Point": "Point",
+  "Point Cloud": "Point Cloud",
+  "Building Scene Layer": "Building Scene Layer",
+  "Voxel Scene Layer": "Voxel Scene Layer"
+}

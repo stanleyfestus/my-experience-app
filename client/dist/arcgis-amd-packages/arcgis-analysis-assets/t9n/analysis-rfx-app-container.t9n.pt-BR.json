@@ -1,0 +1,18 @@
+{
+  "backLabel": "Voltar",
+  "browseHeader": "Selecionar camada",
+  "cannotReopenRasterFunction": "Não foi possível reabrir uma função raster.",
+  "creditThresholdModal": {
+    "cancelRun": "Cancelar",
+    "confirmationPrompt": "Deseja prosseguir sem atualizar os parâmetros de análise?",
+    "continueRun": "Prosseguir",
+    "creditEstimate": "Créditos estimados: ${cost}",
+    "creditReductionHint": "<em>Para reduzir o número de créditos para a análise, considere adicionar um filtro ou use os ambientes de análise para definir uma extensão de processamento.</em> <calcite-link target='_blank' href='${ docLink }'>Saiba mais</calcite-link>",
+    "creditThreshold": "Limite de crédito: ${threshold}",
+    "heading": "Limite de crédito atingido",
+    "learnMore": "Saiba mais",
+    "thresholdExceeded": "O custo estimado para esta análise é superior ao seu limite de crédito."
+  },
+  "failedToExecuteEstimate": "Falha ao enviar. Falhou ao executar EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Executar"
+}

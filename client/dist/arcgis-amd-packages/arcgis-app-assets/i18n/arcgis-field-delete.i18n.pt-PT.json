@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancelar",
+  "deletePrompt": "Tem a certeza de que pretende eliminar este campo da camada?",
+  "deleteField": "Eliminar campo",
+  "deleteFields": "Eliminar campos",
+  "deletingField": "A eliminar campo...",
+  "newFeature": "Novo elemento",
+  "fieldDeleted": "Campo eliminado com sucesso",
+  "fieldDeletionUnsuccessful": "A eliminação de campo não foi bem-sucedida",
+  "fieldInUse": "Este campo está a ser utilizado nos seguintes domínios:",
+  "expressions": "Expressões",
+  "popups": "Janelas pop-up",
+  "forms": "Formulários",
+  "charts": "Gráficos",
+  "deleteWarning": "A eliminação de um campo utilizado para configurar as propriedades da camada pode causar uma alteração no comportamento.",
+  "learnMore": "Saiba mais"
+}

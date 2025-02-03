@@ -1,0 +1,22 @@
+{
+  "cancel": "Скасувати",
+  "reset": "Скинути",
+  "resetting": "Виконується скидання...",
+  "save": "Зберегти",
+  "saving": "Виконується збереження...",
+  "itemClassificationCategoryLabel": "Мітка категорії класифікації елемента",
+  "itemClassificationEditLabel": "Редагувати класифікацію",
+  "itemClassificationValidateError": "Помилка перевірки, значення класифікації елемента не буде заповнено! Відредагуйте та збережіть новий.",
+  "classificationValueSaved": "Значення класифікації збережено",
+  "classificationNotificationHandler": "Обробник сповіщень про класифікацію",
+  "openModal": "Відкрити модальне вікно",
+  "currentSelections": "Поточний вибір",
+  "fieldSelectionError": "Це обов’язкове поле.",
+  "selectAnOption": "Оберіть опцію",
+  "selectOptions": "Вибрати опцію(-ії)",
+  "singleSelectionLabel": "Розкривне меню одинарного вибору",
+  "multipleSelectionLabel": "Розкривне меню множинного вибору",
+  "singleAttributeError": "Змістом МАЄ визначатися ${attributeName}. Перегляньте вибране.",
+  "multipleAttributeErrors": "Змістом МАЄ визначатися ${attributeString} і ${lastAttributeName}. Перегляньте вибране.",
+  "classificationSectionLabel": "Класифікація"
+}

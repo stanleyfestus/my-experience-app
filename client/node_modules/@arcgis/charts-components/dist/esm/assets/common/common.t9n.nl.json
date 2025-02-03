@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Gemiddelde",
+    "median": "Mediaan",
+    "sum": "Som",
+    "discretePercentile": "Discreet percentiel",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "firstQuartile": "Eerste kwartiel",
+    "thirdQuartile": "Derde kwartiel",
+    "iqr": "IKA (IQR)",
+    "standardDeviation": "Standaardafwijking",
+    "variance": "Variantie",
+    "count": "Aantal",
+    "aggregation": "${ statistics } van ${ fieldName }",
+    "percent": "Procent",
+    "noAggregation": "Geen aggregatie",
+    "meanValue": "Gemiddelde waarde"
+  },
+  "overlays": {
+    "mean": "Gemiddelde",
+    "median": "Mediaan",
+    "stdDev": "Standaardafwijking",
+    "normal": "Normale verdeling",
+    "trendline": "Trendlijn"
+  },
+  "guideTooltipLabel": "Van ${ guideStart } tot ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Overige"
+  },
+  "notAvailable": "Niet beschikbaar",
+  "field": "Veld"
+}

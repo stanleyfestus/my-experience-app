@@ -1,0 +1,18 @@
+{
+  "backLabel": "Tilbage",
+  "browseHeader": "Vælg lag",
+  "cannotReopenRasterFunction": "Rasterfunktion kunne ikke genåbnes.",
+  "creditThresholdModal": {
+    "cancelRun": "Annuller",
+    "confirmationPrompt": "Vil du gerne fortsætte uden at opdatere analyseparametrene?",
+    "continueRun": "Fortsæt",
+    "creditEstimate": "Anslåede credits: ${cost}",
+    "creditReductionHint": "<em>For at reducere antallet af credits til analysen kan du overveje at tilføje et filter eller bruge analysemiljøerne til at indstille en behandlingsudstrækning.</em> <calcite-link target='_blank' href='${ docLink }'>Få mere at vide</calcite-link>",
+    "creditThreshold": "Kreditgrænse: ${threshold}",
+    "heading": "Kreditgrænse nået",
+    "learnMore": "Få mere at vide",
+    "thresholdExceeded": "De anslåede omkostninger for denne analyse er større end din kreditgrænse."
+  },
+  "failedToExecuteEstimate": "Afsendelse mislykkedes. Kunne ikke udføre EstimateRasterAnalysisCost",
+  "runAnalysisLabel": "Kør"
+}

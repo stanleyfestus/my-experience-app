@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Reittiasetukset",searchSettings:"Hakuasetukset",generalSettings:"Yleiset asetukset",routeUrl:"Reitin URL-osoite",outputStops:"Pys\xe4hdykset",outputRoute:"Reitti",outputDirectionPoints:"Reittiohjeen pisteet",outputDirectionLines:"Reittiohjeen viivat"})}}}));

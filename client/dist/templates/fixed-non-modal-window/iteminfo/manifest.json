@@ -1,0 +1,10 @@
+{
+  "name": "iteminfo",
+  "type": "template",
+  "templateType": "fixed-non-modal-window",
+  "label": "Item info",
+  "thumbnail": "thumbnail.png",
+  "order": 2,
+  "thumbnailWidth": 332,
+  "thumbnailHeight": 280
+}

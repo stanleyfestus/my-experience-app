@@ -1,0 +1,17 @@
+{
+  "value": "Väärtus",
+  "classname": "ClassName",
+  "color": "Värv",
+  "raster": "Raster",
+  "tableType": "Tabeli tüüp",
+  "manual": "Käsitsi",
+  "external": "Väline",
+  "browseTable": "Sirvi tabelit",
+  "unsupportedDataType": "Toetuseta tüüp",
+  "generate": "Genereeri tabel",
+  "minValue": "Miinimumväärtus",
+  "maxValue": "Maksimumväärtus",
+  "classBaseName": "Klassi baasnimi",
+  "colorscheme": "Värviskeem",
+  "defaultClassName": "Märgis_"
+}

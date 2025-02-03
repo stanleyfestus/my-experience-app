@@ -1,0 +1,28 @@
+{
+  "created": 1738070810241,
+  "description": "",
+  "id": "2",
+  "modified": 1738310757747,
+  "owner": "stanley.festus_kssv",
+  "tags": [],
+  "thumbnail": null,
+  "title": "KSS Kapasiteettikartta 1",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "JavaScript",
+    "Ready To Use",
+    "status: Draft",
+    "version:1.16.0",
+    "Web Application",
+    "Web Experience",
+    "Web Mapping Application",
+    "Web Page",
+    "Web Site"
+  ],
+  "portalUrl": "https://kssv.maps.arcgis.com",
+  "username": "stanley.festus_kssv",
+  "name": "KSS Kapasiteettikartta 1",
+  "isLocalApp": true
+}

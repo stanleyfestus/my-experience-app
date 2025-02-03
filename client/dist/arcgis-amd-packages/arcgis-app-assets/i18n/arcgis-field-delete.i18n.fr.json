@@ -1,0 +1,17 @@
+{
+  "cancel": "Annuler",
+  "deletePrompt": "Voulez-vous vraiment supprimer ce champ de la couche ?",
+  "deleteField": "Supprimer le champ",
+  "deleteFields": "Supprimer les champs",
+  "deletingField": "Suppression du champ...",
+  "newFeature": "Nouvelle entité",
+  "fieldDeleted": "Le champ a été supprimé",
+  "fieldDeletionUnsuccessful": "La suppression du champ a échoué",
+  "fieldInUse": "Ce champ est utilisé dans les éléments suivants :",
+  "expressions": "Expressions",
+  "popups": "Fenêtres contextuelles",
+  "forms": "Formulaires",
+  "charts": "Diagrammes",
+  "deleteWarning": "La suppression d’un champ utilisé pour configurer les propriétés de la couche risque d’altérer le fonctionnement de la couche.",
+  "learnMore": "En savoir plus"
+}

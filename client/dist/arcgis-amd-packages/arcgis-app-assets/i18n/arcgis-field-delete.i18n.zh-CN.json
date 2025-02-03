@@ -1,0 +1,17 @@
+{
+  "cancel": "取消",
+  "deletePrompt": "是否确定要从图层中删除此字段?",
+  "deleteField": "删除字段",
+  "deleteFields": "删除字段",
+  "deletingField": "正在删除字段...",
+  "newFeature": "新建要素",
+  "fieldDeleted": "已成功删除字段",
+  "fieldDeletionUnsuccessful": "字段删除失败",
+  "fieldInUse": "此字段正在以下区域中使用：",
+  "expressions": "表达式",
+  "popups": "弹出窗口",
+  "forms": "表单",
+  "charts": "图表",
+  "deleteWarning": "删除配置图层属性的字段可能会影响功能。",
+  "learnMore": "了解详细信息"
+}

@@ -1,0 +1,18 @@
+{
+  "sketches": "Esboçar feições",
+  "actions": "Ações",
+  "edit": "Editar",
+  "duplicate": "Duplicar",
+  "featureDuplicated": "Feições selecionadas duplicadas com sucesso.",
+  "featuresDuplicated": "Feições selecionadas duplicadas com sucesso.",
+  "copyToNewSketchLayer": "Copiar para a nova camada Esboço",
+  "delete": "Excluir",
+  "addSketch": "Adicionar feição",
+  "textPreview": "A",
+  "point": "Ponto",
+  "line": "Linha",
+  "polygon": "Polígono",
+  "text": "Texto",
+  "collapse": "Recolher",
+  "expand": "Expandir"
+}

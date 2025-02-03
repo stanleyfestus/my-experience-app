@@ -1,0 +1,17 @@
+{
+  "cancel": "取消",
+  "deletePrompt": "是否確定要從圖層刪除此欄位?",
+  "deleteField": "刪除欄位",
+  "deleteFields": "刪除欄位",
+  "deletingField": "正在刪除欄位...",
+  "newFeature": "新增圖徽",
+  "fieldDeleted": "已成功刪除欄位",
+  "fieldDeletionUnsuccessful": "欄位刪除未成功",
+  "fieldInUse": "此欄位用於以下領域：",
+  "expressions": "表達式",
+  "popups": "快顯視窗",
+  "forms": "表單",
+  "charts": "統計圖",
+  "deleteWarning": "刪除用於配置圖層屬性的欄位可能會導致行為發生變化。",
+  "learnMore": "瞭解詳細資訊"
+}

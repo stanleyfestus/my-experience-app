@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({createNew:"\u65b0\u898f\u4f5c\u6210",newExperience:"\u65b0\u3057\u3044\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9",experiences:"\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9",templates:"\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8",developerEdition:"Developer Edition"})}}}));

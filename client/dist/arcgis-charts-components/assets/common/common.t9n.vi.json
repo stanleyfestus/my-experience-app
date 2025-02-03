@@ -1,0 +1,33 @@
+{
+  "statistics": {
+    "mean": "Trung bình",
+    "median": "Bình quân",
+    "sum": "Tổng",
+    "discretePercentile": "Phân vị rời rạc",
+    "minimum": "Tối thiểu",
+    "maximum": "Tối đa",
+    "firstQuartile": "Tứ phân vị đầu tiên",
+    "thirdQuartile": "Tứ phân vị thứ ba",
+    "iqr": "IQR",
+    "standardDeviation": "Độ lệch chuẩn",
+    "variance": "Phương sai",
+    "count": "Đếm",
+    "aggregation": "${ statistics } / ${ fieldName }",
+    "percent": "Phần trăm",
+    "noAggregation": "Không tổng hợp",
+    "meanValue": "Giá trị trung bình"
+  },
+  "overlays": {
+    "mean": "Trung bình",
+    "median": "Bình quân",
+    "stdDev": "Độ lệch Chuẩn",
+    "normal": "Phân bố thông thường",
+    "trendline": "Đường xu hướng"
+  },
+  "guideTooltipLabel": "Từ ${ guideStart } đến ${ guideEnd }",
+  "pieChart": {
+    "defaultSliceGroupingLabel": "Khác"
+  },
+  "notAvailable": "Không Khả dụng",
+  "field": "Trường"
+}

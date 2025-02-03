@@ -1,0 +1,13 @@
+{
+  "legend": "Легенда",
+  "rotateChart": "Завъртане на диаграма",
+  "filterBySelection": "Филтриране по селекция",
+  "filterByExtent": "Филтриране по обхват",
+  "selection": "Селекция",
+  "zoom": "Мащабиране",
+  "fullExtent": "Пълен обхват",
+  "clearSelection": "Изчистване на селекцията",
+  "switchSelection": "Размяна на селекцията",
+  "expand": "Разгъване",
+  "collapse": "Сгъване"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Annuleren",
+  "deletePrompt": "Weet u zeker dat u dit veld uit de laag wilt verwijderen?",
+  "deleteField": "Veld verwijderen",
+  "deleteFields": "Velden verwijderen",
+  "deletingField": "Bezig met verwijderen veld...",
+  "newFeature": "Nieuw object",
+  "fieldDeleted": "Veld is verwijderd",
+  "fieldDeletionUnsuccessful": "Kan veld niet verwijderen",
+  "fieldInUse": "Dit veld wordt gebruikt voor de volgende gebieden:",
+  "expressions": "Expressies",
+  "popups": "Pop-ups",
+  "forms": "Formulieren",
+  "charts": "Diagrammen",
+  "deleteWarning": "Als u een veld verwijdert dat wordt gebruikt om laageigenschappen te configureren, kunt u een gedragswijziging veroorzaken.",
+  "learnMore": "Meer informatie"
+}

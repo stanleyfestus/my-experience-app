@@ -1,0 +1,27 @@
+{
+  "created": 1738145668093,
+  "description": "",
+  "id": "6",
+  "modified": 1738316405533,
+  "owner": "stanley.festus_kssv",
+  "tags": [],
+  "thumbnail": null,
+  "title": "spatineo",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Published",
+    "version:1.16.0",
+    "publishVersion:1.16.0"
+  ],
+  "portalUrl": "https://kssv.maps.arcgis.com",
+  "username": "stanley.festus_kssv",
+  "name": "spatineo",
+  "isLocalApp": true,
+  "url": null,
+  "success": true,
+  "clearEmptyFields": true
+}

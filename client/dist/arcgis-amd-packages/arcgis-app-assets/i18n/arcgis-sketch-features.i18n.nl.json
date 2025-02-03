@@ -1,0 +1,18 @@
+{
+  "sketches": "Objecten schetsen",
+  "actions": "Acties",
+  "edit": "Bewerken",
+  "duplicate": "Dupliceren",
+  "featureDuplicated": "Het geselecteerde object is gekopieerd.",
+  "featuresDuplicated": "De geselecteerde objecten zijn gekopieerd.",
+  "copyToNewSketchLayer": "Kopiëren naar nieuwe schetslaag",
+  "delete": "Verwijderen",
+  "addSketch": "Object toevoegen",
+  "textPreview": "A",
+  "point": "Punt",
+  "line": "Lijn",
+  "polygon": "Vlak",
+  "text": "Tekst",
+  "collapse": "Inklappen",
+  "expand": "Uitklappen"
+}

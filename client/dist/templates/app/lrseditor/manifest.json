@@ -1,0 +1,19 @@
+{
+  "name": "lrseditor",
+  "type": "template",
+  "templateType": "app",
+  "label": "LRS Editor",
+  "description": "LRS Editor is a template designed to edit LRS data, featuring Add Point Event, Add Line Event, Split Event, Merge Events and other widgets.  Works with ArcGIS Roads and Highways and ArcGIS Pipeline Referencing data.",
+  "thumbnail": "thumbnail.png",
+  "order": 25,
+  "templateCreateVersion": "1.14.0",
+  "notSupportAGOL": true,
+  "tags": [
+    "Map centric",
+    "Fullscreen"
+  ],
+  "isMultiplePage": false,
+  "isMapAware": true,
+  "thumbnailWidth": 320,
+  "thumbnailHeight": 215
+}

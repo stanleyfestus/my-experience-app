@@ -1,0 +1,18 @@
+{
+  "sketches": "Phác họa đối tượng",
+  "actions": "Các hành động",
+  "edit": "Chỉnh sửa",
+  "duplicate": "Nhân bản",
+  "featureDuplicated": "Sao chép đối tượng được chọn thành công.",
+  "featuresDuplicated": "Sao chép đối tượng được chọn thành công.",
+  "copyToNewSketchLayer": "Sao chép sang lớp Phác họa mới",
+  "delete": "Xóa",
+  "addSketch": "Thêm đối tượng",
+  "textPreview": "A",
+  "point": "Điểm",
+  "line": "Đường",
+  "polygon": "Vùng",
+  "text": "Văn bản",
+  "collapse": "Thu gọn",
+  "expand": "Mở rộng"
+}

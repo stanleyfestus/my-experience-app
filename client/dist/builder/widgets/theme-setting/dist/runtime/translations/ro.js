@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({chooseTheme:"Tem\u0103",customTheme:"Personalizare",resetTheme:"Resetare",backToMainThemePanel:"\xcenapoi",customPaletteTitle:"Personaliza\u021bi culorile de palet\u0103",customFontsetTitle:"Personaliza\u021bi setul de fonturi",customAppElementsTitle:"Elemente de aplica\u021bie"})}}}));

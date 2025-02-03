@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "عوامل تصفية",
+    "pageRange": "${start}-${end}، الإجمالي: ${total}",
+    "pageRangeAria": "${start}ـ${end}، إجمالي الأعضاء: ${total}",
+    "selectedMembers": "الأعضاء المُحددون",
+    "noSelectedMembers": "لم يتم تحديد أي أعضاء حاليًا",
+    "noUsersFound": "لم يتم العثور على أي مستخدمين يلبون المعايير الخاصة بك. جرّب مسح بعض عوامل التصفية أو تغيير بحثك لإظهار مزيد من المستخدمين.",
+    "enterTermExternal": "أدخل مصطلح بحث للعثور على المستخدمين في جميع أنحاء ArcGIS Online",
+    "noUsers": "لا يوجد مستخدمين متاحين",
+    "coordinator": "مُنسق التعاون"
+  },
+  "search": {
+    "searchMembers": "البحث عن أعضاء"
+  },
+  "filterUserTypes": {
+    "title": "نوع المستخدم",
+    "label": "نوع المستخدم: ${name}",
+    "loading": "جارِ تحميل أنواع المستخدمين..."
+  },
+  "filterRoles": {
+    "title": "الدور",
+    "label": "الدور: ${name}",
+    "loading": "جارٍ تحميل الأدوار...",
+    "searchRoles": "البحث عن الأدوار"
+  },
+  "filterOrgGroups": {
+    "title": "مجموعات المؤسسة",
+    "label": "المجموعة: ${name}",
+    "loading": "جارِ تحميل مجموعات المؤسسة...",
+    "searchGroups": "البحث في المجموعات"
+  },
+  "filterMyGroups": {
+    "title": "المجموعات",
+    "label": "المجموعة: ${name}",
+    "loading": "جار تحميل مجموعاتي...",
+    "searchMyGroups": "البحث عن مجموعاتي"
+  },
+  "filterCategories": {
+    "title": "الفئات",
+    "label": "الفئة: ${name}",
+    "loading": "جارٍ تحميل الفئات...",
+    "noCategoriesTitle": "لا توجد فئات حتى الآن",
+    "noCategories": "تتيح الفئات للأعضاء تنظيم العناصر بشكل متناسق، وتوفر وسيلة بسيطة لاستعراض المحتوى في المؤسسة.",
+    "setupCategories": "إعداد فئات الأعضاء",
+    "configureCategories": "تكوين الفئات",
+    "noCategoriesAssigned": "لم يتم تعيين فئات"
+  },
+  "filterPartnerCollabs": {
+    "title": "أنشطة التعاون المشترك",
+    "label": "أنشطة التعاون المشترك: ${name}",
+    "loading": "جارٍ تحميل أنشطة التعاون المشترك...",
+    "coordinatorsOnly": "مُنسقو التعاون فقط",
+    "coordinatorsDescription": "منسقو التعاون هم ممثلون من أنشطة التعاون المشترك الذين يمكن إضافتهم إلى مجموعة دون الحاجة إلى تأكيد.",
+    "coordinatorsInfoLabel": "مزيد من المعلومات عن مُنسقي التعاون"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "البحث عن كل أعضاء مؤسسة ArcGIS Online",
+    "searchPartners": "تضمين هذا وأعضاء المؤسسات الشريكة"
+  },
+  "table": {
+    "caption": "نتائج العنصر وعناوين الأعمدة ذات الأزرار قابلة للفرز.",
+    "selectAll": "تحديد الكل",
+    "selection": "تحديد",
+    "headers": {
+      "name": "الاسم",
+      "membertype": "دور المجموعة",
+      "affiliation": "التبعية",
+      "joined": "منضم",
+      "credits": "الاعتمادات المتبقية",
+      "lastlogin": "أخر تسجيل دخول",
+      "usertype": "نوع المستخدم",
+      "role": "الدور"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "مزيد من الخيارات",
+    "groupManager": "مدير المجموعة",
+    "owner": "المالك",
+    "member": "عضو",
+    "myOrg": "المنظمة",
+    "other": "أخرى",
+    "coordinator": "مُنسق التعاون",
+    "noLimit": "لا يوجد حد",
+    "creditsNumber": "${remain} من ${total}",
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "never": "أبدًا"
+  },
+  "myOrg": {
+    "myOrgView": "عرض مؤسستي"
+  },
+  "filterGroupRole": {
+    "title": "دور المجموعة",
+    "label": "دور المجموعة: ${role}",
+    "admins": "المالك ومدراء المجموعة",
+    "member": "عضو"
+  },
+  "filterAffiliation": {
+    "title": "التبعية",
+    "label": "التبعية: ${name}",
+    "myOrg": "المنظمة",
+    "other": "أخرى"
+  },
+  "filterCreditsRemain": {
+    "title": "الاعتمادات المتبقية",
+    "noLimit": "لا يوجد حد",
+    "lessThan": "أقل من",
+    "credits": "الأرصدة",
+    "labelNoLimit": "الاعتمادات: لا يوجد حد",
+    "labelLess": "الاعتمادات: أقل من ${value}",
+    "invalidValue": "القيمة التي تم إدخالها غير صالحة."
+  },
+  "filterEmailVerification": {
+    "title": "حالة التحقق من البريد الإلكتروني",
+    "unverified": "عناوين البريد الإلكتروني التي لم يتم التحقق منها",
+    "verified": "عناوين البريد الإلكتروني التي تم التحقق منها",
+    "label": "حالة التحقق من البريد الإلكتروني: ${status}"
+  },
+  "filterLoginType": {
+    "title": "نوع تسجيل الدخول",
+    "label": "نوع تسجيل الدخول: ${type}",
+    "social": "اجتماعي"
+  },
+  "filterApp": {
+    "title": "التطبيق",
+    "label": "التطبيق: ${app}"
+  },
+  "filterMFA": {
+    "title": "مصادقة متعددة العوامل",
+    "enabled": "تم التمكين",
+    "disabled": "معطل",
+    "label": "المصادقة متعددة العوامل: ${status}"
+  },
+  "roles": {
+    "user": "مستخدم",
+    "publisher": "الناشر",
+    "admin": "المسؤول",
+    "viewer": "العارض",
+    "editor": "محرر البيانات",
+    "facilitator": "المُيسّر"
+  }
+}

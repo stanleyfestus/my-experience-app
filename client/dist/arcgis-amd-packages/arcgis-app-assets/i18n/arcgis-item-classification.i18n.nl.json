@@ -1,0 +1,22 @@
+{
+  "cancel": "Annuleren",
+  "reset": "Opnieuw instellen",
+  "resetting": "Bezig met opnieuw instellen...",
+  "save": "Opslaan",
+  "saving": "Bezig met opslaan...",
+  "itemClassificationCategoryLabel": "Label categorie itemclassificatie",
+  "itemClassificationEditLabel": "Classificatie bewerken",
+  "itemClassificationValidateError": "Validatie is mislukt, de itemclassificatiewaarde wordt niet ingevuld! Bewerk en sla een nieuwe op.",
+  "classificationValueSaved": "De classificatiewaarde is opgeslagen",
+  "classificationNotificationHandler": "Handler classificatiemelding",
+  "openModal": "Modaal openen",
+  "currentSelections": "Huidige selecties",
+  "fieldSelectionError": "Dit is een vereist veld.",
+  "selectAnOption": "Selecteer een optie",
+  "selectOptions": "Selecteer optie(s)",
+  "singleSelectionLabel": "Vervolgkeuzelijst voor selectie van één optie",
+  "multipleSelectionLabel": "Vervolgkeuzelijst voor selectie van meerdere opties",
+  "singleAttributeError": "Content MOET een ${attributeName} opgeven. Neem uw selecties door.",
+  "multipleAttributeErrors": "Content MOET een ${attributeString} en ${lastAttributeName} opgeven. Neem uw selecties door.",
+  "classificationSectionLabel": "Classificatie"
+}

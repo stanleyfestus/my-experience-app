@@ -1,0 +1,13 @@
+{
+  "addDataStore": "Data Store hinzufügen",
+  "addFile": "Datei hinzufügen",
+  "itemNotFound": "Das Element ist nicht vorhanden, oder es kann nicht darauf zugegriffen werden.",
+  "itemPermissionDenied": "Sie haben keine Zugriffsberechtigung für dieses Element.",
+  "queryModelArgsErrMsg": "Fehler beim Abfragen der Modellargumente.",
+  "queryModelArgsMsg": "Modellargumente werden abgefragt...",
+  "removeItem": "Element entfernen",
+  "replaceItem": "Element ersetzen",
+  "requiredInputMessage": "Dieser Parameter ist erforderlich.",
+  "selectItem": "Element auswählen",
+  "selectModel": "Modell auswählen"
+}

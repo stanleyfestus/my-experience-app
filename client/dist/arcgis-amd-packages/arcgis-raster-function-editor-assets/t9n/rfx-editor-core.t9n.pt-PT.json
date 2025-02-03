@@ -1,0 +1,12 @@
+{
+  "addRaster": "Adicionar variável raster",
+  "addScalar": "Adicionar constante",
+  "raster": "Raster",
+  "scalar": "Escalar",
+  "defaultModelName": "Modelo de Função Raster",
+  "defaultRasterName": "Raster",
+  "invalidRFTMessage": "O template de função raster não é válido.",
+  "deprecated": "Obsoleto",
+  "deprecatedHoverText": "Esta função raster está obsoleta e será removida numa versão futura.",
+  "userStartDirection": "Selecione uma função para começar a construir um modelo de função raster."
+}

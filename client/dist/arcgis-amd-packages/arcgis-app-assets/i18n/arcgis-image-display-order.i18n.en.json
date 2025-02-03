@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Image display order",
+  "mosaicMethod": "Mosaic method",
+  "mosaicOperator": "Mosaic operator",
+  "done": "Done",
+  "cancel": "Cancel",
+  "reverserOrder": "Reverse the order",
+  "imageIDs": "Image IDs:",
+  "useCommaDelimiter": "Use comma to separate IDs",
+  "highestPriorityValue": "Highest priority value",
+  "attribute": "Attribute",
+  "mosaicMethodLabel": {
+    "none": "None",
+    "attribute": "By attribute",
+    "center": "Closest to center",
+    "nadir": "Closest to nadir",
+    "northwest": "North west",
+    "seamline": "Seamlines",
+    "lock-raster": "Lock raster",
+    "viewpoint": "View point"
+  },
+  "mosaicOperatorLabel": {
+    "first": "First",
+    "last": "Last",
+    "min": "Minimum",
+    "max": "Maximum",
+    "mean": "Average",
+    "blend": "Blend",
+    "sum": "Sum"
+  },
+  "componentLabel": {
+    "methodSelect": "Select a mosaic method",
+    "attributeFieldSelect": "Select a field",
+    "operatorSelect": "Select a mosaic operator"
+  }
+}

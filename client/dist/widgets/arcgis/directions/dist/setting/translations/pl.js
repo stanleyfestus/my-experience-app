@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({routeSettings:"Ustawienia trasy",searchSettings:"Ustawienia wyszukiwania",generalSettings:"Ustawienia og\xf3lne",routeUrl:"Adres URL trasy",outputStops:"Przystanki",outputRoute:"Trasa",outputDirectionPoints:"Punkty kierunku",outputDirectionLines:"Linie kierunku"})}}}));

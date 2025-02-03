@@ -1,0 +1,14 @@
+{
+  "expandAll": "Expandir todo",
+  "collapseAll": "Contraer todo",
+  "categoryItem": {
+    "expand": "Expandir",
+    "collapse": "Contraer",
+    "editCategory": "Editar categoría",
+    "deleteCategory": "Eliminar categoría",
+    "addSubcategory": "Agregar subcategoría",
+    "addCategory": "Agregar categoría",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  }
+}

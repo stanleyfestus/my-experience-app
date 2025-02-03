@@ -1,0 +1,36 @@
+{
+  "imageDisplayOrder": "Kuvien näyttöjärjestys",
+  "mosaicMethod": "Mosaiikkimenetelmä",
+  "mosaicOperator": "Mosaiikkioperaattori",
+  "done": "Valmis",
+  "cancel": "Peruuta",
+  "reverserOrder": "Muuta järjestys käänteiseksi",
+  "imageIDs": "Kuvatunnukset:",
+  "useCommaDelimiter": "Käytä pilkkua tunnusten erotinmerkkinä",
+  "highestPriorityValue": "Korkean prioriteetin arvo",
+  "attribute": "Ominaisuustieto",
+  "mosaicMethodLabel": {
+    "none": "Ei mitään",
+    "attribute": "Ominaisuustiedon perusteella",
+    "center": "Lähimpänä keskustaa",
+    "nadir": "Lähimpänä nadiiria",
+    "northwest": "Luoteinen",
+    "seamline": "Saumaviivat",
+    "lock-raster": "Lukitse rasteri",
+    "viewpoint": "Näytä piste"
+  },
+  "mosaicOperatorLabel": {
+    "first": "Ensimmäinen",
+    "last": "Viimeinen",
+    "min": "Minimi",
+    "max": "Maksimi",
+    "mean": "Keskiarvo",
+    "blend": "Sekoita",
+    "sum": "Summa"
+  },
+  "componentLabel": {
+    "methodSelect": "Valitse mosaiikkimenetelmä",
+    "attributeFieldSelect": "Valitse kenttä",
+    "operatorSelect": "Valitse mosaiikkioperaattori"
+  }
+}

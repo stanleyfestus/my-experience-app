@@ -1,0 +1,18 @@
+{
+  "sketches": "Disegnare schizzi di feature",
+  "actions": "Azioni",
+  "edit": "Modifica",
+  "duplicate": "Duplica",
+  "featureDuplicated": "Feature selezionata duplicata correttamente.",
+  "featuresDuplicated": "Feature selezionate duplicate correttamente.",
+  "copyToNewSketchLayer": "Copia in un nuovo layer schizzo",
+  "delete": "Elimina",
+  "addSketch": "Aggiungere feature",
+  "textPreview": "A",
+  "point": "Punto",
+  "line": "Linea",
+  "polygon": "Poligono",
+  "text": "Testo",
+  "collapse": "Comprimi",
+  "expand": "Espandi"
+}

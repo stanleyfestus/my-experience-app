@@ -1,0 +1,143 @@
+{
+  "memberBrowser": {
+    "filters": "篩選器",
+    "pageRange": "${start}-${end}，總計: ${total}",
+    "pageRangeAria": "${start}-${end}，成員總計: ${total}",
+    "selectedMembers": "所選成員",
+    "noSelectedMembers": "目前未選擇成員",
+    "noUsersFound": "找不到與您的條件相符的使用者。 嘗試清除一些篩選器或變更搜尋以顯示更多使用者。",
+    "enterTermExternal": "輸入搜尋詞彙，以跨所有 ArcGIS Online 尋找使用者",
+    "noUsers": "無可用使用者",
+    "coordinator": "協同作業協調員"
+  },
+  "search": {
+    "searchMembers": "搜尋成員"
+  },
+  "filterUserTypes": {
+    "title": "使用者類型",
+    "label": "使用者類型: ${name}",
+    "loading": "正在載入使用者類型..."
+  },
+  "filterRoles": {
+    "title": "角色",
+    "label": "角色: ${name}",
+    "loading": "正在載入角色...",
+    "searchRoles": "搜尋角色"
+  },
+  "filterOrgGroups": {
+    "title": "組織的群組",
+    "label": "群組: ${name}",
+    "loading": "正在載入組織的群組...",
+    "searchGroups": "搜尋群組"
+  },
+  "filterMyGroups": {
+    "title": "我的群組",
+    "label": "群組: ${name}",
+    "loading": "正在載入我的群組...",
+    "searchMyGroups": "搜尋我的群組"
+  },
+  "filterCategories": {
+    "title": "類別",
+    "label": "類別: ${name}",
+    "loading": "正在載入類別...",
+    "noCategoriesTitle": "尚無類別",
+    "noCategories": "類別可讓成員以一致的方式組織項目，並提供簡單的方法來瀏覽組織中的內容。",
+    "setupCategories": "設定成員類別",
+    "configureCategories": "配置類別",
+    "noCategoriesAssigned": "未指派類別"
+  },
+  "filterPartnerCollabs": {
+    "title": "夥伴式協同作業",
+    "label": "夥伴式協同作業: ${name}",
+    "loading": "正在載入夥伴式協同作業...",
+    "coordinatorsOnly": "僅限協同作業協調員",
+    "coordinatorsDescription": "協同作業協調員是來自夥伴式協同作業的代表，無需確認即可新增至群組。",
+    "coordinatorsInfoLabel": "協同作業協調員的詳細資訊"
+  },
+  "filterSearchSwitch": {
+    "searchAll": "搜索所有 ArcGIS Online 組織成員",
+    "searchPartners": "包含此和合作組織的成員"
+  },
+  "table": {
+    "caption": "成員結果，包含按鈕的欄標題是可排序的。",
+    "selectAll": "全選",
+    "selection": "選項",
+    "headers": {
+      "name": "名稱",
+      "membertype": "群組角色",
+      "affiliation": "從屬關係",
+      "joined": "已聯結",
+      "credits": "剩餘點數",
+      "lastlogin": "上次登入時間",
+      "usertype": "使用者類型",
+      "role": "角色"
+    }
+  },
+  "tableRow": {
+    "moreOptions": "更多選項",
+    "groupManager": "群組管理員",
+    "owner": "擁有者",
+    "member": "成員",
+    "myOrg": "我的組織",
+    "other": "其他",
+    "coordinator": "協同作業協調員",
+    "noLimit": "無限制",
+    "creditsNumber": "${remain}/${total}",
+    "today": "今天",
+    "yesterday": "昨天",
+    "never": "從不"
+  },
+  "myOrg": {
+    "myOrgView": "我的組織視圖"
+  },
+  "filterGroupRole": {
+    "title": "群組角色",
+    "label": "群組角色: ${role}",
+    "admins": "擁有者和群組管理員",
+    "member": "成員"
+  },
+  "filterAffiliation": {
+    "title": "從屬關係",
+    "label": "從屬關係: ${name}",
+    "myOrg": "我的組織",
+    "other": "其他"
+  },
+  "filterCreditsRemain": {
+    "title": "剩餘點數",
+    "noLimit": "無限制",
+    "lessThan": "小於",
+    "credits": "點數",
+    "labelNoLimit": "點數: 無限制",
+    "labelLess": "點數: 小於 ${value}",
+    "invalidValue": "輸入的值無效。"
+  },
+  "filterEmailVerification": {
+    "title": "電子郵件驗證狀態",
+    "unverified": "未驗證的電子郵件地址",
+    "verified": "驗證的電子郵件地址",
+    "label": "電子郵件驗證狀態: ${status}"
+  },
+  "filterLoginType": {
+    "title": "登入類型",
+    "label": "登入類型: ${type}",
+    "social": "社交"
+  },
+  "filterApp": {
+    "title": "應用程式",
+    "label": "應用程式: ${app}"
+  },
+  "filterMFA": {
+    "title": "多重身份驗證",
+    "enabled": "已啟用",
+    "disabled": "已停用",
+    "label": "多重身份驗證: ${status}"
+  },
+  "roles": {
+    "user": "使用者",
+    "publisher": "發佈者",
+    "admin": "管理員",
+    "viewer": "檢視器(V)",
+    "editor": "資料編輯者",
+    "facilitator": "主持人"
+  }
+}

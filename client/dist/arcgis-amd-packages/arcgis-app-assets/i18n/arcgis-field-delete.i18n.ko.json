@@ -1,0 +1,17 @@
+{
+  "cancel": "취소",
+  "deletePrompt": "레이어에서 이 필드를 삭제하시겠습니까?",
+  "deleteField": "필드 삭제",
+  "deleteFields": "필드 삭제",
+  "deletingField": "필드를 삭제하는 중...",
+  "newFeature": "새 피처",
+  "fieldDeleted": "필드를 성공적으로 삭제했습니다.",
+  "fieldDeletionUnsuccessful": "필드를 삭제하지 못했습니다.",
+  "fieldInUse": "이 필드가 다음 영역에서 사용되고 있습니다.",
+  "expressions": "식",
+  "popups": "팝업",
+  "forms": "양식",
+  "charts": "차트",
+  "deleteWarning": "레이어 등록정보를 구성하는 데 사용되는 필드를 삭제하면 동작이 변경될 수 있습니다.",
+  "learnMore": "자세한 정보"
+}

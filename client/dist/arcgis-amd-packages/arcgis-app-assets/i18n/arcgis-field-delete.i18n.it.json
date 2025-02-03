@@ -1,0 +1,17 @@
+{
+  "cancel": "Annulla",
+  "deletePrompt": "Eliminare questo campo dal layer?",
+  "deleteField": "Elimina campo",
+  "deleteFields": "Elimina campi",
+  "deletingField": "Eliminazione del campo...",
+  "newFeature": "Nuova feature",
+  "fieldDeleted": "Campo eliminato correttamente",
+  "fieldDeletionUnsuccessful": "Eliminazione campo non riuscita",
+  "fieldInUse": "Questo campo è in uso nelle seguenti aree:",
+  "expressions": "Espressioni",
+  "popups": "Popup",
+  "forms": "Forme",
+  "charts": "Grafici",
+  "deleteWarning": "L'eliminazione di un campo utilizzato per configurare le proprietà del layer potrebbe causare un cambiamento nel comportamento.",
+  "learnMore": "Ulteriori informazioni"
+}
